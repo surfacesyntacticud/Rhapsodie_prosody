@@ -8,8 +8,6 @@ python3.11 modification.py -i /Users/maria23paz/Documents/Stage/Prueba -o /Users
 _____
 
 '''
-
-
 import os
 import re
 import pandas as pd
@@ -115,7 +113,7 @@ def trans_syllabe(liste_draft, original, transformees):
     return liste_draft
 
 '''
-Ajoute la division en attaque, noyeau et coda de chaque syllabe à partir d'un fichier csv.
+Ajoute la division en  attaque, noyeau et coda de chaque syllabe à partir d'un fichier csv.
 '''
 def ajouter_division(liste_draft, transformees, divisees):
     pattern= re.compile(r'^Syl\d+$') 
@@ -176,7 +174,7 @@ def concatener_syllabes(liste_draft):
 
 
 '''
-Enlève le premier caractère des phoneticforms qui se trouvent dans un token ayant le trait "ExternalOnset=True" et le transfert au phoneticform précédent. 
+Enlève le premier caractère des phoneticsforms qui se trouvent dans un token ayant le trait "ExternalOnset=True" et le transfert au phoneticform précédent. 
 '''
 
 
@@ -204,15 +202,17 @@ def ajustement_external(liste_draft, liste_filename):
 
                 for i in range(len(tokens)):
                     dictionnaire_actuel = tokens[i]
-                    dictionnaire_precedent = tokens[i-1]
+                    dictionnaire_precedent = tokens[i-1] if i > 0 else None
+
 
                     for key in dictionnaire_actuel:
                         if pattern.match(key):
                             
+                            phonetic_form_actuelle = dictionnaire_actuel.get('phoneticform')
                             if not dictionnaire_precedent:
-                                phonetic_form_actuelle=dictionnaire_actuel.get('phoneticform')
-                                nouvelle_phform_actuel=phonetic_form_actuelle[1:]
-                                dictionnaire_precedent['phoneticform']=nouvelle_phform_actuel
+                                if phonetic_form_actuelle:
+                                    nouvelle_phform_actuel = phonetic_form_actuelle[1:]
+                                    dictionnaire_actuel['phoneticform'] = nouvelle_phform_actuel
                                 
                             if dictionnaire_precedent:
                                 
