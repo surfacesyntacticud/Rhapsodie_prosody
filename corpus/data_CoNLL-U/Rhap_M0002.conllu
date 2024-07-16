@@ -1,0 +1,295 @@
+# macrosyntax = donc < "euh" il y a une jeune fille habillée tout en noir qui "euh" (+ en se baladant dans la rue ) a vu une vitrine de pâtissier-boulanger //
+# sent_id = Rhap_M0002-1
+# text = donc, euh, il y a une jeune fille, euh, habillée tout en noir qui, euh, en se baladant dans la rue, a vu une, euh, vitrine de pâtissier-boulanger.
+1	donc	donc	ADV	_	_	7	mod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	euh	euh	INTJ	_	_	1	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	subj@expl	_	_
+6	y	y	PRON	_	Person=3|PronType=Prs	7	comp@expl	_	_
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	jeune	jeune	ADJ	_	Number=Sing	10	mod	_	_
+10	fille	fille	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	euh	euh	INTJ	_	_	10	discourse	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	habillée	habiller	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	mod	_	_
+15	tout	tout	ADV	_	_	16	mod	_	_
+16	en	en	ADP	_	_	14	mod	_	_
+17	noir	noir	NOUN	_	Gender=Masc|Number=Sing	16	comp:obj	_	_
+18	qui	qui	PRON	_	PronType=Rel	29	subj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	euh	euh	INTJ	_	_	18	discourse	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	18	punct	_	_
+22	en	en	ADP	_	_	29	mod	_	_
+23	se	soi	PRON	_	Person=3|PronType=Prs	24	comp@expl	_	_
+24	baladant	balader	VERB	_	Tense=Pres|VerbForm=Part	22	comp:obj	_	_
+25	dans	dans	ADP	_	_	22	mod	_	_
+26	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	rue	rue	NOUN	_	Gender=Fem|Number=Sing	25	comp:obj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	22	punct	_	_
+29	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	mod@relcl	_	_
+30	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	29	comp:aux@tense	_	_
+31	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	35	det	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	euh	euh	INTJ	_	_	31	discourse	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	31	punct	_	_
+35	vitrine	vitrine	NOUN	_	Gender=Fem|Number=Sing	30	comp:obj	_	_
+36	de	de	ADP	_	_	35	udep	_	_
+37	pâtissier	pâtissier	NOUN	_	Gender=Masc|Number=Sing	36	comp:obj	_	SpaceAfter=No
+38	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	37	flat@dev	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	7	punct	_	_
+
+# macrosyntax = ^et ^puis pendant qu'elle regardait cette vitrine <+ { il "euh" | il } y a quelqu'un qui arrivait pour livrer "euh" { du pain | ^et des gâteaux } //
+# sent_id = Rhap_M0002-2
+# text = et puis pendant qu'elle regardait cette vitrine, il, euh, il y a quelqu'un qui arrivait pour livrer, euh, du pain et des gâteaux.
+1	et	et	CCONJ	_	ExtPos=CCONJ	16	cc	_	Idiom=Yes
+2	puis	puis	CCONJ	_	_	1	unk	_	InIdiom=Yes
+3	pendant	pendant	ADP	_	_	16	mod	_	_
+4	qu'	que	SCONJ	_	_	3	comp:obj	_	SpaceAfter=No
+5	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	subj	_	_
+6	regardait	regarder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	comp:obj	_	_
+7	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	vitrine	vitrine	NOUN	_	Gender=Fem|Number=Sing	6	comp:obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	_
+10	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	subj@expl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	euh	euh	INTJ	_	_	10	discourse	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	conj:dicto	_	_
+15	y	y	PRON	_	Person=3|PronType=Prs	16	comp@expl	_	_
+16	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	comp:obj	_	_
+18	qui	qui	PRON	_	PronType=Rel	19	subj	_	_
+19	arrivait	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	mod@relcl	_	_
+20	pour	pour	ADP	_	_	19	mod	_	_
+21	livrer	livrer	VERB	_	VerbForm=Inf	20	comp:obj	_	SpaceAfter=No|Subject=NoRaising
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	euh	euh	INTJ	_	_	21	discourse	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art|Shared=No	26	det	_	_
+26	pain	pain	NOUN	_	Gender=Masc|Number=Sing	21	comp:obj	_	_
+27	et	et	CCONJ	_	_	29	cc	_	_
+28	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	29	det	_	_
+29	gâteaux	gâteau	NOUN	_	Gender=Masc|Number=Plur	26	conj:coord	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	16	punct	_	_
+
+# macrosyntax = ^et pendant qu'il était à l'intérieur de la boutique <+ il avait laissé son camion ouvert //
+# sent_id = Rhap_M0002-3
+# text = et pendant qu'il était à l'intérieur de la boutique, il avait laissé son camion ouvert.
+1	et	et	CCONJ	_	_	14	cc	_	_
+2	pendant	pendant	ADP	_	_	14	mod	_	_
+3	qu'	que	SCONJ	_	_	2	comp:obj	_	SpaceAfter=No
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	subj	_	_
+5	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	comp:obj	_	_
+6	à	à	ADP	_	_	5	comp:obl	_	_
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	intérieur	intérieur	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	_
+9	de	de	ADP	_	_	8	udep	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	boutique	boutique	NOUN	_	Gender=Fem|Number=Sing	9	comp:obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	subj	_	_
+14	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+15	laissé	laisser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	comp:aux@tense	_	_
+16	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	camion	camion	NOUN	_	Gender=Masc|Number=Sing	15	comp:obj	_	_
+18	ouvert	ouvert	ADJ	_	Gender=Masc|Number=Sing	15	comp:pred	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	14	punct	_	_
+
+# macrosyntax = "euh" elle en a profité pour { voler une baguette de pain | ^et s'enfuir } //
+# sent_id = Rhap_M0002-4
+# text = euh, elle en a profité pour, euh, voler une baguette de pain et s'enfuir.
+1	euh	euh	INTJ	_	_	6	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	_
+4	en	en	PRON	_	Person=3|PronType=Prs	6	comp:obj	_	_
+5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	profité	profiter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@tense	_	_
+7	pour	pour	ADP	_	_	5	mod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	euh	euh	INTJ	_	_	11	discourse	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	voler	voler	VERB	_	VerbForm=Inf	7	comp:obj	_	Subject=NoRaising
+12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	baguette	baguette	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	_
+14	de	de	ADP	_	_	13	udep	_	_
+15	pain	pain	NOUN	_	Gender=Masc|Number=Sing	14	comp:obj	_	_
+16	et	et	CCONJ	_	_	18	cc	_	_
+17	s'	soi	PRON	_	Person=3|PronType=Prs	18	comp@expl	_	SpaceAfter=No
+18	enfuir	enfuir	VERB	_	VerbForm=Inf	11	conj:coord	_	SpaceAfter=No|Subject=NoRaising
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# macrosyntax = ^mais à ce moment-là <+ il y a une dame { un peu plus âgée | avec un chapeau } qui l'a vue //
+# sent_id = Rhap_M0002-5
+# text = mais à ce moment-là, il y a une dame un peu plus âgée, avec un chapeau, qui l'a vue.
+1	mais	mais	CCONJ	_	_	9	cc	_	_
+2	à	à	ADP	_	_	9	mod	_	_
+3	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	moment	moment	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	SpaceAfter=No
+5	-là	là	ADV	_	_	4	mod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	subj@expl	_	_
+8	y	y	PRON	_	Person=3|PronType=Prs	9	comp@expl	_	_
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	dame	dame	NOUN	_	Gender=Fem|Number=Sing	9	comp:obj	_	_
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	InIdiom=Yes
+13	peu	peu	NOUN	_	ExtPos=ADV	14	mod	_	Idiom=Yes
+14	plus	plus	ADV	_	_	15	mod	_	_
+15	âgée	âgé	ADJ	_	Gender=Fem|Number=Sing	11	mod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	avec	avec	ADP	_	_	11	udep	_	_
+18	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	chapeau	chapeau	NOUN	_	Gender=Masc|Number=Sing	17	comp:obj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	qui	qui	PRON	_	PronType=Rel	23	subj	_	_
+22	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	24	comp:obj	_	SpaceAfter=No
+23	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	mod@relcl	_	_
+24	vue	voir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	23	comp:aux@tense	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	9	punct	_	_
+
+# macrosyntax = elle s'est mise à courir //
+# sent_id = Rhap_M0002-6
+# text = elle s'est mise à courir.
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	_
+2	s'	soi	PRON	_	Person=3|PronType=Prs	4	comp@expl	_	SpaceAfter=No
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mise	mettre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	comp:aux@tense	_	_
+5	à	à	ADP	_	_	4	comp:obl	_	_
+6	courir	courir	VERB	_	VerbForm=Inf	5	comp:obj	_	SpaceAfter=No|Subject=SubjRaising
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# macrosyntax = elle est rentrée "euh" dans Charlie Chaplin //
+# sent_id = Rhap_M0002-7
+# text = elle est rentrée, euh, dans Charlie Chaplin.
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj@pass	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	rentrée	rentrer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	comp:aux@pass	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	euh	euh	INTJ	_	_	3	discourse	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	dans	dans	ADP	_	_	3	comp:obl	_	_
+8	Charlie	Charlie	PROPN	_	_	7	comp:obj	_	_
+9	Chaplin	Chaplin	PROPN	_	_	8	flat@name	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ils sont tombés tous les deux //
+# sent_id = Rhap_M0002-8
+# text = et là ils sont tombés tous les deux.
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	là	là	ADV	_	_	4	mod	_	_
+3	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	subj	_	_
+4	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tombés	tomber	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	comp:aux@tense	_	_
+6	tous	tout	ADJ	_	Gender=Masc|Number=Plur	8	mod	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	deux	deux	NUM	_	Number=Plur	5	mod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# macrosyntax = la dame { plus âgée | avec le chapeau } l'a dénoncée ( d'abord ) au boulanger //
+# sent_id = Rhap_M0002-9
+# text = la dame plus âgée avec le chapeau l'a dénoncée, d'abord, au boulanger.
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	dame	dame	NOUN	_	Gender=Fem|Number=Sing	9	subj	_	_
+3	plus	plus	ADV	_	_	4	mod	_	_
+4	âgée	âgé	ADJ	_	Gender=Fem|Number=Sing	2	mod	_	_
+5	avec	avec	ADP	_	_	2	udep	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	chapeau	chapeau	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	_
+8	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	10	comp:obj	_	SpaceAfter=No
+9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	dénoncée	dénoncer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	comp:aux@tense	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	d'	de	ADP	_	_	9	mod	_	SpaceAfter=No
+13	abord	abord	NOUN	_	Gender=Masc|Number=Sing	12	comp:obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	au	au	ADP	_	_	10	comp:obl	_	_
+16	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	15	comp:obj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+# macrosyntax = ^puis "euh" comme ils étaient tous les deux par terre < le boulanger est arrivé avec la police //
+# sent_id = Rhap_M0002-10
+# text = puis, euh, comme ils étaient tous les deux par terre, le boulanger est arrivé avec la police.
+1	puis	puis	CCONJ	_	_	16	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	euh	euh	INTJ	_	_	16	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	comme	comme	SCONJ	_	_	16	mod	_	_
+6	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	subj	_	_
+7	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	comp:obj	_	_
+8	tous	tout	ADJ	_	Gender=Masc|Number=Plur	10	mod	_	_
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+10	deux	deux	NUM	_	Number=Plur	7	mod	_	_
+11	par	par	ADP	_	_	7	mod	_	_
+12	terre	terre	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	5	punct	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	boulanger	boulanger	NOUN	_	Gender=Masc|Number=Sing	16	subj	_	_
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	arrivé	arriver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	comp:aux@tense	_	_
+18	avec	avec	ADP	_	_	16	mod	_	_
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	police	police	NOUN	_	Gender=Fem|Number=Sing	18	comp:obj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	16	punct	_	_
+
+# macrosyntax = ils ont discuté //
+# sent_id = Rhap_M0002-11
+# text = ils ont discuté.
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	subj	_	_
+2	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	discuté	discuter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	comp:aux@tense	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# macrosyntax = ^et visiblement < même si c'est un film muet < "euh" on comprend que "euh" Charlie Chaplin s'accuse à la place de la jeune fille //+ ^qui ( donc ) "euh" reste "euh" { toute seule | fort étonnée } //
+# sent_id = Rhap_M0002-12
+# text = et visiblement, même si c'est un film muet, euh, on comprend que, euh, Charlie Chaplin s'accuse à la place de la jeune fille, qui, donc, euh, reste, euh, toute seule, fort étonnée.
+1	et	et	CCONJ	_	_	15	cc	_	_
+2	visiblement	visiblement	ADV	_	_	15	mod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	même	même	ADV	_	_	5	mod	_	_
+5	si	si	SCONJ	_	_	15	mod	_	_
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	subj	_	SpaceAfter=No
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	comp:obj	_	_
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	film	film	NOUN	_	Gender=Masc|Number=Sing	7	comp:pred	_	_
+10	muet	muet	ADJ	_	Gender=Masc|Number=Sing	9	mod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	euh	euh	INTJ	_	_	10	discourse	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	5	punct	_	_
+14	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	15	subj	_	_
+15	comprend	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	que	que	SCONJ	_	_	15	comp:obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	euh	euh	INTJ	_	_	16	discourse	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	Charlie	Charlie	PROPN	_	_	23	subj	_	_
+21	Chaplin	Chaplin	PROPN	_	_	20	flat@name	_	_
+22	s'	soi	PRON	_	Person=3|PronType=Prs	23	comp:obj	_	SpaceAfter=No
+23	accuse	accuser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	comp:obj	_	_
+24	à	à	ADP	_	_	23	mod	_	_
+25	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	place	place	NOUN	_	Gender=Fem|Number=Sing	24	comp:obj	_	_
+27	de	de	ADP	_	_	26	udep	_	_
+28	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+29	jeune	jeune	ADJ	_	Number=Sing	30	mod	_	_
+30	fille	fille	NOUN	_	Gender=Fem|Number=Sing	27	comp:obj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	38	punct	_	_
+32	qui	qui	PRON	_	PronType=Rel	38	subj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	donc	donc	ADV	_	_	32	discourse	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	euh	euh	INTJ	_	_	32	discourse	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	32	punct	_	_
+38	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	mod@relcl	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	euh	euh	INTJ	_	_	38	discourse	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	43	punct	_	_
+42	toute	toute	ADV	_	_	43	mod	_	_
+43	seule	seul	ADJ	_	Gender=Fem|Number=Sing	38	comp:obj	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	46	punct	_	_
+45	fort	fort	ADV	_	_	46	mod	_	_
+46	étonnée	étonner	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	43	conj:coord	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	15	punct	_	_
+

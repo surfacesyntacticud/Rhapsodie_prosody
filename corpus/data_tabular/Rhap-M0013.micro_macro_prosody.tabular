@@ -1,0 +1,362 @@
+Text_ID	Tree_ID	Token_ID	Token	Speaker	Word_span	Wordform	Lemma	POS	Mood	Tense	Person	Number	Gender	ID_dep	Type_dep	ID_plain	Type_plain	ID_junc	Type_junc	ID_para	Type_para	ID_inherited	Type_inherited	ID_junc_inherited	Type_junc_inherited	Layer	IU	Nucleus	Prenucleus	Gov_nucleus	Innucleus	Gov_innucleus	Postnucleus	Gov_postnucleus	IU_parenthesis	IU_graft	IU_embedded	Associated_nucleus	Intro_IU	Period	Period_tone	Package	Package_type	Package_tone	Group	Group_type	Group_tone	Foot	Foot_type	Foot_tone	Syllable	Syllable_tone	Prominence_initial	Prominence_final	Hesitation	Pause_length	Tmin	Tmax	Syllable_length	Syllable_length_avg	Pitch	Pitch_avg
+M0013			 			 	 																																																							
+M0013	1	1	alors	$L1	B	alors	alors	Adv						0	root	0	root									O	B	B	O	O	O	O	O	O	O	O	O	O	O	B	ml	B	included	ml	B	strong	ml	B	strong	ml	B	mm	0	W			0	0.21	130.0	181.31566666666666	83.06417081873946	81.79707026613164
+M0013	1	2	 			 	 																																																							
+M0013	1	3	à	$L1	B	à	à	Pre						0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	ml	I	strong	ml	I	strong	ml	L	mm	0	0			0.21	0.340767	160.767	171.06	82.4522727717782	82.10301928961226
+M0013	1	4	 			 	 																																																							
+M0013	1	5	pied	$L1	B	pied	pied	N				sg	masc	3	dep	3	dep									O	L	L	O	O	O	O	O	O	O	O	O	O	O	L	ml	L	included	ml	L	strong	ml	L	strong	ml	U	ml	S	S		0.413596	0.340767	0.673947	333.17999999999995	145.3835	81.14186776048508	82.75822179525883
+M0013			 			 	 																																																							
+M0013	2	1	ben	$L1	B	ben	ben	I						0	root	0	root									O	B	O	O	B	O	O	O	O	O	O	O	U	O	B	mm	B	motherless	mm	B	weak	mm	B	weak	mm	U	ml	_	0			1.087543	1.303031	215.4880000000001	292.256	82.85739715245718	83.45720099354793
+M0013	2	2	 			 	 																																																							
+M0013	2	3	pour	$L1	B	pour	pour	Pre						17	ad	17	ad									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mm	L	motherless	mm	L	weak	mm	L	weak	mm	U	mm	W	W			1.303031	1.593281	290.2499999999999	207.38066666666674	83.19171909716654	83.4565489746841
+M0013	2	4	 			 	 																																																							
+M0013	2	5	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	O	O	I	O	O	O	O	O	O	O	U	O	I	mm	U	motherless-dis-weak	mm	U	dis-weak	mm	U	dis-weak	mm	U	mm	W	W	H		1.593281	1.887543	294.262	271.4345	83.7226828899293	83.4845741612129
+M0013	2	6	 			 	 																																																							
+M0013	2	7	aller	$L1	B	aller	aller	V	infinitive					3	dep	3	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mm	U	motherless-dis-weak	mm	U	dis-weak	mm	U	dis-weak	mm	U	mm	0	W	H		1.887543	2.467543	467.608	160.32774999999998	84.09961351356213	83.71856968185087
+M0013	2	8	 			 	 																																																							
+M0013	2	9	à	$L1	B	à	à	Pre						7	obl	7	obl									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mm	B	lone	mh	B	strong	mh	B	strong	mh	U	mm	0	0			2.467543	2.527543	60.00000000000006	259.26975	83.50829559601857	84.67720273781066
+M0013	2	10	 			 	 																																																							
+M0013	2	11	la	$L1	B	la	le	D				sg	fem	13	dep	13	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mm	I	lone	mh	I	strong	mh	I	strong	mh	U	mm	0	0			2.527543	2.7022	174.65699999999984	237.323	83.85373335978983	85.10139759377253
+M0013	2	12	 			 	 																																																							
+M0013	2	13	gare	$L1	B	gare	gare	N				sg	fem	9	dep	9	dep									O	I	O	O	L	O	O	O	O	O	O	O	O	O	I	mm	L	lone	mh	L	strong	mh	L	strong	mh	U	mhH3	S	S			2.7022	2.984622	282.42199999999997	135.86050000000006	86.96589719622494	84.22604083265054
+M0013	2	14	 			 	 																																																							
+M0013	2	15	vous	$L1	B	vous	vous	Cl			2	pl		17	sub	17	sub									O	I	B	O	O	O	O	O	O	O	O	O	O	O	I	mm	B	filled-dis	hm	B	filled-dis	hm	B	filled-dis	hm	U	hm	0	0			2.984622	3.123884	139.262	244.45424999999997	85.83178406928451	84.19771260174466
+M0013	2	16	 			 	 																																																							
+M0013	2	17	allez	$L1	B	allez	aller	V	indicative	present	2	pl		0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	L	filled-dis	hm	L	filled-dis	hm	L	filled-dis	hm	U	mm	0	W			3.123884	3.644622	351.2149999999998	202.92833333333337	82.26086954545451	83.68018923947466
+M0013	2	18	 			 	 																																																							
+M0013	2	19	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	U	O	I	mm	U	filled-pause	mm	U	filled-pause	mm	U	filled-pause	mm	U	mm	W	W	H	0.375732	3.644622	3.944622	299.99999999999983	260.3690000000001	81.49843334363014	82.9856099254819
+M0013	2	20	 			 	 																																																							
+M0013	2	21	vous	$L1	B	vous	vous	Cl			2	pl		23	obj	23	obj									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	B	included	mmh2	B	weak	mh	U	weak	mm	U	mm	_	0			4.320354	4.387531	67.17700000000005	133.49149999999986	82.90880927457364	84.54813032159772
+M0013	2	22	 			 	 																																																							
+M0013	2	23	éloigner	$L1	B	éloigner	éloigner	V	infinitive					17	pred	17	pred									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	I	included	mmh2	L	weak	mh	U	weak	mh	U	hh	W	W			4.387531	4.790354	135.83999999999997	163.76075	85.48934453801087	84.67094078605228
+M0013	2	24	 			 	 																																																							
+M0013	2	25	du	$L1	B	de+le	de+le	Pre+D				sg	masc	23	obl	23	obl									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	L	included	mmh2	U	strong	hm	U	strong	hm	U	hm	0	0			4.790354	4.890354	100.00000000000054	227.49025	85.29577078343053	84.35705977186663
+M0013	2	26	 			 	 																																																							
+M0013	2	27	tram	$L1	B	tram	tram	N				sg	masc	25	dep	25	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	B	motherless-dis-weak	mm	B	dis-weak	mm	B	dis-weak	mm	B	ml	S	S			4.890354	5.259519	288.0599999999998	195.01025000000016	84.29173171758322	83.79574182700198
+M0013	2	28	 			 	 																																																							
+M0013	2	29	en	$L1	B	en	en	Pre						23	ad	23	ad									U	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	I	motherless-dis-weak	mm	I	dis-weak	mm	I	dis-weak	mm	L	ml	0	0	H		5.259519	5.510315	331.90100000000024	175.08999999999997	82.45146230772377	83.55678491851407
+M0013	2	30	 			 	 																																																							
+M0013	2	31	en	$L1	B	en	en	Pre						29	para_disfl					29	para_disfl	23	ad_inherited			U	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	I	motherless-dis-weak	mm	I	dis-weak	mm	I	dis-weak	mm	U	mm	0	0			5.510315	5.722615	212.29999999999993	272.49024999999995	81.94638967884273	83.09878667362314
+M0013	2	32	 			 	 																																																							
+M0013	2	33	longeant	$L1	B	longeant	longer	V	present_participle					31	dep	31	dep					29	dep_inherited			O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	L	motherless-dis-weak	mm	L	dis-weak	mm	L	dis-weak	mm	U	mm	0	W	H		5.722615	6.192615	370.0000000000001	275.57499999999993	82.95870517498574	81.99475858179943
+M0013	2	34	 			 	 																																																							
+M0013	2	35	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	U	O	I	mm	B	lone	mH	B	strong	mH	B	weak	mm	U	ml	0	0	H		6.192615	6.652615	459.99999999999994	237.50000000000006	81.41842085114274	82.46717522843223
+M0013	2	36	 			 	 																																																							
+M0013	2	37	le	$L1	B	le	le	D				sg	masc	39	para_disfl					39	para_disfl	41	dep_inherited			U	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	I	lone	mH	I	strong	mH	I	weak	mm	U	mm	0	0	H		6.652615	6.982615	330.00000000000006	292.5	81.9209763030124	82.22337938558235
+M0013	2	38	 			 	 																																																							
+M0013	2	39	le	$L1	B	le	le	D				sg	masc	41	dep	41	dep									U	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mm	I	lone	mH	I	strong	mH	L	weak	mm	U	mm	0	0			6.982615	7.132615	150.00000000000034	267.49999999999983	82.29577194153089	81.87808168157588
+M0013	2	40	 			 	 																																																							
+M0013	2	41	cinéma	$L1	B	cinéma	cinéma	N				sg	masc	33	obj	33	obj									O	L	L	O	O	O	O	O	O	O	O	O	O	O	L	mm	L	lone	mH	L	strong	mH	U	strong	mH	U	mH	W	S		0.685283	7.132615	7.655312	242.6970000000006	139.9999999999997	86.31683187373477	82.08646478607419
+M0013			 			 	 																																																							
+M0013	3	1	et	$L1	B	et	et	J						0	root	0	root									O	B	O	O	O	O	O	O	O	O	O	O	O	U	B	mmm1	U	lone	hm	U	strong	hm	U	strong	hm	U	hm	_	S			8.340595	8.712383	371.78800000000047	430.5464999999993	83.6982172803091	82.02946840021465
+M0013	3	2	 			 	 																																																							
+M0013	3	3	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	O	B	O	O	O	O	O	O	O	O	U	O	I	mmm1	B	included	mh	B	weak	mm	B	weak	mm	U	mm	0	0	H		8.712383	9.184394	472.0109999999984	410.5960000000006	81.93277653059306	82.5791932296426
+M0013	3	4	 			 	 																																																							
+M0013	3	5	donc	$L1	B	donc	donc	Adv						0	root	0	root									O	I	O	L	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mh	L	weak	mm	L	weak	mm	U	mm	W	W			9.184394	9.573476	389.08200000000016	366.1792500000001	82.12616026983623	82.41736984070864
+M0013	3	6	 			 	 																																																							
+M0013	3	7	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	B	O	O	O	O	O	O	O	O	O	U	O	I	mmm1	I	included	mh	B	weak	mm	B	weak	mm	U	mm	0	0	H		9.573476	10.044394	470.91800000000103	310.2732499999994	81.91320213878245	82.2384616961894
+M0013	3	8	 			 	 																																																							
+M0013	3	9	vous	$L1	B	vous	vous	Cl			2	pl		11	sub	11	sub									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mh	I	weak	mm	I	weak	mm	U	mm	0	0			10.044394	10.194394	150.00000000000034	359.9999999999999	82.12528341314996	82.54627940789379
+M0013	3	10	 			 	 																																																							
+M0013	3	11	suivez	$L1	B	suivez	suivre	V	indicative	present	2	pl		1	dep	1	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mh	L	weak	mm	L	weak	mm	U	mm	0	W			10.194394	10.774394	349.99999999999966	214.10349999999977	83.37612865177815	82.43232548633083
+M0013	3	12	 			 	 																																																							
+M0013	3	13	cette	$L1	B	cette	ce	D				sg	fem	15	dep	15	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mh	B	weak	mm	B	weak	mm	U	mm	0	0			10.774394	11.034394	180.00000000000148	304.23724999999945	82.66352946129622	82.69933130998652
+M0013	3	14	 			 	 																																																							
+M0013	3	15	avenue	$L1	B	avenue	avenue	N				sg	fem	11	obj	11	obj									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mh	L	weak	mm	L	weak	mm	U	mm	0	W			11.034394	11.591343	340.53500000000093	244.86624999999984	82.48070751729085	82.17297117444453
+M0013	3	16	 			 	 																																																							
+M0013	3	17	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	U	O	I	mmm1	I	included	mh	B	strong	mh	B	strong	mh	U	ml	0	0	H		11.591343	11.824394	233.05099999999968	348.37624999999986	81.79158437246261	82.97373425470383
+M0013	3	18	 			 	 																																																							
+M0013	3	19	tout	$L1	B	tout	tout	Adj				sg	masc	23	dep	23	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mh	I	strong	mh	I	strong	mh	B	mm	0	0			11.824394	12.024394	269.99999999999955	287.5355000000002	82.0659083643205	83.2148910690951
+M0013	3	20	 			 	 																																																							
+M0013	3	21	le	$L1	B	le	le	D				sg	masc	23	dep	23	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mh	I	strong	mh	I	strong	mh	L	mm	S	0			12.024394	12.094394	269.99999999999955	287.5355000000002	82.0659083643205	83.2148910690951
+M0013	3	22	 			 	 																																																							
+M0013	3	23	long	$L1	B	long	long	N				sg	masc	11	ad	11	ad									O	L	L	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	L	included	mh	L	strong	mh	L	strong	mh	U	mh	S	S			12.094394	12.58095	486.5560000000002	235.7627499999997	85.17745863750514	82.18301816291357
+M0013			 			 	 																																																							
+M0013	4	1	elle	$L1	B	elle	elle	Cl			3	sg	fem	3	sub	3	sub									O	B	B	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	B	included	mHl3	B	weak	mm	B	weak	mm	U	hl	0	0			12.58095	12.67095	89.99999999999986	312.38575000000026	83.40981374912178	82.51546583729015
+M0013	4	2	 			 	 																																																							
+M0013	4	3	fait	$L1	B	fait	faire	V	indicative	present	3	sg		0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mHl3	L	weak	mm	L	weak	mm	U	mm	W	W			12.67095	13.02095	349.99999999999966	221.8220000000004	81.46476616574938	82.90894348089586
+M0013	4	4	 			 	 																																																							
+M0013	4	5	un	$L1	B	un	un	D				sg	masc	9	dep	9	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mHl3	B	weak	mh	B	weak	mh	U	ml	0	0			13.02095	13.163937	142.98700000000153	219.25324999999953	81.35373018158558	82.65855228110706
+M0013	4	6	 			 	 																																																							
+M0013	4	7	petit	$L1	B	petit	petit	Adj				sg	masc	9	dep	9	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mHl3	L	weak	mh	L	weak	mh	U	mm	0	0			13.163937	13.331682	167.74500000000003	210.14800000000022	81.69477135537099	82.96772317542926
+M0013	4	8	 			 	 																																																							
+M0013	4	9	coude	$L1	B	coude	coude	N				sg	masc	3	obj	3	obj									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mHl3	B	weak	hml2	B	weak	hml2	B	hm	W	W			13.331682	13.639191	269.2679999999985	110.11175000000063	84.06485785418612	82.76503656531175
+M0013	4	10	 			 	 																																																							
+M0013	4	11	à	$L1	B	à	à	Pre						3	ad	3	ad									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mHl3	I	weak	hml2	I	weak	hml2	L	hm	0	0			13.639191	13.679287	78.33700000000121	157.22899999999962	84.98753850019602	82.81081729350936
+M0013	4	12	 			 	 																																																							
+M0013	4	13	un	$L1	B	un	un	D				sg	masc	15	dep	15	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mHl3	I	weak	hml2	I	weak	hml2	U	mm	0	0			13.679287	13.730665	51.3779999999997	187.5095	83.02410622409437	83.8595126735956
+M0013	4	14	 			 	 																																																							
+M0013	4	15	moment	$L1	B	moment	moment	N				sg	masc	11	dep	11	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mmm1	I	included	mHl3	L	weak	hml2	L	weak	hml2	U	lmh2	0	W			13.730665	14.133098	261.908	111.80449999999986	83.9261205996143	82.35080746685625
+M0013	4	16	 			 	 																																																							
+M0013	4	17	vous	$L1	B	vous	vous	Cl			2	pl		19	sub	19	sub									O	I	I	O	O	O	O	O	O	O	O	O	B	O	I	mmm1	I	included	mHl3	B	strong	mH	B	strong	mH	U	ml	0	0			14.133098	14.220555	87.45699999999879	206.36825000000013	82.68305600856863	82.96601209796975
+M0013	4	18	 			 	 																																																							
+M0013	4	19	verrez	$L1	B	verrez	voir	V	indicative	future	2	pl		0	root	0	root									O	L	L	O	O	O	O	O	O	O	O	O	L	O	L	mmm1	L	included	mHl3	L	strong	mH	L	strong	mH	U	lH	0	S		0.574528000000001	14.220555	14.643595	255.18199999999956	127.65749999999976	84.2418601575026	81.95979495147235
+M0013			 			 	 																																																							
+M0013	5	1	et	$L1	B	et	et	J						0	root	0	root									O	B	O	O	O	O	O	O	O	O	O	O	O	U	B	mHl1	U	lone	mm	U	strong	mm	U	strong	mm	U	mm	_	S			15.218123	15.538123	320.0000000000003	374.9999999999991	82.8008751197435	81.15458127104756
+M0013	5	2	 			 	 																																																							
+M0013	5	3	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	O	B	O	O	O	O	O	O	O	O	U	O	I	mHl1	U	motherless-dis-weak	ml	U	dis-weak	ml	U	dis-weak	ml	U	ml	W	W	H		15.538123	15.998123	459.9999999999991	253.33333333333385	81.2124070486424	81.75622567333102
+M0013	5	4	 			 	 																																																							
+M0013	5	5	donc	$L1	B	donc	donc	Adv						0	root	0	root									O	I	O	L	O	O	O	O	O	O	O	O	O	O	I	mHl1	B	included	lh	B	weak	lm	B	weak	lm	U	ll	0	0			15.998123	16.288123	289.99999999999915	269.52299999999997	81.0967554934527	81.68620866774536
+M0013	5	6	 			 	 																																																							
+M0013	5	7	vous	$L1	B	vous	vous	Cl			2	pl		9	sub	9	sub									O	I	B	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	I	included	lh	I	weak	lm	I	weak	lm	U	ml	0	0			16.288123	16.438123	150.00000000000213	262.4999999999997	81.37104640679685	81.17130614540935
+M0013	5	8	 			 	 																																																							
+M0013	5	9	passez	$L1	B	passez	passer	V	indicative	present	2	pl		1	dep	1	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	I	included	lh	L	weak	lm	L	weak	lm	U	lm	0	W			16.438123	16.738123	151.90800000000237	99.52299999999958	81.01555594374355	81.19495818979243
+M0013	5	10	 			 	 																																																							
+M0013	5	11	à	$L1	B	à	à	Pre						9	obl	9	obl									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	I	included	lh	B	strong	mm	B	strong	mm	U	ml	0	0			16.738123	16.768123	29.999999999997584	132.50000000000028	81.05865002596163	81.04931419106464
+M0013	5	12	 			 	 																																																							
+M0013	5	13	côté	$L1	B	côté	côté	N				sg	masc	11	dep	11	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	I	included	lh	I	strong	mm	I	strong	mm	U	ml	0	0			16.768123	16.998123	160.00000000000014	177.49999999999932	80.83156449410374	81.6382036816576
+M0013	5	14	 			 	 																																																							
+M0013	5	15	de	$L1	B	de	de	Pre						13	dep	13	dep									B	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	I	included	lh	I	strong	mm	I	strong	mm	U	ll	0	0			16.998123	17.127076	128.9529999999992	213.6755000000008	81.17334907385661	81.97012723179812
+M0013	5	16	 			 	 																																																							
+M0013	5	17	la	$L1	B	la	le	D				sg	fem	19	dep	19	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	L	included	lh	L	strong	mm	L	strong	mm	U	mm	S	0			17.127076	17.238123	128.9529999999992	213.6755000000008	81.17334907385661	81.97012723179812
+M0013	5	18	 			 	 																																																							
+M0013	5	19	poste	$L1	B	poste	poste	N				sg	fem	15	dep	15	dep									L	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	B	lone	mH	B	strong	mH	B	weak	ml	B	ml	S	S			17.238123	17.661778	481.04700000000025	144.54350000000017	83.3311853961996	81.51664612421594
+M0013	5	20	 			 	 																																																							
+M0013	5	21	et	$L1	B	et caetera	et caetera	J						19	para_hyper					19	para_hyper					B	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mHl1	I	lone	mH	I	strong	mH	L	weak	ml	L	ml	0	0			17.661778	17.751778	143.65500000000253	222.83974999999944	82.72812880627657	81.67179473502338
+M0013	5	22	 		I																																																									
+M0013	5	23	caetera	$L1	I																					L	L	L	O	O	O	O	O	O	O	O	O	O	O	L	mHl1	L	lone	mH	L	strong	mH	U	strong	lh	U	lh	W	S		0.232680999999999	17.751778	18.388024	354.88700000000154	140.67949999999917	86.30618029151945	81.09132223501865
+M0013			 			 	 																																																							
+M0013	6	1	et	$L1	B	et	et	J						0	root	0	root									O	B	O	O	O	O	O	O	O	O	O	O	O	U	B	hm	U	lone	mh	U	strong	mh	U	strong	mh	U	mh	_	S			18.620705	18.980705	359.99999999999943	95.00000000000064	85.95737516184806	84.03036650301117
+M0013	6	2	 			 	 																																																							
+M0013	6	3	au	$L1	B	à+le	à+le	Pre+D				sg	masc	15	ad	15	ad									O	I	O	O	B	O	O	O	O	O	O	O	O	O	I	hm	B	included	mmm2	B	weak	mhm3	B	weak	mhm3	U	mm	0	0			18.980705	19.050705	70.00000000000028	196.66666666666663	84.62521357676931	83.87108194055817
+M0013	6	4	 			 	 																																																							
+M0013	6	5	bout	$L1	B	bout	bout	N				sg	masc	3	dep	3	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	I	weak	mhm3	I	weak	mhm3	U	mm	0	0			19.050705	19.170705	120.000000000001	176.00699999999935	83.435519429253	84.04286469418952
+M0013	6	6	 			 	 																																																							
+M0013	6	7	d	$L1	B	d'	de	Pre						5	dep	5	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	I	weak	mhm3	I	weak	mhm3	B	mm	0	0			19.170705	19.210705	120.000000000001	176.00699999999935	83.435519429253	84.04286469418952
+M0013	6	8	'	$L1	I																					O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	I	weak	mhm3	I	weak	mhm3	I	mm	0	0			19.170705	19.210705	120.000000000001	176.00699999999935	83.435519429253	84.04286469418952
+M0013	6	9	un	$L1	B	un	un	D				sg	masc	11	dep	11	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	I	weak	mhm3	I	weak	mhm3	L	mm	0	0			19.210705	19.280705	109.99999999999943	103.50700000000046	82.22035123057343	84.34899557164252
+M0013	6	10	 			 	 																																																							
+M0013	6	11	temps	$L1	B	temps	temps	N				sg	masc	7	dep	7	dep									O	I	O	O	L	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	L	weak	mhm3	L	weak	mhm3	U	hh	W	W			19.280705	19.444733	164.0279999999983	100.00000000000054	83.36851880756728	83.81580106597775
+M0013	6	12	 			 	 																																																							
+M0013	6	13	vous	$L1	B	vous	vous	Cl			2	pl		15	sub	15	sub									O	I	B	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	B	weak	hmm2	B	weak	hmm2	U	hm	0	0			19.444733	19.504733	60.000000000002274	113.50699999999935	85.96673047298043	82.94733761821837
+M0013	6	14	 			 	 																																																							
+M0013	6	15	allez	$L1	B	allez	aller	V	indicative	present	2	pl		1	dep	1	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	I	weak	hmm2	I	weak	hmm2	U	mm	0	0			19.504733	19.684733	70.00000000000028	75.00000000000017	82.55987730362868	83.6857186588357
+M0013	6	16	 			 	 																																																							
+M0013	6	17	arriver	$L1	B	arriver	arriver	V	infinitive					15	pred	15	pred									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	L	weak	hmm2	L	weak	hmm2	U	mm	0	W			19.684733	19.924733	109.99999999999943	94.99999999999974	82.3633195294718	82.48470341716292
+M0013	6	18	 			 	 																																																							
+M0013	6	19	sur	$L1	B	sur	sur	Pre						17	obl	17	obl									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	B	weak	mm	B	weak	mm	B	mm	0	0			19.924733	20.104733	149.99999999999858	132.50000000000028	82.2557580322537	82.52699902562931
+M0013	6	20	 			 	 																																																							
+M0013	6	21	une	$L1	B	une	un	D				sg	fem	25	dep	25	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	I	weak	mm	I	weak	mm	L	mm	0	0			20.104733	20.174733	100.00000000000142	237.07874999999933	82.54751460513972	82.72372232760293
+M0013	6	22	 			 	 																																																							
+M0013	6	23	grande	$L1	B	grande	grand	Adj				sg	fem	25	dep	25	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mmm2	L	weak	mm	L	weak	mm	U	mm	W	W			20.174733	20.434733	260.0000000000016	177.07874999999973	82.71595034356955	82.7448000156861
+M0013	6	24	 			 	 																																																							
+M0013	6	25	place	$L1	B	place	place	N				sg	fem	19	dep	19	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	L	included	mmm2	U	strong	hm	U	strong	hm	U	hm	S	S			20.434733	20.863048	428.3149999999978	117.5000000000006	83.55986140511664	82.5436853439233
+M0013	6	26	 			 	 																																																							
+M0013	6	27	avec	$L1	B	avec	avec	Pre						25	dep	25	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	B	lone	mH	B	strong	mH	B	weak	mm	B	mm	0	0			20.863048	21.08512	160.00000000000014	109.13775000000037	81.93743880649018	82.3788291733348
+M0013	6	28	 			 	 																																																							
+M0013	6	29	une	$L1	B	une	un	D				sg	fem	31	dep	31	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	lone	mH	I	strong	mH	L	weak	mm	L	mm	0	0			21.08512	21.133048	160.00000000000014	109.13775000000037	81.93743880649018	82.3788291733348
+M0013	6	30	 			 	 																																																							
+M0013	6	31	fontaine	$L1	B	fontaine	fontaine	N				sg	fem	27	dep	27	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	lone	mH	I	strong	mH	B	strong	mH	B	mm	0	0			21.133048	21.533048	103.44899999999768	186.61100000000096	82.39484173717753	83.3162462781672
+M0013	6	32	 			 	 																																																							
+M0013	6	33	au	$L1	B	à+le	à+le	Pre+D				sg	masc	31	dep	31	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	lone	mH	I	strong	mH	I	strong	mH	L	mm	0	0			21.533048	21.563048	103.44899999999768	186.61100000000096	82.39484173717753	83.3162462781672
+M0013	6	34	 			 	 																																																							
+M0013	6	35	milieu	$L1	B	milieu	milieu	N				sg	masc	33	dep	33	dep									O	L	L	O	O	O	O	O	O	O	O	O	O	O	I	hm	L	lone	mH	L	strong	mH	L	strong	mH	U	mh	0	S			21.563048	21.982941	259.89300000000173	142.22299999999956	85.79158043035557	83.48564937146698
+M0013			 			 	 																																																							
+M0013	7	1	c	$L1	B	c'	ce	Cl			3	sg	masc	3	sub	3	sub									O	B	B	O	O	O	O	O	O	O	O	O	O	O	I	hm	B	included	mH	B	weak	mm	B	weak	mm	B	hm	0	0			21.982941	22.133486	190.5450000000002	192.47324999999992	85.81676729880112	83.28406073604005
+M0013	7	2	'	$L1	I																					O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mH	I	weak	mm	I	weak	mm	I	hm	0	0			21.982941	22.133486	190.5450000000002	192.47324999999992	85.81676729880112	83.28406073604005
+M0013	7	3	est	$L1	B	est	être	V	indicative	present	3	sg		0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mH	I	weak	mm	I	weak	mm	L	hm	0	0			22.133486	22.173486	190.5450000000002	192.47324999999992	85.81676729880112	83.28406073604005
+M0013	7	4	 			 	 																																																							
+M0013	7	5	la	$L1	B	la	le	D				sg	fem	7	dep	7	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mH	I	weak	mm	I	weak	mm	U	ml	0	0			22.173486	22.288384	114.89800000000017	201.38500000000016	82.86162403393118	83.67080083718335
+M0013	7	6	 			 	 																																																							
+M0013	7	7	place	$L1	B	place	place	N				sg	fem	3	pred	3	pred									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mH	L	weak	mm	L	weak	mm	U	mm	W	W			22.288384	22.523486	235.1019999999977	146.36075000000037	81.61367406391534	82.76394965445986
+M0013	7	8	 			 	 																																																							
+M0013	7	9	Victor	$L1	B	Victor	Victor	N				sg	fem	7	dep	7	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	hm	I	included	mH	B	strong	mHl2	B	strong	lH	U	ll	0	W			22.523486	22.833486	160.00000000000014	158.77549999999997	80.91622572944583	82.03090561185263
+M0013	7	10	 			 	 																																																							
+M0013	7	11	Hugo	$L1	B	Hugo	Hugo	N				sg	fem	9	dep	9	dep									O	L	L	O	O	O	O	O	O	O	O	O	O	O	L	hm	L	included	mH	L	strong	mHl2	L	strong	lH	U	lH	0	S		0.741084000000001	22.833486	23.083486	219.99999999999886	110.00000000000121	84.51963313110417	80.72267971308773
+M0013			 			 	 																																																							
+M0013	8	1	et	$L1	B	et	et	J						0	root	0	root									O	B	O	O	O	O	O	O	O	O	O	O	O	U	B	ml	U	lone	mm	U	strong	mm	U	strong	mm	U	mm	_	S			23.82457	24.077099	252.52899999999912	213.69649999999928	83.07278957735133	81.61639091584786
+M0013	8	2	 			 	 																																																							
+M0013	8	3	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	O	B	O	O	O	O	O	O	O	O	U	O	I	ml	U	motherless-dis-weak	ml	U	dis-weak	ml	U	dis-weak	ml	U	ml	W	W	H		24.077099	24.350102	273.00299999999925	353.17533333333273	81.65852697377196	82.0043737942489
+M0013	8	4	 			 	 																																																							
+M0013	8	5	donc	$L1	B	donc	donc	Adv						0	root	0	root									O	I	O	L	O	O	O	O	O	O	O	O	O	O	I	ml	B	motherless-dis-weak	ll	B	dis-weak	ll	B	dis-weak	ll	B	mm	0	0			24.350102	24.625981	154.38999999999936	332.03475000000003	81.57425485792376	81.91654854981854
+M0013	8	6	 			 	 																																																							
+M0013	8	7	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	B	O	O	O	O	O	O	O	O	O	U	O	I	ml	L	motherless-dis-weak	ll	L	dis-weak	ll	L	dis-weak	ll	L	mm	W	W	H		24.625981	25.157099	652.6069999999997	176.84824999999992	81.36607694747161	81.69466569613623
+M0013	8	8	 			 	 																																																							
+M0013	8	9	vous	$L1	B	vous	vous	Cl			2	pl		11	sub	11	sub									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	B	included	mm	B	weak	ml	B	weak	ml	U	mm	0	0			25.157099	25.307099	150.00000000000213	271.74924999999917	81.5688007006793	81.78081230024428
+M0013	8	10	 			 	 																																																							
+M0013	8	11	rencontrez	$L1	B	rencontrez	rencontrer	V	indicative	present	2	pl		1	dep	1	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mm	L	weak	ml	L	weak	ml	U	mm	0	W			25.307099	25.777099	190.00000000000128	129.9999999999999	82.4443766350008	82.13842693762872
+M0013	8	12	 			 	 																																																							
+M0013	8	13	à	$L1	B	à	à	Pre						11	ad	11	ad									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mm	B	strong	mm	B	strong	mm	U	mm	0	0			25.777099	25.873896	96.79699999999869	143.30075000000076	82.27183401850411	82.14347941009811
+M0013	8	14	 			 	 																																																							
+M0013	8	15	ce	$L1	B	ce	ce	D				sg	masc	17	dep	17	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mm	I	strong	mm	I	strong	mm	U	mm	0	0			25.873896	26.017099	143.2030000000033	109.19924999999964	82.09895633642907	82.0346609634486
+M0013	8	16	 			 	 																																																							
+M0013	8	17	moment	$L1	B	moment	moment	N				sg	masc	13	dep	13	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mm	I	strong	mm	I	strong	mm	B	ml	0	S			26.017099	26.167099	208.64500000000064	198.45374999999964	81.2209006493836	81.03303022174859
+M0013	8	18	-	$L1	B	-là	là	Adv						17	dep	17	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mm	I	strong	mm	I	strong	mm	L	ml	0	S			26.017099	26.167099	208.64500000000064	198.45374999999964	81.2209006493836	81.03303022174859
+M0013	8	19	là	$L1	I																					O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	L	included	mm	L	strong	mm	L	strong	mm	U	lm	0	S			26.167099	26.375744	208.64500000000064	198.45374999999964	81.2209006493836	81.03303022174859
+M0013	8	20	 			 	 																																																							
+M0013	8	21	le	$L1	B	le	le	D				sg	masc	23	para_disfl					23	para_disfl	25	dep_inherited			U	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	U	lone-dis-strong	ml	U	dis-strong	ml	U	dis-strong	ml	U	ml	S	S	H		26.375744	26.849559	473.81499999999835	179.23699999999965	80.48663344155676	82.06886806736003
+M0013	8	22	 			 	 																																																							
+M0013	8	23	le	$L1	B	le	le	D				sg	masc	25	dep	25	dep									U	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	B	tail	llH2	B	tail	llH2	U	strong	lH	U	ll	0	0			26.849559	27.019559	170.0000000000017	303.8814999999993	80.22305424514812	82.92797864691478
+M0013	8	24	 			 	 																																																							
+M0013	8	25	tram	$L1	B	tram	tram	N				sg	masc	11	obj	11	obj									O	I	I	O	O	O	O	O	O	O	O	O	O	O	L	ml	L	tail	llH2	L	tail	llH2	U	tail	Hl	U	Hl	S	0		0.558429	27.019559	27.552625	254.76300000000052	224.1514999999996	84.7705487965491	82.72844297265891
+M0013	8	26	 			 	 																																																							
+M0013	8	27	que	$L1	B	que	que	Qu						33	obj	33	obj									B	I	I	O	O	O	O	O	O	O	O	O	O	O	B	mH	B	included	mH	B	weak	mm	B	weak	mm	U	mm	_	0			28.111054	28.311054	199.9999999999993	165.0000000000009	83.56798127927986	83.21370469188682
+M0013	8	28	 			 	 																																																							
+M0013	8	29	vous	$L1	B	vous	vous	Cl			2	pl		31	sub	31	sub									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	I	included	mH	I	weak	mm	I	weak	mm	U	mm	0	0			28.311054	28.481054	170.0000000000017	163.3333333333328	83.02569684771635	83.73192790438951
+M0013	8	30	 			 	 																																																							
+M0013	8	31	pouvez	$L1	B	pouvez	pouvoir	V	indicative	present	2	pl		25	dep	25	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	I	included	mH	L	weak	mm	L	weak	mm	U	mm	0	W			28.481054	28.771054	129.999999999999	221.630750000001	84.22608989783136	84.79309669043383
+M0013	8	32	 			 	 																																																							
+M0013	8	33	longer	$L1	B	longer	longer	V	infinitive			pl		31	pred	31	pred									L	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	L	included	mH	U	strong	mH	U	strong	hH	U	hH	S	S			28.771054	29.327577	332.9599999999999	149.5747500000002	87.7187638521871	85.1698305813183
+M0013	8	34	 			 	 																																																							
+M0013	8	35	que	$L1	B	que	que	Qu						41	obj	41	obj									B	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	B	included	hhm1	B	weak	hm	B	weak	hm	U	Hm	0	0			29.327577	29.450247	122.66999999999939	194.64725000000004	87.18781679589382	85.09595967168946
+M0013	8	36	 			 	 																																																							
+M0013	8	37	vous	$L1	B	vous	vous	Cl			2	pl		39	sub	39	sub									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	I	included	hhm1	I	weak	hm	I	weak	hm	U	mm	0	0			29.450247	29.572313	122.06600000000023	176.95874999999984	84.23920210577336	85.4291096714104
+M0013	8	38	 			 	 																																																							
+M0013	8	39	pouvez	$L1	B	pouvez	pouvoir	V	indicative	present	2	pl		31	para_reform					31	para_reform	25	dep_inherited			I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	I	included	hhm1	L	weak	hm	L	weak	hm	U	mm	0	W			29.572313	29.824518	152.20500000000214	267.5472499999989	83.41019883453797	84.5725354249365
+M0013	8	40	 			 	 																																																							
+M0013	8	41	suivre	$L1	B	suivre	suivre	V	infinitive			pl		39	pred	39	pred									L	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	L	included	hhm1	U	strong	mhH2	U	strong	mhH2	U	mhH2	S	S			29.824518	30.32176	497.24199999999996	188.27149999999992	87.27024103100446	83.13640023546338
+M0013	8	42	 			 	 																																																							
+M0013	8	43	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	U	O	I	mH	B	included	mm	B	weak	mmm2	B	weak	mmm2	U	mm	0	0	H		30.32176	30.672641	350.8809999999976	247.36175000000048	83.38103935994548	84.07815649634475
+M0013	8	44	 			 	 																																																							
+M0013	8	45	en	$L1	B	en	en	Pre						41	ad	41	ad					33	ad_inherited			O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	I	included	mm	I	weak	mmm2	I	weak	mmm2	U	mm	0	0			30.672641	30.822641	150.00000000000213	302.0307499999992	82.3547035443474	84.42208093324287
+M0013	8	46	 			 	 																																																							
+M0013	8	47	prenant	$L1	B	prenant	prendre	V	present_participle					45	dep	45	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	I	included	mm	L	weak	mmm2	L	weak	mmm2	U	mm	0	W			30.822641	31.182641	170.0000000000017	199.5642499999999	83.75956076653237	83.02290233684694
+M0013	8	48	 			 	 																																																							
+M0013	8	49	à	$L1	B	à	à	Pre						47	obl	47	obl									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mH	I	included	mm	B	strong	mm	B	strong	mm	U	mm	0	0			31.182641	31.250375	67.73399999999796	447.3337500000003	83.73705670003329	82.7851963258023
+M0013	8	50	 			 	 																																																							
+M0013	8	51	gauche	$L1	B	gauche	gauche	N				sg	fem	49	dep	49	dep									O	L	L	O	O	O	O	O	O	O	O	O	O	O	I	mH	L	included	mm	L	strong	mm	L	strong	mm	U	mm	S	S			31.250375	31.640898	390.52300000000173	356.63649999999956	82.72236652751788	81.73438603168015
+M0013			 			 	 																																																							
+M0013	9	1	et	$L1	B	et	et	J						0	root	0	root									O	B	O	O	O	O	O	O	O	O	O	O	O	U	I	mH	U	motherless-dis-weak	mm	U	dis-weak	mm	U	dis-weak	mm	U	mm	W	W	H		31.640898	32.67971	1038.8120000000001	188.26874999999976	81.38137543366977	81.40735036565364
+M0013	9	2	 			 	 																																																							
+M0013	9	3	à	$L1	B	à	à	Pre						33	ad	33	ad					99	ad_inherited			O	I	O	O	B	O	O	O	O	O	O	O	O	O	I	mH	B	included	mH	B	weak	mm	B	weak	mm	U	mm	0	0			32.67971	32.82971	149.99999999999858	415.4377500000006	78.05955122648515	81.97938452557
+M0013	9	4	 			 	 																																																							
+M0013	9	5	ce	$L1	B	ce	ce	D				sg	masc	7	dep	7	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	included	mH	I	weak	mm	I	weak	mm	U	mm	0	0			32.82971	32.974528	144.81800000000078	363.4985000000004	81.11042700857821	81.5360437510478
+M0013	9	6	 			 	 																																																							
+M0013	9	7	moment	$L1	B	moment	moment	N				sg	masc	3	dep	3	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	included	mH	I	weak	mm	I	weak	mm	B	mm	0	S			32.974528	33.23971	310.8399999999989	181.29550000000094	87.92081513192848	84.82686637293767
+M0013	9	8	-	$L1	B	-là	là	Adv						7	dep	7	dep									O	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	included	mH	L	weak	mm	L	weak	mm	L	mm	0	S			32.974528	33.23971	310.8399999999989	181.29550000000094	87.92081513192848	84.82686637293767
+M0013	9	9	là	$L1	I																					O	I	O	O	L	O	O	O	O	O	O	O	O	O	I	mH	L	included	mH	U	strong	mH	U	strong	mH	U	mH	0	S			33.23971	33.55055	310.8399999999989	181.29550000000094	87.92081513192848	84.82686637293767
+M0013	9	10	 			 	 																																																							
+M0013	9	11	si	$L1	B	si	si	CS						21	para_disfl					21	para_disfl	33	ad_inherited			B	I	O	O	B	O	O	O	O	O	O	O	O	O	I	mH	B	lone-dis-strong	mm	B	dis-strong	mm	B	dis-strong	mm	U	Hm	0	0	H		33.55055	33.77055	219.99999999999886	302.1060000000002	88.44551977573671	84.74068406841147
+M0013	9	12	 			 	 																																																							
+M0013	9	13	vous	$L1	B	vous	vous	Cl			2	pl		17	sub	17	sub									I	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	lone-dis-strong	mm	I	dis-strong	mm	I	dis-strong	mm	U	mm	0	0	H		33.77055	34.01055	240.000000000002	336.9466666666649	84.15869737197772	86.41655982196086
+M0013	9	14	 			 	 																																																							
+M0013	9	15	le	$L1	B	le	le	Cl			3	sg	masc	17	obj	17	obj									I	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	lone-dis-strong	mm	I	dis-strong	mm	I	dis-strong	mm	B	mm	S	0	H		34.01055	34.04055	240.000000000002	336.9466666666649	84.15869737197772	86.41655982196086
+M0013	9	16	 			 	 																																																							
+M0013	9	17	&		B	&	&	V	indicative	present	3	sg		11	dep	11	dep																																													
+M0013	9	18	 			 	 																																																							
+M0013	9	19	euh	$L1	B	euh	euh	I						0	root	0	root									L	I	O	O	I	O	O	O	O	O	O	O	U	O	I	mH	L	lone-dis-strong	mm	L	dis-strong	mm	L	dis-strong	mm	L	mm	S	S	H	0.198532	34.04055	34.49055	479.9999999999969	230.00000000000043	82.88334455821739	86.30210857385721
+M0013	9	20	 			 	 																																																							
+M0013	9	21	si	$L1	B	si	si	CS						33	ad	33	ad					101	ad_inherited			B	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	B	included	mhH3	B	weak	mh	B	weak	mh	U	mm	_	0			34.689082	34.780024	90.9419999999983	134.52900000000056		
+M0013	9	22	 			 	 																																																							
+M0013	9	23	vous	$L1	B	vous	vous	Cl			2	pl		25	sub	25	sub									I	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	included	mhH3	I	weak	mh	I	weak	mh	U	mm	0	0			34.780024	34.869082	89.05800000000141	126.98066666666583	84.21691699592094	85.7767023400597
+M0013	9	24	 			 	 																																																							
+M0013	9	25	suivez	$L1	B	suivez	suivre	V	indicative	present	2	pl		21	dep	21	dep									I	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	included	mhH3	L	weak	mh	L	weak	mh	U	hh	0	W			34.869082	35.159082	109.99999999999943	212.38650000000092	86.12071315685735	86.18300178170658
+M0013	9	26	 			 	 																																																							
+M0013	9	27	les	$L1	B	les	le	D				pl	masc	29	dep	29	dep									I	I	O	O	I	O	O	O	O	O	O	O	O	O	I	mH	I	included	mhH3	B	strong	hmH3	B	strong	hmH3	U	hm	0	0			35.159082	35.299082	140.00000000000057	243.49600000000038	86.34533654076459	86.76348891566604
+M0013	9	28	 			 	 																																																							
+M0013	9	29	rails	$L1	B	rails	rail	N				pl	masc	25	obj	25	obj									L	I	O	O	L	O	O	O	O	O	O	O	O	O	L	mH	L	included	mhH3	L	strong	hmH3	L	strong	hmH3	U	mmH2	S	S		0.518164999999996	35.299082	35.73957	440.488000000002	125.0	88.73706206687872	86.23302484881097
+M0013	9	30	 			 	 																																																							
+M0013	9	31	vous	$L1	B	vous	vous	Cl			2	pl		33	sub	33	sub									B	I	B	O	O	O	O	O	O	O	O	O	O	O	B	ml	B	included	mmh3	B	weak	mm	B	weak	mm	U	mm	_	0			36.257735	36.327735	70.00000000000028	155.00000000000114	82.69886899236397	83.74732120081605
+M0013	9	32	 			 	 																																																							
+M0013	9	33	allez	$L1	B	allez	aller	V	indicative	present	2	pl		1	dep	1	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mmh3	L	weak	mm	L	weak	mm	U	mm	0	W			36.327735	36.637735	149.99999999999858	122.5000000000005	83.85947543586823	83.49309594433689
+M0013	9	34	 			 	 																																																							
+M0013	9	35	arriver	$L1	B	arriver	arriver	V	infinitive					33	pred	33	pred									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	L	included	mmh3	U	strong	mm	U	strong	mmh2	U	mmh2	0	S			36.637735	37.343282	445.5470000000048	256.53024999999906	84.51102065284533	82.6528788801103
+M0013	9	36	 			 	 																																																							
+M0013	9	37	euh	$L1	B	euh	euh	I						0	root	0	root									I	I	I	O	O	O	O	O	O	O	O	O	U	O	I	ml	U	lone-dis-strong	ml	U	dis-strong	ml	U	dis-strong	ml	U	ml	S	S	H		37.343282	37.979403	636.1209999999958	246.38675000000097	81.62150512532152	82.82215868859004
+M0013	9	38	 			 	 																																																							
+M0013	9	39	à	$L1	B	à	à	Pre						61	para_disfl					61	para_disfl	71	ad_inherited			B	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	B	lone-dis-strong	mm	B	dis-strong	mm	B	dis-strong	mm	U	_	0	0			37.979403	38.109403	130.00000000000256	459.8235000000006	81.35166257589994	81.95229136976488
+M0013	9	40	 			 	 																																																							
+M0013	9	41	peu	$L1	B	peu	peu	N				sg	masc	39	dep	39	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	lone-dis-strong	mm	I	dis-strong	mm	I	dis-strong	mm	U	mm	0	0			38.109403	38.339403	229.99999999999687	448.4367500000008	81.60049851293607	81.10329887389854
+M0013	9	42	 			 	 																																																							
+M0013	9	43	près	$L1	B	près	près	Adv						41	dep	41	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	L	lone-dis-strong	mm	L	dis-strong	mm	L	dis-strong	mm	U	mm	S	S	H		38.339403	38.867029	527.626000000005	286.66666666666646	80.07614118795661	81.43868256508402
+M0013	9	44	 			 	 																																																							
+M0013	9	45	euh	$L1	B	euh	euh	I						0	root	0	root									I	I	I	O	O	O	O	O	O	O	O	O	U	O	I	ml	U	lone-dis-strong	mm	U	dis-strong	mm	U	dis-strong	mm	U	mm	S	S	H	0.205298999999997	38.867029	39.367029	500.0	378.81300000000095	81.36388660641605	80.83831985044634
+M0013	9	46	 			 	 																																																							
+M0013	9	47	je	$L1	B	je	je	Cl			1	sg		49	sub	49	sub									I	B	B	O	O	O	O	O	O	O	B	O	O	O	I	ml	B	included	mh	B	weak	mm	B	weak	mm	U	mm	_	0			39.572328	39.64788	75.55200000000184	139.60850000000136	82.7352707611929	82.14301115718445
+M0013	9	48	 			 	 																																																							
+M0013	9	49	sais	$L1	B	sais	savoir	V	indicative	present	1	sg		0	root	0	root									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	included	mh	I	weak	mm	I	weak	mm	U	mm	0	0			39.64788	39.771911	124.03100000000222	108.51733333333395	82.19379347254967	82.27936520297374
+M0013	9	50	 			 	 																																																							
+M0013	9	51	pas	$L1	B	pas	pas	Adv						49	ad	49	ad									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	included	mh	L	weak	mm	L	weak	mm	U	mm	W	W			39.771911	39.927097	155.1860000000005	103.59925000000025	82.0922288418192	82.35633357879672
+M0013	9	52	 			 	 																																																							
+M0013	9	53	combien	$L1	B	combien	combien	Qu						59	obl	59	obl									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	included	mh	U	weak	mm	U	weak	mm	U	mm	0	W			39.927097	40.141911	119.99999999999744	128.46249999999947	82.48567407553526	82.66599565522365
+M0013	9	54	 			 	 																																																							
+M0013	9	55	de	$L1	B	de	de	Pre						53	dep	53	dep									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	included	mh	B	strong	mh	B	strong	mh	U	mm	0	0			40.141911	40.201911	60.000000000002274	112.16599999999843	83.12105924319982	82.88144500683897
+M0013	9	56	 			 	 																																																							
+M0013	9	57	temps	$L1	B	temps	temps	N				sg	masc	55	dep	55	dep									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	L	included	mh	L	strong	mh	L	strong	mh	U	lh	S	S			40.201911	40.405761	203.84999999999565	77.50000000000057	83.44009852996646	83.1963890376563
+M0013	9	58	 			 	 																																																							
+M0013	9	59	&		B	&	&	V	indicative	present	1/2/3	sg/pl		49	obj	49	obj																																													
+M0013	9	60	 			 	 																																																							
+M0013	9	61	à	$L1	B	à	à	Pre						71	ad	71	ad									B	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	B	motherless	hm	B	weak	hm	B	weak	hm	U	hm	0	0			40.405761	40.435761	30.000000000001137	180.9624999999997	83.58941141594505	83.16401994981622
+M0013	9	62	 			 	 																																																							
+M0013	9	63	peu	$L1	B	peu	peu	N				sg	masc	61	dep	61	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	motherless	hm	I	weak	hm	I	weak	hm	U	mm	0	0			40.435761	40.535761	100.00000000000142	218.3994999999985	83.58941141594505	82.7458677069284
+M0013	9	64	 			 	 																																																							
+M0013	9	65	près	$L1	B	près	près	Adv						63	dep	63	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	L	motherless	hm	L	weak	hm	L	weak	hm	U	mm	W	W			40.535761	40.895761	359.99999999999943	126.29900000000127	82.50551061015354	82.44247576544895
+M0013	9	66	 			 	 																																																							
+M0013	9	67	euh	$L1	B	euh	euh	I						0	root	0	root									I	I	I	O	O	O	O	O	O	O	O	O	U	O	I	ml	U	motherless-dis-weak	mm	U	dis-weak	mm	U	dis-weak	mm	U	mm	W	W	H		40.895761	41.175509	279.7479999999979	163.86199999999997	81.44845027164854	82.09200121310752
+M0013	9	68	 			 	 																																																							
+M0013	9	69	ça	$L1	B	ça	ça	Pro			3	sg	masc	71	sub	71	sub									I	B	B	O	O	O	O	O	O	O	B	O	O	O	I	ml	B	motherless-dis-weak	mm	B	dis-weak	mm	B	dis-strong	mm	U	_	0	0			41.175509	41.270957	95.44800000000464	232.4369999999991	81.14262995825716	81.62844212652118
+M0013	9	70	 			 	 																																																							
+M0013	9	71	doit	$L1	B	doit	devoir	V	indicative	present	3	sg		0	root	0	root									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	motherless-dis-weak	mm	I	dis-weak	mm	I	dis-strong	mm	U	ml	0	0			41.270957	41.370957	99.99999999999432	204.58650000000134	81.13045286807429	81.52001472004767
+M0013	9	72	 			 	 																																																							
+M0013	9	73	être	$L1	B	être	être	V	infinitive			sg		71	pred	71	pred									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	motherless-dis-weak	mm	I	dis-weak	mm	I	dis-strong	mm	U	ll	0	0			41.370957	41.560957	190.00000000000483	191.3619999999998	81.42935475620833	81.72822809464573
+M0013	9	74	 			 	 																																																							
+M0013	9	75	cinq	$L1	B	cinq-cents	cinq-cents	D				sg	masc/fem	79	dep	79	dep									B	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	motherless-dis-weak	mm	I	dis-weak	mm	L	dis-strong	mm	U	mm	S	W	H		41.560957	41.814107	316.8500000000023	238.37299999999928	82.58020565817473	82.13104536534149
+M0013	9	76	-	$L1	I																					I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	motherless-dis-weak	mm	I	dis-weak	mm	B	dis-weak	mm	B	mm	S	W	H		41.814107	42.130957	316.8500000000023	238.37299999999928	82.58020565817473	82.13104536534149
+M0013	9	77	cents	$L1	I																					I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	L	motherless-dis-weak	mm	L	dis-weak	mm	L	dis-weak	mm	L	mm	S	W	H		41.814107	42.130957	316.8500000000023	238.37299999999928	82.58020565817473	82.13104536534149
+M0013	9	78	 			 	 																																																							
+M0013	9	79	&		B	&	&	N				sg	masc/fem	73	pred	73	pred																																													
+M0013	9	80	 			 	 																																																							
+M0013	9	81	peut	$L1	B	peut-être	peut-être	Adv						79	junc			79	junc							B	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	B	motherless-dis-weak	mm	B	dis-weak	mm	B	dis-weak	mm	U	_	0	W	H		42.130957	42.235994	405.3049999999985	210.94349999999906	82.44348621873887	82.58596112525842
+M0013	9	82	-	$L1	I																					I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	motherless-dis-weak	mm	I	dis-weak	mm	I	dis-weak	mm	B	mm	0	W	H		42.235994	42.641299	405.3049999999985	210.94349999999906	82.44348621873887	82.58596112525842
+M0013	9	83	être	$L1	I																					I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	L	motherless-dis-weak	mm	L	dis-weak	mm	L	dis-weak	mm	L	mm	0	W	H	0.338356000000005	42.235994	42.641299	405.3049999999985	210.94349999999906	82.44348621873887	82.58596112525842
+M0013	9	84	 			 	 																																																							
+M0013	9	85	oh	$L1	B	oh	oh	I						0	root	0	root									I	I	I	O	O	O	O	O	O	O	I	O	U	O	I	ml	U	lone	mm	U	strong	mm	U	strong	mm	U	mm	_	S			42.979655	43.154383	174.72800000000177	125.0	81.76345307553458	81.03828821531216
+M0013	9	86	 			 	 																																																							
+M0013	9	87	un	$L1	B	un	un	D				sg	masc	91	dep	91	dep									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	B	included	mh	B	weak	mm	B	weak	mm	U	ml	0	0			43.154383	43.224383	99.99999999999432	154.909333333336	81.33939508330391	81.70782659844863
+M0013	9	88	 			 	 																																																							
+M0013	9	89	petit	$L1	B	petit	petit	Adj				sg	masc	91	dep	91	dep									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	I	included	mh	L	weak	mm	L	weak	mm	U	mm	W	W			43.224383	43.404383	150.00000000000568	123.68199999999874	80.73718134732042	82.12261033249965
+M0013	9	90	 			 	 																																																							
+M0013	9	91	kilomètre	$L1	B	kilomètre	kilomètre	N				sg	masc	81	junc			81	junc	79	para_negot	73	pred_inherited			L	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	L	included	mh	U	strong	mhm3	U	strong	mh	U	mh	0	S		0.425193999999998	43.404383	44.042417	418.0339999999987	109.99999999999943	82.25025315702133	82.69379658558003
+M0013	9	92	 			 	 																																																							
+M0013	9	93	plus	$L1	B	plus	plus	Adv						95	dep	95	dep									I	I	I	O	O	O	O	O	O	O	I	O	O	O	I	ml	B	lone	mh	B	strong	mh	B	strong	mh	U	ml	_	0			44.467611	44.552247	30.000000000001137	121.3246666666663	81.68734299537572	83.78613593248015
+M0013	9	94	 			 	 																																																							
+M0013	9	95	loin	$L1	B	loin	loin	Adv						91	dep	91	dep					79	dep_inherited			L	L	L	O	O	O	O	O	O	O	L	O	O	O	I	ml	L	lone	mh	L	strong	mh	L	strong	mh	U	lh	S	S			44.552247	44.801585	249.3380000000016	61.15899999999996	83.70651145706243	83.08479308775543
+M0013	9	96	 			 	 																																																							
+M0013	9	97	vous	$L1	B	vous	vous	Cl			2	pl		99	sub	99	sub									B	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	B	included	mHl3	B	weak	hm	B	weak	hm	U	hm	0	0			44.801585	44.861585	59.99999999999517	119.8345000000014	85.29693984880481	82.68910788032461
+M0013	9	98	 			 	 																																																							
+M0013	9	99	allez	$L1	B	allez	aller	V	indicative	present	2	pl		33	para_disfl					33	para_disfl	1	dep_inherited			I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mHl3	L	weak	hm	L	weak	hm	U	mm	0	W			44.861585	45.061585	100.00000000000142	72.49999999999979	82.36264405359236	83.1312604214719
+M0013	9	100	 			 	 																																																							
+M0013	9	101	arriver	$L1	B	arriver	arriver	V	infinitive					99	pred	99	pred									L	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mHl3	U	weak	mm	U	weak	mm	U	mm	0	W			45.061585	45.311585	119.99999999999744	92.71299999999982	83.2730342271502	82.09421650980663
+M0013	9	102	 			 	 																																																							
+M0013	9	103	à	$L1	B	à	à	Pre						101	obl	101	obl					35	obl_inherited			O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mHl3	B	strong	mHl2	B	strong	mHl2	U	mm	0	0			45.311585	45.391585	79.9999999999983	175.7817500000005	83.22722817466098	82.22660264070953
+M0013	9	104	 			 	 																																																							
+M0013	9	105	la	$L1	B	la	le	D				sg	fem	107	dep	107	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	ml	I	included	mHl3	I	strong	mHl2	I	strong	mHl2	U	ml	0	0			45.391585	45.552437	160.85199999999844	184.0916666666672	80.92146904275079	83.02222103839165
+M0013	9	106	 			 	 																																																							
+M0013	9	107	gare	$L1	B	gare	gare	N				sg	fem	103	dep	103	dep									O	L	L	O	O	O	O	O	O	O	O	O	O	O	L	ml	L	included	mHl3	L	strong	mHl2	L	strong	mHl2	U	lH	S	S		0.489416999999996	45.552437	45.904712	352.2750000000059	120.42599999999837	82.56640071336378	82.07434860870589
+M0013			 			 	 																																																							
+M0013	10	1	c	$L1	B	c'	ce	Cl			3	sg	masc	3	sub	3	sub									O	B	B	O	O	O	O	O	O	O	O	O	O	O	B	mlm3	B	lone-dis-strong	ml	B	dis-strong	ml	B	dis-strong	ml	B	ml	_	_	_		46.394129	46.764129				
+M0013	10	2	'	$L1	I																					O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	I	lone-dis-strong	ml	I	dis-strong	ml	I	dis-strong	ml	I	ml	_	_	_		46.394129	46.764129				
+M0013	10	3	est	$L1	B	est	être	V	indicative	present	3	sg		0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	L	lone-dis-strong	ml	L	dis-strong	ml	L	dis-strong	ml	L	ml	S	S	H		46.764129	47.700856	1306.7270000000021	204.9999999999983	82.18606052668301	84.04631503048148
+M0013	10	4	 			 	 																																																							
+M0013	10	5	un	$L1	B	un	un	D				sg	masc	9	dep	9	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	B	lone	mm	B	strong	mm	B	strong	mm	U	mm	0	0			47.700856	47.910856	210.00000000000085	537.0973333333329	86.27012776359626	81.95023679101065
+M0013	10	6	 			 	 																																																							
+M0013	10	7	grand	$L1	B	grand	grand	Adj				sg	masc	9	dep	9	dep									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	L	lone	mm	L	strong	mm	L	strong	mm	U	mm	S	S			47.910856	48.110856	199.99999999999574	441.18300000000056	81.8225022973667	83.07177336526583
+M0013	10	8	 			 	 																																																							
+M0013	10	9	bâtiment	$L1	B	bâtiment	bâtiment	N				sg	masc	3	pred	3	pred									O	L	L	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	U	lone	mm	U	strong	mm	U	strong	mm	U	mm	0	S			48.110856	48.63987	281.0090000000045	187.0012499999998	82.11286900771292	81.51388841709331
+M0013			 			 	 																																																							
+M0013	11	1	vous	$L1	B	vous	vous	Cl			2	pl		5	sub	5	sub									O	B	B	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	B	motherless-dis-weak	ml	B	dis-weak	ml	B	dis-weak	ml	U	ml	0	0			48.63987	48.75987	119.99999999999744	256.11225000000104	81.66215092257642	81.30952203983782
+M0013	11	2	 			 	 																																																							
+M0013	11	3	le	$L1	B	le	le	Cl			3	sg	masc	5	obj	5	obj									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	L	motherless-dis-weak	ml	L	dis-weak	ml	L	dis-weak	ml	U	ll	W	W	H		48.75987	49.13987	380.00000000000256	272.7522499999999	80.56249757501283	81.43565143649242
+M0013	11	4	 			 	 																																																							
+M0013	11	5	verrez	$L1	B	verrez	voir	V	indicative	future	2	pl		0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	U	motherless-dis-weak	lm	U	dis-weak	lm	U	dis-weak	lm	U	lm	W	W	H		49.13987	49.82987	469.99999999999886	262.5000000000011	81.3936218608566	80.822417806327
+M0013	11	6	 			 	 																																																							
+M0013	11	7	euh	$L1	B	euh	euh	I						0	root	0	root									O	I	I	O	O	O	O	O	O	O	O	O	U	O	I	mlm3	B	included	lmh3	B	weak	ll	B	weak	ll	U	ml	0	0	H		49.82987	50.06987	240.000000000002	257.4999999999985	81.14144932334821	81.23444905782695
+M0013	11	8	 			 	 																																																							
+M0013	11	9	sans	$L1	B	sans	sans	Pre						5	ad	5	ad									O	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	I	included	lmh3	L	weak	ll	L	weak	ll	U	ll	W	W			50.06987	50.27987	210.00000000000085	259.4455	81.01176037212323	82.31172177387614
+M0013	11	10	 			 	 																																																							
+M0013	11	11	problème	$L1	B	problème	problème	N				sg	masc	9	dep	9	dep									O	L	L	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	L	included	lmh3	U	strong	lmh3	U	strong	lmh3	U	mmh2	0	S			50.27987	50.607652	197.78200000000368	122.49999999999872	84.75336586779551	81.86835534125231
+M0013			 			 	 																																																							
+M0013	12	1	vous	$L1	B	vous	vous	Cl			2	pl		3	sub	3	sub									B	B	B	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	B	included	mm	B	weak	mm	B	weak	mm	U	mm	0	W			50.607652	50.697652	141.67099999999522	104.42275000000123	82.72168038158333	82.87832225172194
+M0013	12	2	 			 	 																																																							
+M0013	12	3	connaissez	$L1	B	connaissez	connaître	V	indicative	present	2	pl		0	root	0	root									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	I	included	mm	L	weak	mm	L	weak	mm	U	mm	0	W			50.697652	51.017652	141.67099999999522	104.42275000000123	82.72168038158333	82.87832225172194
+M0013	12	4	 			 	 																																																							
+M0013	12	5	déjà	$L1	B	déjà	déjà	Adv						3	ad	3	ad									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	L	included	mm	U	strong	mm	U	strong	mm	U	mm	0	S			51.017652	51.257014	129.36200000000042	138.08424999999858	83.68904276976109	84.5996450850794
+M0013	12	6	 			 	 																																																							
+M0013	12	7	un	$L1	B	un	un	D				sg	masc	9	dep	9	dep									I	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	B	lone	mH	B	strong	mH	B	strong	mH	U	mm	S	0			51.257014	51.337652	80.63800000000043	197.9287500000009	84.43354605318812	84.48696971488756
+M0013	12	8	 			 	 																																																							
+M0013	12	9	peu	$L1	B	peu	peu	N				sg	masc	3	ad	3	ad									L	I	I	O	O	O	O	O	O	O	O	O	O	O	I	mlm3	L	lone	mH	L	strong	mH	L	strong	mH	U	mH	S	S			51.337652	51.55768	220.02799999999922	180.77500000000177	88.08135274272169	83.71269033573073
+M0013	12	10	 			 	 																																																							
+M0013	12	11	ou	$L1	B	ou	ou	J						3	junc			3	junc							B	I	O	O	O	O	O	O	O	O	O	O	O	O	L	mlm3	B	lone-dis-strong	Hm	B	dis-strong	Hm	B	dis-strong	Hm	B	Hm		S	H	0.056695	51.55768	51.890005	332.3250000000044	150.33299999999983	83.01548218424296	86.2574493979549
+M0013	12	12	 			 	 																																																							
+M0013	12	13	&		B	&	&	V	indicative	present	3	sg/pl		11	junc			11	junc	3	para_coord	0	root_inherited																																							
+M0013																																																														
