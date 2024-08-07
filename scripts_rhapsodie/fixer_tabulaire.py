@@ -1,17 +1,17 @@
-'''Modifie les id des trees dans le fichier tabulaire. 
-Prend en compte le dico_id_tabulaire, créé à partir des modifications manuelles, selon le cas spécifique de chaque fichier.'''
-
 import pandas as pd
 import argparse
 from dico_id_tabulaire import dico_M2006, dico_M2004, dico_M2003, dico_M2002, dico_M1003, dico_M0023, dico_M0019, dico_M0016, dico_M0014, dico_M0011, dico_M0009, dico_M0007, dico_M0008, dico_M0003
 
 def charger_fichier(ruta_archivo, delimiter='\t'):
+    '''Lit le fichier avec pandas'''
     return pd.read_csv(ruta_archivo, delimiter=delimiter)
 
 def treeid_a_str(df, columna="Tree_ID"):
+    '''Transforme le tree_id en string'''
     df[columna] = df[columna].astype(str)
 
 def traitement_ids(df, dico_aborder, columna="Tree_ID"):
+    '''Change la clé de dico_id_tabulaire pour sa valeur'''
     for i in range(len(df)):
         tree_id = df.at[i, columna]
         if pd.notna(tree_id): 

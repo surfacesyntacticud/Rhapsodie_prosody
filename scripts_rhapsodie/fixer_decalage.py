@@ -127,8 +127,7 @@ def fixer_id (liste_listes):
                 liste[index] = "\t".join(partes)
     return liste_listes
 
-def exporter_corpus(liste_listes, output_dir, liste_filename): 
-    '''Exporte le corpus. Prend comme argument la liste de drafts, la liste de noms des fichiers et le directoire d'output'''            
+def exporter_corpus(liste_listes, output_dir, liste_filename):            
     os.makedirs(output_dir, exist_ok=True)
     for filename, liste in zip(liste_filename, liste_listes):
             output_path = os.path.join(output_dir, filename)

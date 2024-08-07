@@ -3,10 +3,10 @@ import grewpy
 from grewpy import Corpus, CorpusDraft
 import re
 
-treebank_path="/Users/maria23paz/Downloads/SUD_French-Rhapsodie@rm_mwt"
-output_dir="/Users/maria23paz/Documents/Stage/Rhapsodie/CONLLU_mrw"
+treebank_path="/SUD_French-Rhapsodie@rm_mwt"
+output_dir="/Rhapsodie/CONLLU_mrw"
 
-grewpy.set_config("sud") # ud or basic
+grewpy.set_config("sud") 
 corpus = Corpus(treebank_path)
 draft_conllu = CorpusDraft(corpus)
 
