@@ -1,0 +1,672 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = Rhap_M0013-1
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = alors à pied //
+# text = alors à pied.
+1	alors	alors	ADV	_	_	2	mod	_	AlignBegin=0|AlignEnd=210|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=0|AlignEnd=50|Glo=X|Loc=X|SylForm=a|wordform=__EMPTY__
+1.2	_	_	_	_	_	1|2.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=50|AlignEnd=180|AvgAmplitude=76.591|AvgHeightGlo=H|AvgHeightLoc=M|Duration=130|Glo=hm|Loc=mm|MaxAmplitude=78.749|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=lO|wordform=__EMPTY__
+2	à	à	ADP	_	_	0	root	_	AlignBegin=210|AlignEnd=340|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|UtteranceMeanF0=0.0
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=180|AlignEnd=340|AvgAmplitude=77.957|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=79.584|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ra|wordform=__EMPTY__
+3	pied	pied	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=340|AlignEnd=673|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=340|AlignEnd=673|AvgAmplitude=70.193|AvgHeightGlo=M|AvgHeightLoc=M|Duration=333|Glo=ml|Loc=mm|MaxAmplitude=77.483|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=pje|wordform=__EMPTY__
+4	.	.	PUNCT	_	_	2	punct	_	AlignBegin=673|AlignEnd=673
+
+# sent_id = Rhap_M0013-2
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = "ben" pour "euh" aller à la gare <+ vous allez "euh" vous éloigner du tram { en | en } longeant "euh" { le | le } cinéma //
+# text = ben, pour, euh, aller à la gare, vous allez, euh, vous éloigner du tram en, en longeant, euh, le, le cinéma.
+1	ben	ben	INTJ	_	_	13	discourse	_	AlignBegin=1087|AlignEnd=1303|AssociatedNucleus=U|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|SpaceAfter=No
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=1087|AlignEnd=1303|AvgAmplitude=76.503|AvgHeightGlo=M|AvgHeightLoc=M|Duration=215|Glo=ml|Loc=ml|MaxAmplitude=79.315|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=be~|wordform=__EMPTY__
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=1303|AlignEnd=1303
+3	pour	pour	ADP	_	_	13	mod	_	AlignBegin=1303|AlignEnd=1593|GovNucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=1303|AlignEnd=1593|AvgAmplitude=66.297|AvgHeightGlo=M|AvgHeightLoc=M|Duration=290|Glo=mm|Loc=mm|MaxAmplitude=78.677|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=puR|wordform=__EMPTY__
+4	,	,	PUNCT	_	_	7	punct	_	AlignBegin=1593|AlignEnd=1593
+5	euh	euh	INTJ	_	_	7	discourse	_	AlignBegin=1593|AlignEnd=1887|AssociatedNucleus=U|GovNucleus=In|Hesitation=Yes|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=1593|AlignEnd=1887|AvgAmplitude=79.29|AvgHeightGlo=M|AvgHeightLoc=M|Duration=294|Glo=mm|Loc=mm|MaxAmplitude=80.547|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=9|wordform=__EMPTY__
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=1887|AlignEnd=1887
+7	aller	aller	VERB	_	VerbForm=Inf	3	comp:obj	_	AlignBegin=1887|AlignEnd=2467|GovNucleus=In|Hesitation=Yes|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=dis-weak|Subject=NoRaising
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=1887|AlignEnd=1999|AvgAmplitude=78.058|AvgHeightGlo=M|AvgHeightLoc=M|Duration=112|Glo=mm|Loc=mm|MaxAmplitude=78.455|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+7.2	_	_	_	_	_	7	Syl=2	_	AlignBegin=1999|AlignEnd=2467|AvgAmplitude=74.884|AvgHeightGlo=M|AvgHeightLoc=M|Duration=467|Glo=mm|Loc=mm|MaxAmplitude=76.792|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le|wordform=__EMPTY__
+8	à	à	ADP	_	_	7	comp:obl	_	AlignBegin=2467|AlignEnd=2527|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=2467|AlignEnd=2527|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=60|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=2527|AlignEnd=2702|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=2527|AlignEnd=2702|AvgAmplitude=75.347|AvgHeightGlo=M|AvgHeightLoc=L|Duration=174|Glo=mm|Loc=ll|MaxAmplitude=80.195|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=la|wordform=__EMPTY__
+10	gare	gare	NOUN	_	Gender=Fem|Number=Sing	8	comp:obj	_	AlignBegin=2702|AlignEnd=2984|GovNucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=2702|AlignEnd=2984|AvgAmplitude=76.305|AvgHeightGlo=H|AvgHeightLoc=H|Duration=282|Glo=mH|Loc=lH|MaxAmplitude=79.045|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=gaR|wordform=__EMPTY__
+11	,	,	PUNCT	_	_	3	punct	_	AlignBegin=2984|AlignEnd=2984
+12	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	13	subj	_	AlignBegin=2984|AlignEnd=3123|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=filled-dis
+12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=2984|AlignEnd=3123|AvgAmplitude=60.928|AvgHeightGlo=H|AvgHeightLoc=M|Duration=139|Glo=hm|Loc=ml|MaxAmplitude=65.769|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=vu|wordform=__EMPTY__
+13	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=3123|AlignEnd=3644|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=filled-dis|SpaceAfter=No|UtteranceMeanF0=0.0
+13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=3123|AlignEnd=3293|AvgAmplitude=76.724|AvgHeightGlo=M|AvgHeightLoc=M|Duration=169|Glo=mm|Loc=mm|MaxAmplitude=80.06|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za|wordform=__EMPTY__
+13.2	_	_	_	_	_	13	Syl=2	_	AlignBegin=3293|AlignEnd=3644|AvgAmplitude=75.647|AvgHeightGlo=M|AvgHeightLoc=M|Duration=351|Glo=mm|Loc=mm|MaxAmplitude=78.392|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le|wordform=__EMPTY__
+14	,	,	PUNCT	_	_	15	punct	_	AlignBegin=3644|AlignEnd=3644
+15	euh	euh	INTJ	_	_	13	discourse	_	AlignBegin=3644|AlignEnd=3944|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=filled-pause|SpaceAfter=No
+15.1	_	_	_	_	_	15	Syl=1	_	AlignBegin=3644|AlignEnd=3944|AvgAmplitude=73.013|AvgHeightGlo=L|AvgHeightLoc=M|Duration=299|Glo=ll|Loc=mm|MaxAmplitude=73.572|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=9|wordform=__EMPTY__
+16	,	,	PUNCT	_	_	18	punct	_	AlignBegin=3944|AlignEnd=4320
+17	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	18	comp:obj	_	AlignBegin=4320|AlignEnd=4380|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+17.1	_	_	_	_	_	17|18	Syl=1|Syl=1	_	AlignBegin=4320|AlignEnd=4387|AvgAmplitude=72.589|AvgHeightGlo=M|AvgHeightLoc=M|Duration=67|Glo=mm|Loc=mm|MaxAmplitude=72.589|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+18	éloigner	éloigner	VERB	_	VerbForm=Inf	13	comp:obj	_	AlignBegin=4380|AlignEnd=4790|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|Subject=SubjRaising
+18.1	_	_	_	_	_	18	Syl=2	_	AlignBegin=4387|AlignEnd=4500|AvgAmplitude=79.121|AvgHeightGlo=M|AvgHeightLoc=M|Duration=112|Glo=mm|Loc=lm|MaxAmplitude=80.598|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=ze|wordform=__EMPTY__
+18.2	_	_	_	_	_	18	Syl=3	_	AlignBegin=4500|AlignEnd=4654|AvgAmplitude=77.885|AvgHeightGlo=H|AvgHeightLoc=M|Duration=154|Glo=mh|Loc=mm|MaxAmplitude=78.414|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=lwa|wordform=__EMPTY__
+18.3	_	_	_	_	_	18	Syl=4	_	AlignBegin=4654|AlignEnd=4790|AvgHeightGlo=H|AvgHeightLoc=M|Duration=135|Glo=hh|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nje|wordform=__EMPTY__
+19	du	du	ADP	_	_	18	comp:obl	_	AlignBegin=4790|AlignEnd=4890|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=4790|AlignEnd=4890|AvgAmplitude=71.09|AvgHeightGlo=H|AvgHeightLoc=M|Duration=100|Glo=hm|Loc=mm|MaxAmplitude=74.061|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=dy|wordform=__EMPTY__
+20	tram	tram	NOUN	_	Gender=Masc|Number=Sing	19	comp:obj	_	AlignBegin=4890|AlignEnd=5259|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-weak
+20.1	_	_	_	_	_	20|21.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=4890|AlignEnd=5178|AvgAmplitude=72.363|AvgHeightGlo=M|AvgHeightLoc=M|Duration=288|Glo=mm|Loc=mm|MaxAmplitude=79.835|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tRa|wordform=__EMPTY__
+21	en	en	ADP	_	_	18	mod	_	AlignBegin=5259|AlignEnd=5510|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak|SpaceAfter=No
+21.1	_	_	_	_	_	21	Syl=1	_	AlignBegin=5178|AlignEnd=5510|AvgAmplitude=74.455|AvgHeightGlo=M|AvgHeightLoc=M|Duration=331|ExternalOnset=True|Glo=ml|Loc=ml|MaxAmplitude=76.352|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ma~|wordform=__EMPTY__
+22	,	,	PUNCT	_	_	23	punct	_	AlignBegin=5510|AlignEnd=5510
+23	en	en	ADP	_	_	21	comp:obj	_	AlignBegin=5510|AlignEnd=5722|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak|TypeInherited=AdInherited|TypePara=ParaDisfl
+23.1	_	_	_	_	_	23	Syl=1	_	AlignBegin=5510|AlignEnd=5722|AvgAmplitude=69.218|AvgHeightGlo=M|AvgHeightLoc=M|Duration=212|Glo=mm|Loc=mm|MaxAmplitude=74.761|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a~|wordform=__EMPTY__
+24	longeant	longer	VERB	_	Tense=Pres|VerbForm=Part	23	comp:obj	_	AlignBegin=5722|AlignEnd=6192|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=dis-weak|SpaceAfter=No|TypeInherited=DepInherited
+24.1	_	_	_	_	_	24	Syl=1	_	AlignBegin=5722|AlignEnd=5822|AvgAmplitude=74.266|AvgHeightGlo=M|AvgHeightLoc=M|Duration=99|Glo=mm|Loc=mm|MaxAmplitude=74.519|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=lo~|wordform=__EMPTY__
+24.2	_	_	_	_	_	24	Syl=2	_	AlignBegin=5822|AlignEnd=6192|AvgAmplitude=70.592|AvgHeightGlo=M|AvgHeightLoc=M|Duration=370|Glo=mm|Loc=mm|MaxAmplitude=72.371|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Za~|wordform=__EMPTY__
+25	,	,	PUNCT	_	_	26	punct	_	AlignBegin=6192|AlignEnd=6192
+26	euh	euh	INTJ	_	_	24	discourse	_	AlignBegin=6192|AlignEnd=6652|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+26.1	_	_	_	_	_	26	Syl=1	_	AlignBegin=6192|AlignEnd=6652|AvgAmplitude=70.082|AvgHeightGlo=L|AvgHeightLoc=M|Duration=459|Glo=ll|Loc=ml|MaxAmplitude=71.451|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=9|wordform=__EMPTY__
+27	,	,	PUNCT	_	_	31	punct	_	AlignBegin=6652|AlignEnd=6652
+28	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	AlignBegin=6652|AlignEnd=6982|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaDisfl
+28.1	_	_	_	_	_	28	Syl=1	_	AlignBegin=6652|AlignEnd=6982|AvgAmplitude=69.277|Glo=X|Loc=X|MaxAmplitude=73.95|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=l@|wordform=__EMPTY__
+29	,	,	PUNCT	_	_	30	punct	_	AlignBegin=6982|AlignEnd=6982
+30	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	conj:dicto	_	AlignBegin=6982|AlignEnd=7132|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+30.1	_	_	_	_	_	30	Syl=1	_	AlignBegin=6982|AlignEnd=7132|AvgAmplitude=67.505|AvgHeightGlo=M|AvgHeightLoc=M|Duration=150|Glo=mm|Loc=mm|MaxAmplitude=71.637|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=l@|wordform=__EMPTY__
+31	cinéma	cinéma	NOUN	_	Gender=Masc|Number=Sing	24	comp:obj	_	AlignBegin=7132|AlignEnd=7655|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+31.1	_	_	_	_	_	31	Syl=1	_	AlignBegin=7132|AlignEnd=7322|AvgAmplitude=79.382|AvgHeightGlo=M|AvgHeightLoc=M|Duration=189|Glo=mm|Loc=mm|MaxAmplitude=82.698|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=si|wordform=__EMPTY__
+31.2	_	_	_	_	_	31	Syl=2	_	AlignBegin=7322|AlignEnd=7412|AvgAmplitude=73.533|AvgHeightGlo=M|AvgHeightLoc=M|Duration=89|Glo=mm|Loc=lm|MaxAmplitude=74.367|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=ne|wordform=__EMPTY__
+31.3	_	_	_	_	_	31	Syl=3	_	AlignBegin=7412|AlignEnd=7655|AvgAmplitude=74.539|AvgHeightGlo=H|AvgHeightLoc=M|Duration=242|Glo=lH|Loc=LH|MaxAmplitude=76.029|MeanF0=0|MeanF0Step=0|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ma|wordform=__EMPTY__
+32	.	.	PUNCT	_	_	13	punct	_	AlignBegin=7655|AlignEnd=7655
+
+# sent_id = Rhap_M0013-3
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = ^et "euh" donc < "euh" vous suivez cette avenue "euh" tout le long //
+# text = et, euh, donc, euh, vous suivez cette avenue, euh, tout le long.
+1	et	et	CCONJ	_	_	10	cc	_	AlignBegin=8340|AlignEnd=8712|Intro_IU=U|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=8340|AlignEnd=8712|AvgAmplitude=79.924|AvgHeightGlo=H|AvgHeightLoc=H|Duration=371|Glo=hm|Loc=hm|MaxAmplitude=80.953|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=e|wordform=__EMPTY__
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=8712|AlignEnd=8712
+3	euh	euh	INTJ	_	_	10	discourse	_	AlignBegin=8712|AlignEnd=9184|AssociatedNucleus=U|Hesitation=Yes|Prenucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=8712|AlignEnd=9184|AvgAmplitude=77.228|AvgHeightGlo=M|AvgHeightLoc=M|Duration=472|Glo=ml|Loc=mm|MaxAmplitude=78.429|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=@|wordform=__EMPTY__
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=9184|AlignEnd=9184
+5	donc	donc	ADV	_	_	10	discourse	_	AlignBegin=9184|AlignEnd=9573|Prenucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=9184|AlignEnd=9573|AvgAmplitude=69.174|AvgHeightGlo=M|AvgHeightLoc=M|Duration=389|Glo=mm|Loc=mm|MaxAmplitude=76.341|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=do~k|wordform=__EMPTY__
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=9573|AlignEnd=9573
+7	euh	euh	INTJ	_	_	10	discourse	_	AlignBegin=9573|AlignEnd=10044|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=9573|AlignEnd=10044|AvgAmplitude=76.22|AvgHeightGlo=M|AvgHeightLoc=M|Duration=470|Glo=mm|Loc=mm|MaxAmplitude=77.293|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=@|wordform=__EMPTY__
+8	,	,	PUNCT	_	_	7	punct	_	AlignBegin=10044|AlignEnd=10044
+9	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	10	subj	_	AlignBegin=10044|AlignEnd=10194|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=10044|AlignEnd=10194|AvgAmplitude=65.281|AvgHeightGlo=M|AvgHeightLoc=M|Duration=150|Glo=lm|Loc=mm|MaxAmplitude=68.717|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+10	suivez	suivre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=10194|AlignEnd=10774|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=0.0
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=10194|AlignEnd=10424|AvgAmplitude=76.459|AvgHeightGlo=M|AvgHeightLoc=M|Duration=229|Glo=mm|Loc=mm|MaxAmplitude=82.72|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sHi|wordform=__EMPTY__
+10.2	_	_	_	_	_	10	Syl=2	_	AlignBegin=10424|AlignEnd=10774|AvgAmplitude=76.536|AvgHeightGlo=M|AvgHeightLoc=M|Duration=349|Glo=mm|Loc=mm|MaxAmplitude=79.593|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ve|wordform=__EMPTY__
+11	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	AlignBegin=10774|AlignEnd=11034|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=10774|AlignEnd=10954|AvgAmplitude=80.986|AvgHeightGlo=M|AvgHeightLoc=M|Duration=180|Glo=mm|Loc=mm|MaxAmplitude=87.764|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sE|wordform=__EMPTY__
+11.2	_	_	_	_	_	11|12	Syl=2|Syl=1	_	AlignBegin=10954|AlignEnd=11250|AvgAmplitude=66.488|AvgHeightGlo=M|AvgHeightLoc=M|Duration=296|Glo=mm|Loc=mm|MaxAmplitude=79.013|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tav|wordform=__EMPTY__
+12	avenue	avenue	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=11034|AlignEnd=11591|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+12.1	_	_	_	_	_	12	Syl=2	_	AlignBegin=11250|AlignEnd=11591|AvgHeightGlo=M|AvgHeightLoc=M|Duration=340|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ny|wordform=__EMPTY__
+13	,	,	PUNCT	_	_	14	punct	_	AlignBegin=11591|AlignEnd=11591
+14	euh	euh	INTJ	_	_	12	discourse	_	AlignBegin=11591|AlignEnd=11824|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+14.1	_	_	_	_	_	14	Syl=1	_	AlignBegin=11591|AlignEnd=11824|AvgAmplitude=73.871|AvgHeightGlo=M|AvgHeightLoc=M|Duration=233|Glo=ml|Loc=mm|MaxAmplitude=75.803|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=@|wordform=__EMPTY__
+15	,	,	PUNCT	_	_	18	punct	_	AlignBegin=11824|AlignEnd=11824
+16	tout	tout	ADJ	_	Gender=Masc|Number=Sing	18	mod	_	AlignBegin=11824|AlignEnd=12024|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16.1	_	_	_	_	_	16|17	Syl=1|Syl=1	_	AlignBegin=11824|AlignEnd=12094|AvgAmplitude=64.837|AvgHeightGlo=M|AvgHeightLoc=M|Duration=269|Glo=lm|Loc=lm|MaxAmplitude=74.406|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tu|wordform=__EMPTY__
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	AlignBegin=12024|AlignEnd=12094|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+18	long	long	NOUN	_	Gender=Masc|Number=Sing	10	mod	_	AlignBegin=12094|AlignEnd=12580|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=12094|AlignEnd=12580|AvgAmplitude=75.955|AvgHeightGlo=H|AvgHeightLoc=M|Duration=486|Glo=mH|Loc=lh|MaxAmplitude=78.627|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=llo~|wordform=__EMPTY__
+19	.	.	PUNCT	_	_	10	punct	_	AlignBegin=12580|AlignEnd=12580
+
+# sent_id = Rhap_M0013-4
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = elle fait un petit coude à un moment "vous verrez" //
+# text = elle fait un petit coude à un moment, vous verrez.
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=12580|AlignEnd=12670|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=12580|AlignEnd=12670|AvgAmplitude=76.611|AvgHeightGlo=M|AvgHeightLoc=M|Duration=89|Glo=hl|Loc=ml|MaxAmplitude=76.915|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=El|wordform=__EMPTY__
+2	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=12670|AlignEnd=13020|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|UtteranceMeanF0=0.0
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=12670|AlignEnd=13020|AvgAmplitude=70.231|AvgHeightGlo=M|AvgHeightLoc=M|Duration=349|Glo=mm|Loc=mm|MaxAmplitude=77.722|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=fE|wordform=__EMPTY__
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	AlignBegin=13020|AlignEnd=13163|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=13020|AlignEnd=13163|AvgAmplitude=71.102|AvgHeightGlo=L|AvgHeightLoc=M|Duration=142|Glo=ll|Loc=mm|MaxAmplitude=73.421|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e~|wordform=__EMPTY__
+4	petit	petit	ADJ	_	Gender=Masc|Number=Sing	5	mod	_	AlignBegin=13163|AlignEnd=13331|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=13163|AlignEnd=13331|AvgAmplitude=68.272|AvgHeightGlo=M|AvgHeightLoc=M|Duration=167|Glo=lm|Loc=lm|MaxAmplitude=77.279|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=pti|wordform=__EMPTY__
+5	coude	coude	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=13331|AlignEnd=13639|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=13331|AlignEnd=13600|AvgAmplitude=65.331|AvgHeightGlo=H|AvgHeightLoc=M|Duration=269|Glo=mh|Loc=lh|MaxAmplitude=76.111|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ku|wordform=__EMPTY__
+5.2	_	_	_	_	_	5|6	Syl=2|Syl=1	_	AlignBegin=13600|AlignEnd=13679|AvgAmplitude=74.33|AvgHeightGlo=H|AvgHeightLoc=H|Duration=78|Glo=hm|Loc=hm|MaxAmplitude=75.074|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=da|wordform=__EMPTY__
+6	à	à	ADP	_	_	2	mod	_	AlignBegin=13639|AlignEnd=13679|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=13679|AlignEnd=13730|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=13679|AlignEnd=13730|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=51|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e~|wordform=__EMPTY__
+8	moment	moment	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=13730|AlignEnd=14133|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=13730|AlignEnd=13871|AvgAmplitude=72.474|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|Glo=mm|Loc=mm|MaxAmplitude=73.517|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mO|wordform=__EMPTY__
+8.2	_	_	_	_	_	8	Syl=2	_	AlignBegin=13871|AlignEnd=14133|AvgAmplitude=74.032|AvgHeightGlo=M|AvgHeightLoc=H|Duration=261|Glo=lh|Loc=mh|MaxAmplitude=77.002|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ma~|wordform=__EMPTY__
+9	,	,	PUNCT	_	_	11	punct	_	AlignBegin=14133|AlignEnd=14133
+10	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	11	subj	_	AlignBegin=14133|AlignEnd=14220|AssociatedNucleus=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=14133|AlignEnd=14220|AvgAmplitude=62.928|AvgHeightGlo=M|AvgHeightLoc=M|Duration=87|Glo=ml|Loc=ml|MaxAmplitude=63.73|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=vu|wordform=__EMPTY__
+11	verrez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	8	discourse	_	AlignBegin=14220|AlignEnd=14643|AssociatedNucleus=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=14220|AlignEnd=14388|AvgAmplitude=67.303|AvgHeightGlo=L|AvgHeightLoc=L|Duration=167|Glo=ll|Loc=ll|MaxAmplitude=79.992|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE|wordform=__EMPTY__
+11.2	_	_	_	_	_	11	Syl=2	_	AlignBegin=14388|AlignEnd=14643|AvgAmplitude=77.001|AvgHeightGlo=H|AvgHeightLoc=H|Duration=255|Glo=lH|Loc=lH|MaxAmplitude=82.363|MeanF0=0|MeanF0Step=0|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Re|wordform=__EMPTY__
+12	.	.	PUNCT	_	_	2	punct	_	AlignBegin=14643|AlignEnd=14643
+
+# sent_id = Rhap_M0013-5
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = ^et "euh" donc < vous passez à côté { de la poste | etc } //
+# text = et, euh, donc, vous passez à côté de la poste, et caetera.
+1	et	et	CCONJ	_	_	8	cc	_	AlignBegin=15218|AlignEnd=15538|Intro_IU=U|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=15218|AlignEnd=15538|AvgAmplitude=80.03|AvgHeightGlo=M|AvgHeightLoc=H|Duration=320|Glo=mm|Loc=hm|MaxAmplitude=83.281|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=e|wordform=__EMPTY__
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=15538|AlignEnd=15538
+3	euh	euh	INTJ	_	_	8	discourse	_	AlignBegin=15538|AlignEnd=15998|AssociatedNucleus=U|Hesitation=Yes|Prenucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=15538|AlignEnd=15998|AvgAmplitude=78.834|AvgHeightGlo=M|AvgHeightLoc=M|Duration=459|Glo=ml|Loc=mm|MaxAmplitude=82.576|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=9|wordform=__EMPTY__
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=15998|AlignEnd=15998
+5	donc	donc	ADV	_	_	8	discourse	_	AlignBegin=15998|AlignEnd=16288|Prenucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=15998|AlignEnd=16288|AvgAmplitude=68.129|AvgHeightGlo=L|AvgHeightLoc=M|Duration=289|Glo=ll|Loc=mm|MaxAmplitude=72.575|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=do~k|wordform=__EMPTY__
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=16288|AlignEnd=16288
+7	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	8	subj	_	AlignBegin=16288|AlignEnd=16438|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=16288|AlignEnd=16438|AvgAmplitude=66.28|AvgHeightGlo=M|AvgHeightLoc=M|Duration=150|Glo=mm|Loc=mm|MaxAmplitude=71.847|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+8	passez	passer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=16438|AlignEnd=16738|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=0.0
+8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=16438|AlignEnd=16586|AvgAmplitude=64.728|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|Glo=mm|Loc=mm|MaxAmplitude=78.003|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pa|wordform=__EMPTY__
+8.2	_	_	_	_	_	8	Syl=2	_	AlignBegin=16586|AlignEnd=16738|AvgAmplitude=80.988|AvgHeightGlo=M|AvgHeightLoc=M|Duration=151|Glo=mm|Loc=mm|MaxAmplitude=85.659|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=se|wordform=__EMPTY__
+9	à	à	ADP	_	_	8	comp:obl	_	AlignBegin=16738|AlignEnd=16768|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=16738|AlignEnd=16768|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=29|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+10	côté	côté	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=16768|AlignEnd=16998|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=16768|AlignEnd=16838|AvgAmplitude=58.818|AvgHeightGlo=L|AvgHeightLoc=M|Duration=70|Glo=ll|Loc=mm|MaxAmplitude=58.818|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ko|wordform=__EMPTY__
+10.2	_	_	_	_	_	10	Syl=2	_	AlignBegin=16838|AlignEnd=16998|AvgAmplitude=67.913|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|Glo=mm|Loc=mm|MaxAmplitude=77.818|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=te|wordform=__EMPTY__
+11	de	de	ADP	_	_	10	udep	_	AlignBegin=16998|AlignEnd=17128|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=16998|AlignEnd=17127|AvgAmplitude=73.735|AvgHeightGlo=L|AvgHeightLoc=L|Duration=128|Glo=ll|Loc=ll|MaxAmplitude=79.496|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dla|wordform=__EMPTY__
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Shared=No	13	det	_	AlignBegin=17128|AlignEnd=17188|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+12.1	_	_	_	_	_	12|13	Syl=1|Syl=1	_	AlignBegin=17127|AlignEnd=17608|AvgAmplitude=73.774|AvgHeightGlo=H|AvgHeightLoc=H|Duration=481|Glo=hh|Loc=mh|MaxAmplitude=82.973|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=pOs|wordform=__EMPTY__
+13	poste	poste	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=17188|AlignEnd=17661|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+13.1	_	_	_	_	_	13|15	Syl=2|Syl=1	_	AlignBegin=17608|AlignEnd=17751|AvgHeightGlo=M|AvgHeightLoc=L|Duration=143|Glo=mm|Loc=ll|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tek|wordform=__EMPTY__
+14	,	,	PUNCT	_	_	15	punct	_	AlignBegin=17661|AlignEnd=17661
+15	et	et	CCONJ	_	ExtPos=ADV	10	conj:dicto	_	AlignBegin=17661|AlignEnd=17751|Idiom=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypePara=ParaHyper
+16	caetera	caetera	ADV	_	_	15	unk	_	AlignBegin=17751|AlignEnd=18388|InIdiom=Yes|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
+16.1	_	_	_	_	_	16	Syl=1	_	AlignBegin=17751|AlignEnd=17897|AvgAmplitude=73.604|AvgHeightGlo=L|AvgHeightLoc=M|Duration=145|Glo=ll|Loc=mm|MaxAmplitude=81.286|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=se|wordform=__EMPTY__
+16.2	_	_	_	_	_	16	Syl=2	_	AlignBegin=17897|AlignEnd=18033|AvgAmplitude=66.893|AvgHeightGlo=L|AvgHeightLoc=L|Duration=135|Glo=ll|Loc=Ll|MaxAmplitude=76.335|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=te|wordform=__EMPTY__
+16.3	_	_	_	_	_	16	Syl=3	_	AlignBegin=18033|AlignEnd=18388|AvgAmplitude=73.41|AvgHeightGlo=H|AvgHeightLoc=H|Duration=354|Glo=mH|Loc=lH|MaxAmplitude=76.512|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Ra|wordform=__EMPTY__
+17	.	.	PUNCT	_	_	8	punct	_	AlignBegin=18388|AlignEnd=18388
+
+# sent_id = Rhap_M0013-6
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = ^et au bout d'un temps <+ vous allez arriver sur une grande place avec une fontaine au milieu //
+# text = et au bout d'un temps, vous allez arriver sur une grande place avec une fontaine au milieu.
+1	et	et	CCONJ	_	_	9	cc	_	AlignBegin=18620|AlignEnd=18980|Intro_IU=U|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=18620|AlignEnd=18980|AvgAmplitude=77.077|AvgHeightGlo=H|AvgHeightLoc=M|Duration=359|Glo=hh|Loc=mm|MaxAmplitude=77.987|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e|wordform=__EMPTY__
+2	au	au	ADP	_	_	9	mod	_	AlignBegin=18980|AlignEnd=19050|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=18980|AlignEnd=19050|AvgAmplitude=76.607|AvgHeightGlo=H|AvgHeightLoc=M|Duration=70|Glo=hm|Loc=ml|MaxAmplitude=76.607|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=o|wordform=__EMPTY__
+3	bout	bout	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=19050|AlignEnd=19170|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=19050|AlignEnd=19170|AvgAmplitude=64.843|AvgHeightGlo=M|AvgHeightLoc=M|Duration=120|Glo=mm|Loc=mm|MaxAmplitude=68.569|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=bu|wordform=__EMPTY__
+4	d'	de	ADP	_	_	3	udep	_	AlignBegin=19170|AlignEnd=19210|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4.1	_	_	_	_	_	4|5	Syl=1|Syl=1	_	AlignBegin=19170|AlignEnd=19280|AvgAmplitude=75.654|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Glo=mm|Loc=mm|MaxAmplitude=77.119|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=de~|wordform=__EMPTY__
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=19210|AlignEnd=19280|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+6	temps	temps	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=19280|AlignEnd=19444|GovNucleus=Last|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=19280|AlignEnd=19444|AvgAmplitude=70.727|AvgHeightGlo=M|AvgHeightLoc=M|Duration=164|Glo=lh|Loc=lh|MaxAmplitude=79.171|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ta~|wordform=__EMPTY__
+7	,	,	PUNCT	_	_	2	punct	_	AlignBegin=19444|AlignEnd=19444
+8	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	9	subj	_	AlignBegin=19444|AlignEnd=19504|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=19444|AlignEnd=19504|AvgAmplitude=0|AvgHeightGlo=H|AvgHeightLoc=M|Duration=60|Glo=hh|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+9	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=19504|AlignEnd=19684|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=0.0
+9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=19504|AlignEnd=19614|AvgAmplitude=72.396|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Glo=mm|Loc=mm|MaxAmplitude=73.285|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za|wordform=__EMPTY__
+9.2	_	_	_	_	_	9	Syl=2	_	AlignBegin=19614|AlignEnd=19684|AvgAmplitude=75.88|AvgHeightGlo=M|AvgHeightLoc=M|Duration=70|Glo=mm|Loc=mm|MaxAmplitude=75.88|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le|wordform=__EMPTY__
+10	arriver	arriver	VERB	_	VerbForm=Inf	9	comp:obj	_	AlignBegin=19684|AlignEnd=19924|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=19684|AlignEnd=19754|AvgAmplitude=78.691|AvgHeightGlo=M|AvgHeightLoc=M|Duration=70|Glo=mm|Loc=mm|MaxAmplitude=78.691|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+10.2	_	_	_	_	_	10	Syl=2	_	AlignBegin=19754|AlignEnd=19814|AvgAmplitude=0|AvgHeightGlo=L|AvgHeightLoc=M|Duration=59|Glo=ll|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ri|wordform=__EMPTY__
+10.3	_	_	_	_	_	10	Syl=3	_	AlignBegin=19814|AlignEnd=19924|AvgAmplitude=71.937|AvgHeightGlo=M|AvgHeightLoc=H|Duration=109|Glo=lm|Loc=mh|MaxAmplitude=76.18|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ve|wordform=__EMPTY__
+11	sur	sur	ADP	_	_	10	comp:obl	_	AlignBegin=19924|AlignEnd=20104|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=19924|AlignEnd=20074|AvgAmplitude=74.475|AvgHeightGlo=M|AvgHeightLoc=M|Duration=149|Glo=mm|Loc=mm|MaxAmplitude=80.918|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sy|wordform=__EMPTY__
+11.2	_	_	_	_	_	11|12	Syl=2|Syl=1	_	AlignBegin=20074|AlignEnd=20174|AvgAmplitude=71.262|AvgHeightGlo=M|AvgHeightLoc=M|Duration=100|Glo=ml|Loc=mm|MaxAmplitude=72.436|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=Ryn|wordform=__EMPTY__
+12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	AlignBegin=20104|AlignEnd=20174|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13	grande	grand	ADJ	_	Gender=Fem|Number=Sing	14	mod	_	AlignBegin=20174|AlignEnd=20434|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=20174|AlignEnd=20434|AvgAmplitude=72.875|AvgHeightGlo=M|AvgHeightLoc=M|Duration=260|Glo=lm|Loc=lm|MaxAmplitude=77.496|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=gRa~d|wordform=__EMPTY__
+14	place	place	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=20434|AlignEnd=20863|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+14.1	_	_	_	_	_	14	Syl=1	_	AlignBegin=20434|AlignEnd=20863|AvgAmplitude=73.157|AvgHeightGlo=M|AvgHeightLoc=M|Duration=428|Glo=mm|Loc=mm|MaxAmplitude=82.241|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=plas|wordform=__EMPTY__
+15	avec	avec	ADP	_	_	14	udep	_	AlignBegin=20863|AlignEnd=21085|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15.1	_	_	_	_	_	15	Syl=1	_	AlignBegin=20863|AlignEnd=20893|AvgAmplitude=0|Glo=X|Loc=X|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=a|wordform=__EMPTY__
+15.2	_	_	_	_	_	15|16.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=20893|AlignEnd=20973|AvgAmplitude=66.396|AvgHeightGlo=L|AvgHeightLoc=M|Duration=79|Glo=ll|Loc=mm|MaxAmplitude=66.821|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE|wordform=__EMPTY__
+16	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	AlignBegin=21085|AlignEnd=21133|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+16.1	_	_	_	_	_	16	Syl=1	_	AlignBegin=20973|AlignEnd=21133|AvgAmplitude=62.343|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|ExternalOnset=True|Glo=lm|Loc=mm|MaxAmplitude=72.885|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=kyn|wordform=__EMPTY__
+17	fontaine	fontaine	NOUN	_	Gender=Fem|Number=Sing	15	comp:obj	_	AlignBegin=21133|AlignEnd=21533|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+17.1	_	_	_	_	_	17	Syl=1	_	AlignBegin=21133|AlignEnd=21313|AvgAmplitude=62.348|AvgHeightGlo=M|AvgHeightLoc=M|Duration=179|Glo=mm|Loc=mm|MaxAmplitude=74.862|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=fo~|wordform=__EMPTY__
+17.2	_	_	_	_	_	17|18.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=21313|AlignEnd=21459|AvgAmplitude=64.551|AvgHeightGlo=M|AvgHeightLoc=M|Duration=146|Glo=mm|Loc=mm|MaxAmplitude=76.159|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tE|wordform=__EMPTY__
+18	au	au	ADP	_	_	17	udep	_	AlignBegin=21533|AlignEnd=21563|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=21459|AlignEnd=21563|AvgAmplitude=73.757|AvgHeightGlo=M|AvgHeightLoc=M|Duration=103|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=74.502|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=no|wordform=__EMPTY__
+19	milieu	milieu	NOUN	_	Gender=Masc|Number=Sing	18	comp:obj	_	AlignBegin=21563|AlignEnd=21982|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=21563|AlignEnd=21723|AvgAmplitude=73.599|AvgHeightGlo=M|AvgHeightLoc=L|Duration=160|Glo=mm|Loc=ll|MaxAmplitude=74.503|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mi|wordform=__EMPTY__
+19.2	_	_	_	_	_	19	Syl=2	_	AlignBegin=21723|AlignEnd=21982|AvgAmplitude=74.826|AvgHeightGlo=H|AvgHeightLoc=H|Duration=259|Glo=lH|Loc=lH|MaxAmplitude=78.431|MeanF0=0|MeanF0Step=0|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=lj2|wordform=__EMPTY__
+20	.	.	PUNCT	_	_	9	punct	_	AlignBegin=21982|AlignEnd=21982
+
+# sent_id = Rhap_M0013-7
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = c'est la place Victor Hugo //
+# text = c'est la place Victor Hugo.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	AlignBegin=21982|AlignEnd=22133|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+1.1	_	_	_	_	_	1|2	Syl=1|Syl=1	_	AlignBegin=21982|AlignEnd=22173|AvgAmplitude=74.34|Glo=X|Loc=X|MaxAmplitude=79.579|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=sE|wordform=__EMPTY__
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=22133|AlignEnd=22173|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=0.0
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=22173|AlignEnd=22288|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=22173|AlignEnd=22288|AvgAmplitude=73.453|AvgHeightGlo=L|AvgHeightLoc=M|Duration=114|Glo=ll|Loc=mm|MaxAmplitude=78.903|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=la|wordform=__EMPTY__
+4	place	place	NOUN	_	Gender=Fem|Number=Sing	2	comp:pred	_	AlignBegin=22288|AlignEnd=22523|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=22288|AlignEnd=22523|AvgAmplitude=66.61|AvgHeightGlo=M|AvgHeightLoc=M|Duration=235|Glo=mm|Loc=mm|MaxAmplitude=79.275|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=plas|wordform=__EMPTY__
+5	Victor	Victor	PROPN	_	_	4	mod@appos	_	AlignBegin=22523|AlignEnd=22833|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=22523|AlignEnd=22643|AvgAmplitude=67.691|AvgHeightGlo=L|AvgHeightLoc=M|Duration=120|Glo=ll|Loc=mm|MaxAmplitude=71.634|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vik|wordform=__EMPTY__
+5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=22643|AlignEnd=22803|AvgAmplitude=67.565|AvgHeightGlo=L|AvgHeightLoc=M|Duration=160|Glo=ll|Loc=mm|MaxAmplitude=75.288|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tO|wordform=__EMPTY__
+5.3	_	_	_	_	_	5|6	Syl=3|Syl=1	_	AlignBegin=22803|AlignEnd=22863|AvgAmplitude=0|AvgHeightGlo=L|AvgHeightLoc=L|Duration=60|Glo=ll|Loc=ll|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ry|wordform=__EMPTY__
+6	Hugo	Hugo	PROPN	_	_	5	flat@name	_	AlignBegin=22833|AlignEnd=23083|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+6.1	_	_	_	_	_	6	Syl=2	_	AlignBegin=22863|AlignEnd=23083|AvgHeightGlo=M|AvgHeightLoc=M|Duration=219|Glo=LH|Loc=LH|PitchRangeGlo=H|PitchRangeLoc=H|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=go|wordform=__EMPTY__
+7	.	.	PUNCT	_	_	2	punct	_	AlignBegin=23083|AlignEnd=23083
+
+# sent_id = Rhap_M0013-8
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = ^et "euh" donc < "euh" vous rencontrez à ce moment-là { le | le } tram { que vous pouvez longer | que vous pouvez suivre } "euh" en prenant à gauche //
+# text = et, euh, donc, euh, vous rencontrez à ce moment-là le, le tram que vous pouvez longer, que vous pouvez suivre, euh, en prenant à gauche.
+1	et	et	CCONJ	_	_	10	cc	_	AlignBegin=23824|AlignEnd=24077|Intro_IU=U|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=23824|AlignEnd=24077|AvgAmplitude=78.103|AvgHeightGlo=H|AvgHeightLoc=H|Duration=252|Glo=hm|Loc=hm|MaxAmplitude=79.348|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=e|wordform=__EMPTY__
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=24077|AlignEnd=24077
+3	euh	euh	INTJ	_	_	10	discourse	_	AlignBegin=24077|AlignEnd=24350|AssociatedNucleus=U|Hesitation=Yes|Prenucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=24077|AlignEnd=24350|AvgAmplitude=79.719|AvgHeightGlo=M|AvgHeightLoc=M|Duration=273|Glo=mm|Loc=mm|MaxAmplitude=80.61|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=9|wordform=__EMPTY__
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=24350|AlignEnd=24350
+5	donc	donc	ADV	_	_	10	discourse	_	AlignBegin=24350|AlignEnd=24625|Prenucleus=Last|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak|SpaceAfter=No
+5.1	_	_	_	_	_	5|7.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=24350|AlignEnd=24504|AvgAmplitude=75.287|AvgHeightGlo=M|AvgHeightLoc=M|Duration=154|Glo=mm|Loc=mm|MaxAmplitude=76.319|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=do~|wordform=__EMPTY__
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=24625|AlignEnd=24625
+7	euh	euh	INTJ	_	_	10	discourse	_	AlignBegin=24625|AlignEnd=25157|AssociatedNucleus=U|Hesitation=Yes|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=24504|AlignEnd=25157|AvgAmplitude=73.78|AvgHeightGlo=M|AvgHeightLoc=M|Duration=652|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=79.963|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=k9|wordform=__EMPTY__
+8	,	,	PUNCT	_	_	7	punct	_	AlignBegin=25157|AlignEnd=25157
+9	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	10	subj	_	AlignBegin=25157|AlignEnd=25307|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=25157|AlignEnd=25307|AvgAmplitude=64.538|AvgHeightGlo=M|AvgHeightLoc=M|Duration=150|Glo=mm|Loc=mm|MaxAmplitude=66.044|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+10	rencontrez	rencontrer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=25307|AlignEnd=25777|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=0.0
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=25307|AlignEnd=25437|AvgAmplitude=74.322|AvgHeightGlo=M|AvgHeightLoc=M|Duration=129|Glo=mm|Loc=mm|MaxAmplitude=75.471|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ra~|wordform=__EMPTY__
+10.2	_	_	_	_	_	10	Syl=2	_	AlignBegin=25437|AlignEnd=25587|AvgAmplitude=65.841|AvgHeightGlo=H|AvgHeightLoc=M|Duration=149|Glo=mh|Loc=mm|MaxAmplitude=75.094|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=ko~|wordform=__EMPTY__
+10.3	_	_	_	_	_	10	Syl=3	_	AlignBegin=25587|AlignEnd=25777|AvgAmplitude=64.07|AvgHeightGlo=M|AvgHeightLoc=M|Duration=190|Glo=mm|Loc=mm|MaxAmplitude=69.638|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tRe|wordform=__EMPTY__
+11	à	à	ADP	_	_	10	mod	_	AlignBegin=25777|AlignEnd=25873|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=25777|AlignEnd=25873|AvgAmplitude=78.884|AvgHeightGlo=M|AvgHeightLoc=M|Duration=96|Glo=mm|Loc=mm|MaxAmplitude=79.238|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+12	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	AlignBegin=25873|AlignEnd=26017|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=25873|AlignEnd=26017|AvgAmplitude=66.429|AvgHeightGlo=M|AvgHeightLoc=M|Duration=143|Glo=mm|Loc=mm|MaxAmplitude=78.162|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=s@|wordform=__EMPTY__
+13	moment	moment	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	AlignBegin=26017|AlignEnd=26167|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=26017|AlignEnd=26107|AvgAmplitude=73.364|AvgHeightGlo=M|AvgHeightLoc=M|Duration=89|Glo=mm|Loc=mm|MaxAmplitude=73.965|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mO|wordform=__EMPTY__
+13.2	_	_	_	_	_	13	Syl=2	_	AlignBegin=26107|AlignEnd=26167|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=59|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ma~|wordform=__EMPTY__
+14	-là	là	ADV	_	_	13	mod	_	AlignBegin=26167|AlignEnd=26375
+14.1	_	_	_	_	_	14	Syl=1	_	AlignBegin=26167|AlignEnd=26375|AvgAmplitude=77.033|AvgHeightGlo=M|AvgHeightLoc=M|Duration=208|Glo=mm|Loc=mm|MaxAmplitude=79.346|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=la|wordform=__EMPTY__
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	AlignBegin=26375|AlignEnd=26849|Hesitation=Yes|Layer=U|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No|TypeInherited=DepInherited|TypePara=ParaDisfl
+15.1	_	_	_	_	_	15	Syl=1	_	AlignBegin=26375|AlignEnd=26849|AvgAmplitude=75.43|AvgHeightGlo=M|AvgHeightLoc=M|Duration=473|Glo=ml|Loc=mm|MaxAmplitude=77.076|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=l@|wordform=__EMPTY__
+16	,	,	PUNCT	_	_	17	punct	_	AlignBegin=26849|AlignEnd=26849
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	conj:dicto	_	AlignBegin=26849|AlignEnd=27019|Layer=U|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+17.1	_	_	_	_	_	17	Syl=1	_	AlignBegin=26849|AlignEnd=27019|AvgAmplitude=68.149|AvgHeightGlo=M|AvgHeightLoc=M|Duration=170|Glo=mm|Loc=mm|MaxAmplitude=71.749|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=l@|wordform=__EMPTY__
+18	tram	tram	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=27019|AlignEnd=27552|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=tail
+18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=27019|AlignEnd=27297|AvgAmplitude=69.944|AvgHeightGlo=H|AvgHeightLoc=H|Duration=278|Glo=lH|Loc=lH|MaxAmplitude=77.654|MeanF0=0|MeanF0Step=0|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tRa|wordform=__EMPTY__
+18.2	_	_	_	_	_	18	Syl=2	_	AlignBegin=27297|AlignEnd=27552|AvgAmplitude=71.62|AvgHeightGlo=M|AvgHeightLoc=M|Duration=254|Glo=HL|Loc=HL|MaxAmplitude=75.59|MeanF0=0|MeanF0Step=0|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=m@|wordform=__EMPTY__
+19	que	que	PRON	_	PronType=Rel	22	comp:obj	_	AlignBegin=28111|AlignEnd=28311|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=28111|AlignEnd=28311|AvgAmplitude=73.124|AvgHeightGlo=M|AvgHeightLoc=M|Duration=199|Glo=mm|Loc=mm|MaxAmplitude=80.248|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=k@|wordform=__EMPTY__
+20	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	21	subj	_	AlignBegin=28311|AlignEnd=28481|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+20.1	_	_	_	_	_	20	Syl=1	_	AlignBegin=28311|AlignEnd=28481|AvgAmplitude=68.411|AvgHeightGlo=M|AvgHeightLoc=M|Duration=170|Glo=lm|Loc=mm|MaxAmplitude=73.082|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+21	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	18	mod@relcl	_	AlignBegin=28481|AlignEnd=28771|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+21.1	_	_	_	_	_	21	Syl=1	_	AlignBegin=28481|AlignEnd=28641|AvgAmplitude=62.754|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|Glo=lm|Loc=mm|MaxAmplitude=70.161|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=pu|wordform=__EMPTY__
+21.2	_	_	_	_	_	21	Syl=2	_	AlignBegin=28641|AlignEnd=28771|AvgAmplitude=77.308|AvgHeightGlo=M|AvgHeightLoc=M|Duration=129|Glo=mm|Loc=mm|MaxAmplitude=85.161|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ve|wordform=__EMPTY__
+22	longer	longer	VERB	_	VerbForm=Inf	21	comp:obj	_	AlignBegin=28771|AlignEnd=29327|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No|Subject=SubjRaising
+22.1	_	_	_	_	_	22	Syl=1	_	AlignBegin=28771|AlignEnd=28994|AvgAmplitude=78.251|AvgHeightGlo=H|AvgHeightLoc=M|Duration=223|Glo=mh|Loc=lm|MaxAmplitude=79.016|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=lo~|wordform=__EMPTY__
+22.2	_	_	_	_	_	22	Syl=2	_	AlignBegin=28994|AlignEnd=29327|AvgAmplitude=77.03|AvgHeightGlo=H|AvgHeightLoc=M|Duration=332|Glo=mH|Loc=lh|MaxAmplitude=80.391|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Ze|wordform=__EMPTY__
+23	,	,	PUNCT	_	_	26	punct	_	AlignBegin=29327|AlignEnd=29327
+24	que	que	PRON	_	PronType=Rel	27	comp:obj	_	AlignBegin=29327|AlignEnd=29450|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+24.1	_	_	_	_	_	24	Syl=1	_	AlignBegin=29327|AlignEnd=29450|AvgAmplitude=70.852|AvgHeightGlo=H|AvgHeightLoc=M|Duration=122|Glo=Hm|Loc=hl|MaxAmplitude=76.109|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=k@|wordform=__EMPTY__
+25	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	26	subj	_	AlignBegin=29450|AlignEnd=29572|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+25.1	_	_	_	_	_	25	Syl=1	_	AlignBegin=29450|AlignEnd=29572|AvgAmplitude=70.418|AvgHeightGlo=L|AvgHeightLoc=M|Duration=122|Glo=ll|Loc=mm|MaxAmplitude=70.904|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+26	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	22	conj:dicto	_	AlignBegin=29572|AlignEnd=29824|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaReform
+26.1	_	_	_	_	_	26	Syl=1	_	AlignBegin=29572|AlignEnd=29672|AvgAmplitude=56.466|AvgHeightGlo=M|AvgHeightLoc=M|Duration=99|Glo=lm|Loc=mm|MaxAmplitude=59.916|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=pu|wordform=__EMPTY__
+26.2	_	_	_	_	_	26	Syl=2	_	AlignBegin=29672|AlignEnd=29824|AvgAmplitude=77.62|AvgHeightGlo=M|AvgHeightLoc=M|Duration=152|Glo=lm|Loc=lm|MaxAmplitude=80.383|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ve|wordform=__EMPTY__
+27	suivre	suivre	VERB	_	VerbForm=Inf	26	comp:obj	_	AlignBegin=29824|AlignEnd=30321|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No|Subject=SubjRaising
+27.1	_	_	_	_	_	27	Syl=1	_	AlignBegin=29824|AlignEnd=30321|AvgAmplitude=74.719|AvgHeightGlo=H|AvgHeightLoc=H|Duration=497|Glo=hhH2|Loc=hhH2|MaxAmplitude=82.939|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sHivR|wordform=__EMPTY__
+28	,	,	PUNCT	_	_	29	punct	_	AlignBegin=30321|AlignEnd=30321
+29	euh	euh	INTJ	_	_	27	discourse	_	AlignBegin=30321|AlignEnd=30672|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+29.1	_	_	_	_	_	29	Syl=1	_	AlignBegin=30321|AlignEnd=30672|AvgAmplitude=78.379|AvgHeightGlo=M|AvgHeightLoc=M|Duration=350|Glo=ml|Loc=ml|MaxAmplitude=79.736|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=9|wordform=__EMPTY__
+30	,	,	PUNCT	_	_	31	punct	_	AlignBegin=30672|AlignEnd=30672
+31	en	en	ADP	_	_	26	mod	_	AlignBegin=30672|AlignEnd=30822|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=AdInherited
+31.1	_	_	_	_	_	31	Syl=1	_	AlignBegin=30672|AlignEnd=30822|AvgAmplitude=66.897|AvgHeightGlo=M|AvgHeightLoc=M|Duration=150|Glo=lm|Loc=mm|MaxAmplitude=73.226|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=a~|wordform=__EMPTY__
+32	prenant	prendre	VERB	_	Tense=Pres|VerbForm=Part	31	comp:obj	_	AlignBegin=30822|AlignEnd=31182|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+32.1	_	_	_	_	_	32	Syl=1	_	AlignBegin=30822|AlignEnd=31012|AvgAmplitude=60.046|AvgHeightGlo=L|AvgHeightLoc=L|Duration=189|Glo=ll|Loc=ll|MaxAmplitude=65.961|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pR@|wordform=__EMPTY__
+32.2	_	_	_	_	_	32	Syl=2	_	AlignBegin=31012|AlignEnd=31182|AvgAmplitude=75.528|AvgHeightGlo=M|AvgHeightLoc=M|Duration=170|Glo=mm|Loc=mm|MaxAmplitude=77.037|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=na~|wordform=__EMPTY__
+33	à	à	ADP	_	_	32	comp:obl	_	AlignBegin=31182|AlignEnd=31250|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+33.1	_	_	_	_	_	33	Syl=1	_	AlignBegin=31182|AlignEnd=31250|AvgAmplitude=77.753|AvgHeightGlo=M|AvgHeightLoc=M|Duration=67|Glo=mm|Loc=mm|MaxAmplitude=77.753|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+34	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	33	comp:obj	_	AlignBegin=31250|AlignEnd=31640|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+34.1	_	_	_	_	_	34	Syl=1	_	AlignBegin=31250|AlignEnd=31640|AvgAmplitude=73.194|AvgHeightGlo=M|AvgHeightLoc=M|Duration=390|Glo=ml|Loc=mm|MaxAmplitude=76.674|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=goS|wordform=__EMPTY__
+35	.	.	PUNCT	_	_	10	punct	_	AlignBegin=31640|AlignEnd=31640
+
+# sent_id = Rhap_M0013-9
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = ^et à ce moment-là <+ { si vous le ESPERLUETTE "euh" | si vous suivez les rails } <+ { vous allez arriver "euh" { à peu près "euh" [ je sais pas combien de temps ESPERLUETTE // ] | à peu près "euh" [ ça doit être { cinq-cents ESPERLUETTE | peut-être "oh" un petit kilomètre } plus loin // ] } | vous allez arriver } à la gare //
+# text = et à ce moment-là, si vous le, euh, si vous suivez les rails, vous allez arriver, euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça doit être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez arriver à la gare.
+1	et	et	CCONJ	_	_	19	cc	_	AlignBegin=31640|AlignEnd=32679|Hesitation=Yes|Intro_IU=U|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=31640|AlignEnd=32679|AvgAmplitude=70.489|AvgHeightGlo=L|AvgHeightLoc=M|Duration=1038|Glo=ll|Loc=mm|MaxAmplitude=76.488|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e|wordform=__EMPTY__
+2	à	à	ADP	_	_	19	mod	_	AlignBegin=32679|AlignEnd=32829|GovNucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=AdInherited
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=32679|AlignEnd=32829|AvgAmplitude=68.354|Glo=X|Loc=X|MaxAmplitude=74.738|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=a|wordform=__EMPTY__
+3	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	AlignBegin=32829|AlignEnd=32974|GovNucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=32829|AlignEnd=32974|AvgAmplitude=70.312|Glo=X|Loc=X|MaxAmplitude=77.596|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=s|wordform=__EMPTY__
+4	moment	moment	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=32974|AlignEnd=33239|GovNucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=32974|AlignEnd=33062|AvgAmplitude=73.02|AvgHeightGlo=M|AvgHeightLoc=M|Duration=87|Glo=mm|Loc=mm|MaxAmplitude=73.475|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mO|wordform=__EMPTY__
+4.2	_	_	_	_	_	4	Syl=2	_	AlignBegin=33062|AlignEnd=33239|AvgAmplitude=75.199|AvgHeightGlo=M|AvgHeightLoc=L|Duration=177|Glo=mm|Loc=ll|MaxAmplitude=76.298|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ma~|wordform=__EMPTY__
+5	-là	là	ADV	_	_	4	mod	_	AlignBegin=33239|AlignEnd=33550|SpaceAfter=No
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=33239|AlignEnd=33550|AvgAmplitude=75.987|AvgHeightGlo=H|AvgHeightLoc=H|Duration=310|Glo=lH|Loc=lH|MaxAmplitude=77.248|MeanF0=0|MeanF0Step=0|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=la|wordform=__EMPTY__
+6	si	si	SCONJ	_	_	19	mod	_	AlignBegin=33550|AlignEnd=33770|GovNucleus=Begin|Hesitation=Yes|Layer=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong|TypeInherited=AdInherited|TypePara=ParaDisfl
+6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=33550|AlignEnd=33770|AvgAmplitude=79.052|AvgHeightGlo=H|AvgHeightLoc=H|Duration=219|Glo=Hm|Loc=Hl|MaxAmplitude=83.725|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=si|wordform=__EMPTY__
+7	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	6	comp:obj@scrap	_	AlignBegin=33770|AlignEnd=34010|GovNucleus=In|Hesitation=Yes|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=33770|AlignEnd=34010|AvgAmplitude=66.879|AvgHeightGlo=M|AvgHeightLoc=M|Duration=240|Glo=lm|Loc=mm|MaxAmplitude=74.937|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+8	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	unk@scrap	_	AlignBegin=34010|AlignEnd=34040|GovNucleus=In|Hesitation=Yes|Layer=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+8.1	_	_	_	_	_	8|10	Syl=1|Syl=1	_	AlignBegin=34010|AlignEnd=34490|AvgAmplitude=76.351|AvgHeightGlo=M|AvgHeightLoc=M|Duration=479|Glo=ml|Loc=mm|MaxAmplitude=78.927|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=l9|wordform=__EMPTY__
+9	,	,	PUNCT	_	_	10	punct	_	AlignBegin=34040|AlignEnd=34040
+10	euh	euh	INTJ	_	_	8	discourse	_	AlignBegin=34040|AlignEnd=34490|AssociatedNucleus=U|GovNucleus=In|Hesitation=Yes|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	AlignBegin=34490|AlignEnd=34689
+12	si	si	SCONJ	_	_	6	conj:dicto	_	AlignBegin=34689|AlignEnd=34780|GovNucleus=In|Layer=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited
+12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=34689|AlignEnd=34780|AvgAmplitude=69.25|Glo=X|Loc=X|MaxAmplitude=71.095|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=si|wordform=__EMPTY__
+13	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	14	subj	_	AlignBegin=34780|AlignEnd=34869|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=34780|AlignEnd=34869|AvgAmplitude=75.125|AvgHeightGlo=M|AvgHeightLoc=M|Duration=89|Glo=mm|Loc=mm|MaxAmplitude=76.071|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+14	suivez	suivre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	comp:obj	_	AlignBegin=34869|AlignEnd=35159|GovNucleus=In|Layer=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+14.1	_	_	_	_	_	14	Syl=1	_	AlignBegin=34869|AlignEnd=35049|AvgAmplitude=77.819|AvgHeightGlo=H|AvgHeightLoc=M|Duration=179|Glo=mh|Loc=lm|MaxAmplitude=82.971|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=sHi|wordform=__EMPTY__
+14.2	_	_	_	_	_	14	Syl=2	_	AlignBegin=35049|AlignEnd=35159|AvgAmplitude=78.104|AvgHeightGlo=H|AvgHeightLoc=M|Duration=109|Glo=hh|Loc=mm|MaxAmplitude=79.998|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ve|wordform=__EMPTY__
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	det	_	AlignBegin=35159|AlignEnd=35299|GovNucleus=In|Layer=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+15.1	_	_	_	_	_	15	Syl=1	_	AlignBegin=35159|AlignEnd=35299|AvgAmplitude=78.874|AvgHeightGlo=H|AvgHeightLoc=M|Duration=140|Glo=hm|Loc=ml|MaxAmplitude=83.579|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=le|wordform=__EMPTY__
+16	rails	rail	NOUN	_	Gender=Masc|Number=Plur	14	comp:obj	_	AlignBegin=35299|AlignEnd=35739|GovNucleus=Last|Layer=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+16.1	_	_	_	_	_	16	Syl=1	_	AlignBegin=35299|AlignEnd=35739|AvgAmplitude=75.276|AvgHeightGlo=H|AvgHeightLoc=H|Duration=440|Glo=mHH3|Loc=lhH3|MaxAmplitude=80.366|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Raj|wordform=__EMPTY__
+17	,	,	PUNCT	_	_	6	punct	_	AlignBegin=35739|AlignEnd=36257
+18	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	19	subj	_	AlignBegin=36257|AlignEnd=36327|Layer=Begin|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=36257|AlignEnd=36327|AvgAmplitude=64.999|AvgHeightGlo=M|AvgHeightLoc=M|Duration=70|Glo=mm|Loc=mm|MaxAmplitude=64.999|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+19	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=36327|AlignEnd=36637|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=0.0
+19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=36327|AlignEnd=36487|AvgAmplitude=78.803|AvgHeightGlo=H|AvgHeightLoc=M|Duration=160|Glo=mh|Loc=mm|MaxAmplitude=83.278|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=za|wordform=__EMPTY__
+19.2	_	_	_	_	_	19	Syl=2	_	AlignBegin=36487|AlignEnd=36637|AvgAmplitude=75.594|AvgHeightGlo=H|AvgHeightLoc=M|Duration=149|Glo=mh|Loc=mm|MaxAmplitude=80.151|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=le|wordform=__EMPTY__
+20	arriver	arriver	VERB	_	VerbForm=Inf	19	comp:obj	_	AlignBegin=36637|AlignEnd=37343|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|Subject=SubjRaising
+20.1	_	_	_	_	_	20	Syl=1	_	AlignBegin=36637|AlignEnd=36717|AvgAmplitude=82.377|AvgHeightGlo=H|AvgHeightLoc=M|Duration=79|Glo=hh|Loc=mm|MaxAmplitude=84.007|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+20.2	_	_	_	_	_	20	Syl=2	_	AlignBegin=36717|AlignEnd=36897|AvgAmplitude=67.337|AvgHeightGlo=H|AvgHeightLoc=M|Duration=179|Glo=mh|Loc=mm|MaxAmplitude=73.433|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=Ri|wordform=__EMPTY__
+20.3	_	_	_	_	_	20	Syl=3	_	AlignBegin=36897|AlignEnd=37343|AvgAmplitude=75.386|AvgHeightGlo=H|AvgHeightLoc=H|Duration=445|Glo=mh|Loc=mh|MaxAmplitude=79.488|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ve|wordform=__EMPTY__
+21	,	,	PUNCT	_	_	22	punct	_	AlignBegin=37343|AlignEnd=37343
+22	euh	euh	INTJ	_	_	20	discourse	_	AlignBegin=37343|AlignEnd=37979|AssociatedNucleus=U|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+22.1	_	_	_	_	_	22	Syl=1	_	AlignBegin=37343|AlignEnd=37979|AvgAmplitude=76.29|AvgHeightGlo=M|AvgHeightLoc=M|Duration=636|Glo=ml|Loc=ml|MaxAmplitude=80.291|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=9|wordform=__EMPTY__
+23	,	,	PUNCT	_	_	24	punct	_	AlignBegin=37979|AlignEnd=37979
+24	à	à	ADP	_	ExtPos=ADV	20	mod	_	AlignBegin=37979|AlignEnd=38109|Idiom=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong|TypeInherited=AdInherited|TypePara=ParaDisfl
+24.1	_	_	_	_	_	24	Syl=1	_	AlignBegin=37979|AlignEnd=38109|AvgAmplitude=69.155|Glo=X|Loc=X|MaxAmplitude=71.063|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=a|wordform=__EMPTY__
+25	peu	peu	ADV	_	_	24	comp:obj	_	AlignBegin=38109|AlignEnd=38339|InIdiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-strong
+25.1	_	_	_	_	_	25	Syl=1	_	AlignBegin=38109|AlignEnd=38339|AvgAmplitude=55.933|AvgHeightGlo=M|AvgHeightLoc=M|Duration=229|Glo=mm|Loc=mm|MaxAmplitude=68.404|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=p2|wordform=__EMPTY__
+26	près	près	ADV	_	_	24	mod	_	AlignBegin=38339|AlignEnd=38867|Hesitation=Yes|InIdiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+26.1	_	_	_	_	_	26	Syl=1	_	AlignBegin=38339|AlignEnd=38867|AvgAmplitude=69.148|AvgHeightGlo=M|AvgHeightLoc=M|Duration=527|Glo=mm|Loc=mm|MaxAmplitude=76.774|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pRE|wordform=__EMPTY__
+27	,	,	PUNCT	_	_	28	punct	_	AlignBegin=38867|AlignEnd=38867
+28	euh	euh	INTJ	_	_	26	discourse	_	AlignBegin=38867|AlignEnd=39367|AssociatedNucleus=U|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+28.1	_	_	_	_	_	28	Syl=1	_	AlignBegin=38867|AlignEnd=39367|AvgAmplitude=71.679|AvgHeightGlo=M|AvgHeightLoc=M|Duration=500|Glo=lm|Loc=mm|MaxAmplitude=76.754|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=9m|wordform=__EMPTY__
+29	,	,	PUNCT	_	_	31	punct	_	AlignBegin=39367|AlignEnd=39572
+30	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	31	subj	_	AlignBegin=39572|AlignEnd=39647|IU_graft=Begin|Layer=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
+30.1	_	_	_	_	_	30	Syl=1	_	AlignBegin=39572|AlignEnd=39647|AvgAmplitude=63.101|AvgHeightGlo=M|AvgHeightLoc=M|Duration=75|Glo=mm|Loc=mm|MaxAmplitude=63.3|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Z@|wordform=__EMPTY__
+31	sais	savoir	VERB	_	ExtPos=ADV|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	conj:dicto	_	AlignBegin=39647|AlignEnd=39771|Graft=Yes|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+31.1	_	_	_	_	_	31	Syl=1	_	AlignBegin=39647|AlignEnd=39771|AvgAmplitude=76.848|Glo=X|Loc=X|MaxAmplitude=79.699|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=sE|wordform=__EMPTY__
+32	pas	pas	ADV	_	Polarity=Neg	31	mod	_	AlignBegin=39771|AlignEnd=39927|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+32.1	_	_	_	_	_	32	Syl=1	_	AlignBegin=39771|AlignEnd=39927|AvgAmplitude=65.689|AvgHeightGlo=M|AvgHeightLoc=M|Duration=155|Glo=mm|Loc=mm|MaxAmplitude=78.646|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pa|wordform=__EMPTY__
+33	combien	combien	ADV	_	ExtPos=PRON|PronType=Int	31	comp:obj	_	AlignBegin=39927|AlignEnd=40141|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+33.1	_	_	_	_	_	33	Syl=1	_	AlignBegin=39927|AlignEnd=40021|AvgAmplitude=55.233|AvgHeightGlo=M|AvgHeightLoc=M|Duration=94|Glo=mm|Loc=mm|MaxAmplitude=59.103|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ko~|wordform=__EMPTY__
+33.2	_	_	_	_	_	33	Syl=2	_	AlignBegin=40021|AlignEnd=40141|AvgAmplitude=73.205|AvgHeightGlo=M|AvgHeightLoc=M|Duration=119|Glo=mm|Loc=mm|MaxAmplitude=73.511|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=bje~|wordform=__EMPTY__
+34	de	de	ADP	_	_	33	comp:obl	_	AlignBegin=40141|AlignEnd=40201|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+34.1	_	_	_	_	_	34	Syl=1	_	AlignBegin=40141|AlignEnd=40201|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=60|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=d@|wordform=__EMPTY__
+35	temps	temps	NOUN	_	Gender=Masc	34	comp:obj	_	AlignBegin=40201|AlignEnd=40405|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+35.1	_	_	_	_	_	35	Syl=1	_	AlignBegin=40201|AlignEnd=40405|AvgAmplitude=72.149|AvgHeightGlo=H|AvgHeightLoc=M|Duration=203|Glo=mh|Loc=lh|MaxAmplitude=76.862|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ta~|wordform=__EMPTY__
+36	,	,	PUNCT	_	_	37	punct	_	AlignBegin=40405|AlignEnd=40405
+37	à	à	ADP	_	ExtPos=ADV	31	conj:dicto	_	AlignBegin=40405|AlignEnd=40435|Idiom=Yes|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+37.1	_	_	_	_	_	37	Syl=1	_	AlignBegin=40405|AlignEnd=40435|AvgAmplitude=0|AvgHeightGlo=H|AvgHeightLoc=M|Duration=30|Glo=hh|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+38	peu	peu	ADV	_	_	37	comp:obj	_	AlignBegin=40435|AlignEnd=40535|InIdiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+38.1	_	_	_	_	_	38	Syl=1	_	AlignBegin=40435|AlignEnd=40535|AvgAmplitude=60.184|AvgHeightGlo=M|AvgHeightLoc=M|Duration=100|Glo=mm|Loc=mm|MaxAmplitude=64.178|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=p2|wordform=__EMPTY__
+39	près	près	ADV	_	_	37	mod	_	AlignBegin=40535|AlignEnd=40895|InIdiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak|SpaceAfter=No
+39.1	_	_	_	_	_	39	Syl=1	_	AlignBegin=40535|AlignEnd=40895|AvgAmplitude=67.053|AvgHeightGlo=M|AvgHeightLoc=M|Duration=359|Glo=mm|Loc=mm|MaxAmplitude=75.038|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pRE|wordform=__EMPTY__
+40	,	,	PUNCT	_	_	41	punct	_	AlignBegin=40895|AlignEnd=40895
+41	euh	euh	INTJ	_	_	39	discourse	_	AlignBegin=40895|AlignEnd=41175|AssociatedNucleus=U|Hesitation=Yes|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No
+41.1	_	_	_	_	_	41	Syl=1	_	AlignBegin=40895|AlignEnd=41175|AvgAmplitude=71.281|AvgHeightGlo=M|AvgHeightLoc=M|Duration=279|Glo=mm|Loc=mm|MaxAmplitude=72.82|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=9|wordform=__EMPTY__
+42	,	,	PUNCT	_	_	44	punct	_	AlignBegin=41175|AlignEnd=41175
+43	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	44	subj	_	AlignBegin=41175|AlignEnd=41270|IU_graft=Begin|Layer=In|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak
+43.1	_	_	_	_	_	43	Syl=1	_	AlignBegin=41175|AlignEnd=41270|AvgAmplitude=76.496|Glo=X|Loc=X|MaxAmplitude=77.201|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=sa|wordform=__EMPTY__
+44	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	conj:dicto	_	AlignBegin=41270|AlignEnd=41370|Graft=Yes|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak
+44.1	_	_	_	_	_	44	Syl=1	_	AlignBegin=41270|AlignEnd=41370|AvgAmplitude=69.6|AvgHeightGlo=M|AvgHeightLoc=M|Duration=99|Glo=mm|Loc=mm|MaxAmplitude=72.239|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dwa|wordform=__EMPTY__
+45	être	être	VERB	_	VerbForm=Inf	44	comp:obj	_	AlignBegin=41370|AlignEnd=41560|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak|Subject=SubjRaising
+45.1	_	_	_	_	_	45	Syl=1	_	AlignBegin=41370|AlignEnd=41560|AvgAmplitude=64.163|AvgHeightGlo=M|AvgHeightLoc=M|Duration=190|Glo=mm|Loc=mm|MaxAmplitude=75.25|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=EtR|wordform=__EMPTY__
+46	cinq	cinq	NUM	_	Number=Plur	56	mod	_	AlignBegin=41560|AlignEnd=41814|Hesitation=Yes|IU_graft=In|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=dis-weak|SpaceAfter=No
+46.1	_	_	_	_	_	46	Syl=1	_	AlignBegin=41560|AlignEnd=41814|AvgAmplitude=75.999|AvgHeightGlo=M|AvgHeightLoc=M|Duration=253|Glo=mm|Loc=mm|MaxAmplitude=84.334|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=se~|wordform=__EMPTY__
+47	cents	cents	NUM	_	Number=Plur	46	flat@dev	_	AlignBegin=41814|AlignEnd=42130|Hesitation=Yes|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=dis-weak|SpaceAfter=No
+47.1	_	_	_	_	_	47	Syl=1	_	AlignBegin=41814|AlignEnd=42130|AvgAmplitude=69.644|Glo=X|Loc=X|MaxAmplitude=81.235|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=sa~|wordform=__EMPTY__
+48	,	,	PUNCT	_	_	54	punct	_	AlignBegin=42130|AlignEnd=42130
+49	peut	peut	ADV	_	_	54	mod	_	AlignBegin=42130|AlignEnd=42235|Hesitation=Yes|IU_graft=In|Layer=Begin|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=dis-weak|SpaceAfter=No
+49.1	_	_	_	_	_	49	Syl=1	_	AlignBegin=42130|AlignEnd=42235|AvgAmplitude=51.841|Glo=X|Loc=X|MaxAmplitude=55.231|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=p|wordform=__EMPTY__
+50	être	être	ADV	_	_	48	flat@dev	_	AlignBegin=42235|AlignEnd=42641|Hesitation=Yes|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=dis-weak|SpaceAfter=No
+50.1	_	_	_	_	_	50	Syl=1	_	AlignBegin=42235|AlignEnd=42641|AvgAmplitude=59.015|AvgHeightGlo=M|AvgHeightLoc=M|Duration=405|Glo=mm|Loc=mm|MaxAmplitude=77.755|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tEtR|wordform=__EMPTY__
+51	,	,	PUNCT	_	_	50	punct	_	AlignBegin=42641|AlignEnd=42979
+52	oh	oh	INTJ	_	_	48	discourse	_	AlignBegin=42979|AlignEnd=43154|AssociatedNucleus=U|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|SpaceAfter=No
+52.1	_	_	_	_	_	52	Syl=1	_	AlignBegin=42979|AlignEnd=43154|AvgAmplitude=80.965|AvgHeightGlo=M|AvgHeightLoc=M|Duration=174|Glo=mm|Loc=mm|MaxAmplitude=84.192|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=o|wordform=__EMPTY__
+53	,	,	PUNCT	_	_	48	punct	_	AlignBegin=43154|AlignEnd=43154
+54	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	54	det	_	AlignBegin=43154|AlignEnd=43224|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+54.1	_	_	_	_	_	54|55	Syl=1|Syl=1	_	AlignBegin=43154|AlignEnd=43254|AvgAmplitude=75.638|AvgHeightGlo=M|AvgHeightLoc=M|Duration=99|Glo=ml|Loc=mm|MaxAmplitude=77.485|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=e~p|wordform=__EMPTY__
+55	petit	petit	ADJ	_	Gender=Masc|Number=Sing	54	mod	_	AlignBegin=43224|AlignEnd=43404|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+55.1	_	_	_	_	_	55	Syl=2	_	AlignBegin=43254|AlignEnd=43404|AvgHeightGlo=M|AvgHeightLoc=M|Duration=150|Glo=lm|Loc=lh|PitchRangeGlo=L|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ti|wordform=__EMPTY__
+56	kilomètre	kilomètre	NOUN	_	Gender=Masc|Number=Sing	46	conj:dicto	_	AlignBegin=43404|AlignEnd=44042|IU_graft=In|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=PredInherited|TypePara=ParaNegot
+56.1	_	_	_	_	_	56	Syl=1	_	AlignBegin=43404|AlignEnd=43544|AvgAmplitude=68.767|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|Glo=mm|Loc=mm|MaxAmplitude=77.485|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ki|wordform=__EMPTY__
+56.2	_	_	_	_	_	56	Syl=2	_	AlignBegin=43544|AlignEnd=43624|AvgAmplitude=74.644|AvgHeightGlo=H|AvgHeightLoc=H|Duration=79|Glo=hm|Loc=hm|MaxAmplitude=76.081|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=lO|wordform=__EMPTY__
+56.3	_	_	_	_	_	56	Syl=3	_	AlignBegin=43624|AlignEnd=44042|AvgAmplitude=70.895|AvgHeightGlo=M|AvgHeightLoc=M|Duration=418|Glo=mm|Loc=mm|MaxAmplitude=78.836|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mEtR|wordform=__EMPTY__
+57	plus	plus	ADV	_	_	56	mod	_	AlignBegin=44467|AlignEnd=44552|IU_graft=In|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
+57.1	_	_	_	_	_	57	Syl=1	_	AlignBegin=44467|AlignEnd=44522|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=54|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ply|wordform=__EMPTY__
+57.2	_	_	_	_	_	57	Syl=2	_	AlignBegin=44522|AlignEnd=44552|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=30|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=s|wordform=__EMPTY__
+58	loin	loin	ADV	_	_	45	comp:obl	_	AlignBegin=44552|AlignEnd=44801|IU_graft=Last|Layer=Last|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No|TypeInherited=DepInherited
+58.1	_	_	_	_	_	58	Syl=1	_	AlignBegin=44552|AlignEnd=44801|AvgAmplitude=73.989|AvgHeightGlo=M|AvgHeightLoc=M|Duration=249|Glo=lh|Loc=lh|MaxAmplitude=76.448|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=lwe~|wordform=__EMPTY__
+59	,	,	PUNCT	_	_	59	punct	_	AlignBegin=44801|AlignEnd=44801
+60	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	59	subj	_	AlignBegin=44801|AlignEnd=44861|Layer=Begin|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
+60.1	_	_	_	_	_	60	Syl=1	_	AlignBegin=44801|AlignEnd=44861|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=59|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+61	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	conj:dicto	_	AlignBegin=44861|AlignEnd=45061|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaDisfl
+61.1	_	_	_	_	_	61	Syl=1	_	AlignBegin=44861|AlignEnd=44961|AvgAmplitude=73.372|AvgHeightGlo=M|AvgHeightLoc=M|Duration=100|Glo=mm|Loc=mm|MaxAmplitude=76.303|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za|wordform=__EMPTY__
+61.2	_	_	_	_	_	61	Syl=2	_	AlignBegin=44961|AlignEnd=45061|AvgAmplitude=70.683|AvgHeightGlo=M|AvgHeightLoc=M|Duration=100|Glo=mm|Loc=mm|MaxAmplitude=74.678|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le|wordform=__EMPTY__
+62	arriver	arriver	VERB	_	VerbForm=Inf	59	comp:obj	_	AlignBegin=45061|AlignEnd=45311|Layer=Last|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|Subject=SubjRaising
+62.1	_	_	_	_	_	62	Syl=1	_	AlignBegin=45061|AlignEnd=45121|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=60|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a|wordform=__EMPTY__
+62.2	_	_	_	_	_	62	Syl=2	_	AlignBegin=45121|AlignEnd=45191|AvgAmplitude=72.448|AvgHeightGlo=M|AvgHeightLoc=M|Duration=70|Glo=mm|Loc=mm|MaxAmplitude=72.448|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ri|wordform=__EMPTY__
+62.3	_	_	_	_	_	62	Syl=3	_	AlignBegin=45191|AlignEnd=45311|AvgAmplitude=67.522|AvgHeightGlo=H|AvgHeightLoc=H|Duration=119|Glo=mh|Loc=mh|MaxAmplitude=75.868|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ve|wordform=__EMPTY__
+63	à	à	ADP	_	_	60	comp:obl	_	AlignBegin=45311|AlignEnd=45391|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=OblInherited
+63.1	_	_	_	_	_	63	Syl=1	_	AlignBegin=45311|AlignEnd=45391|AvgAmplitude=77.453|AvgHeightGlo=H|AvgHeightLoc=H|Duration=79|Glo=hm|Loc=hm|MaxAmplitude=78.488|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=a|wordform=__EMPTY__
+64	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	63	det	_	AlignBegin=45391|AlignEnd=45552|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+64.1	_	_	_	_	_	64	Syl=1	_	AlignBegin=45391|AlignEnd=45552|AvgAmplitude=75.974|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|Glo=ml|Loc=ml|MaxAmplitude=77.181|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=la|wordform=__EMPTY__
+65	gare	gare	NOUN	_	Gender=Fem|Number=Sing	61	comp:obj	_	AlignBegin=45552|AlignEnd=45904|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+65.1	_	_	_	_	_	65	Syl=1	_	AlignBegin=45552|AlignEnd=45904|AvgAmplitude=71.55|AvgHeightGlo=H|AvgHeightLoc=H|Duration=352|Glo=lH|Loc=lH|MaxAmplitude=79.633|MeanF0=0|MeanF0Step=0|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=gaR|wordform=__EMPTY__
+66	.	.	PUNCT	_	_	19	punct	_	AlignBegin=45904|AlignEnd=45904
+
+# sent_id = Rhap_M0013-10
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = c'est un grand bâtiment //
+# text = c'est un grand bâtiment.
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	AlignBegin=46394|AlignEnd=46764|Hesitation=Pause|Nucleus=Begin|ProminenceFinal=Pause|ProminenceInitial=Pause|RhythmGroup=dis-strong|SpaceAfter=No
+1.1	_	_	_	_	_	1|2	Syl=1|Syl=1	_	AlignBegin=46394|AlignEnd=47700|AvgAmplitude=73.684|AvgHeightGlo=M|AvgHeightLoc=M|Duration=1306|Glo=ml|Loc=ml|MaxAmplitude=82.944|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=sE|wordform=__EMPTY__
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=46764|AlignEnd=47700|Hesitation=Yes|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=dis-strong|UtteranceMeanF0=0.0
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	AlignBegin=47700|AlignEnd=47910|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=47700|AlignEnd=47910|AvgAmplitude=67.661|AvgHeightGlo=M|AvgHeightLoc=M|Duration=210|Glo=mm|Loc=mm|MaxAmplitude=72.68|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e~|wordform=__EMPTY__
+4	grand	grand	ADJ	_	Gender=Masc|Number=Sing	5	mod	_	AlignBegin=47910|AlignEnd=48110|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=47910|AlignEnd=48110|AvgAmplitude=69.692|AvgHeightGlo=M|AvgHeightLoc=M|Duration=199|Glo=mm|Loc=mm|MaxAmplitude=76.367|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=gRa~|wordform=__EMPTY__
+5	bâtiment	bâtiment	NOUN	_	Gender=Masc|Number=Sing	2	comp:pred	_	AlignBegin=48110|AlignEnd=48639|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=48110|AlignEnd=48215|AvgAmplitude=76.089|AvgHeightGlo=M|AvgHeightLoc=M|Duration=104|Glo=mm|Loc=mm|MaxAmplitude=79.822|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ba|wordform=__EMPTY__
+5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=48215|AlignEnd=48358|AvgAmplitude=72.321|AvgHeightGlo=M|AvgHeightLoc=M|Duration=143|Glo=mm|Loc=mm|MaxAmplitude=80.028|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ti|wordform=__EMPTY__
+5.3	_	_	_	_	_	5	Syl=3	_	AlignBegin=48358|AlignEnd=48639|AvgAmplitude=73.864|AvgHeightGlo=H|AvgHeightLoc=H|Duration=281|Glo=mh|Loc=mh|MaxAmplitude=76.316|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ma~|wordform=__EMPTY__
+6	.	.	PUNCT	_	_	2	punct	_	AlignBegin=48639|AlignEnd=48639
+
+# sent_id = Rhap_M0013-11
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = vous le verrez "euh" sans problème //
+# text = vous le verrez, euh, sans problème.
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj	_	AlignBegin=48639|AlignEnd=48759|Nucleus=Begin|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=dis-weak
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=48639|AlignEnd=48759|AvgAmplitude=63.783|AvgHeightGlo=M|AvgHeightLoc=M|Duration=119|Glo=mm|Loc=mm|MaxAmplitude=69.706|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu|wordform=__EMPTY__
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=48759|AlignEnd=49139|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=48759|AlignEnd=49139|AvgAmplitude=72.602|AvgHeightGlo=L|AvgHeightLoc=M|Duration=380|Glo=ll|Loc=mm|MaxAmplitude=74.53|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=l@|wordform=__EMPTY__
+3	verrez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=49139|AlignEnd=49829|Hesitation=Yes|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=dis-weak|SpaceAfter=No|UtteranceMeanF0=0.0
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=49139|AlignEnd=49359|AvgAmplitude=65.622|AvgHeightGlo=M|AvgHeightLoc=M|Duration=219|Glo=lm|Loc=mm|MaxAmplitude=76.362|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=vE|wordform=__EMPTY__
+3.2	_	_	_	_	_	3	Syl=2	_	AlignBegin=49359|AlignEnd=49829|AvgAmplitude=70.471|AvgHeightGlo=M|AvgHeightLoc=M|Duration=469|Glo=mm|Loc=mm|MaxAmplitude=74.8|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Re|wordform=__EMPTY__
+4	,	,	PUNCT	_	_	5	punct	_	AlignBegin=49829|AlignEnd=49829
+5	euh	euh	INTJ	_	_	3	discourse	_	AlignBegin=49829|AlignEnd=50069|AssociatedNucleus=U|Hesitation=Yes|Nucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=49829|AlignEnd=50069|AvgAmplitude=68.947|AvgHeightGlo=M|AvgHeightLoc=M|Duration=240|Glo=mm|Loc=mm|MaxAmplitude=70.351|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=9|wordform=__EMPTY__
+6	,	,	PUNCT	_	_	7	punct	_	AlignBegin=50069|AlignEnd=50069
+7	sans	sans	ADP	_	_	3	mod	_	AlignBegin=50069|AlignEnd=50279|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=50069|AlignEnd=50279|AvgAmplitude=72.689|AvgHeightGlo=M|AvgHeightLoc=M|Duration=210|Glo=mm|Loc=mm|MaxAmplitude=78.443|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sa~|wordform=__EMPTY__
+8	problème	problème	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=50279|AlignEnd=50607|Nucleus=Last|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
+8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=50279|AlignEnd=50409|AvgAmplitude=56.553|AvgHeightGlo=M|AvgHeightLoc=L|Duration=129|Glo=mm|Loc=ll|MaxAmplitude=63.07|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pRO|wordform=__EMPTY__
+8.2	_	_	_	_	_	8	Syl=2	_	AlignBegin=50409|AlignEnd=50607|AvgAmplitude=73.974|AvgHeightGlo=H|AvgHeightLoc=H|Duration=197|Glo=mH|Loc=mh|MaxAmplitude=75.922|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=blEm|wordform=__EMPTY__
+9	.	.	PUNCT	_	_	3	punct	_	AlignBegin=50607|AlignEnd=50607
+
+# sent_id = Rhap_M0013-12
+# speaker_id = §LM42
+#  = # speaker_fullname =
+# speaker_role = speaker/signer
+# speaker_age = 26
+# speaker_sex = male
+# speaker_education = unspecified
+# speaker_family_social_role = unspecified
+# interactivity = non-interactive
+# planning_type = spontaneous
+# involvement = non-elicited
+# social_context = private
+# event_structure = monologue
+# channel = face to face
+# sound_url = https://rhapsodie.modyco.fr/rp/waves/Rhap-M0013.mp3
+# macrosyntax = { vous connaissez déjà un peu | ^ou ESPERLUETTE } //
+# text = vous connaissez déjà un peu, ou… ?
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	2	subj	_	AlignBegin=50607|AlignEnd=50697|Layer=Begin|Nucleus=Begin|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=50607|AlignEnd=50697|AvgAmplitude=61.423|AvgHeightGlo=M|AvgHeightLoc=M|Duration=89|Glo=mm|Loc=ml|MaxAmplitude=67.834|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=vu|wordform=__EMPTY__
+2	connaissez	connaître	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root@scrap	_	AlignBegin=50697|AlignEnd=51017|Layer=In|Nucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=50697|AlignEnd=50757|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=60|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO|wordform=__EMPTY__
+2.2	_	_	_	_	_	2	Syl=2	_	AlignBegin=50757|AlignEnd=50875|AvgAmplitude=74.109|AvgHeightGlo=M|AvgHeightLoc=M|Duration=118|Glo=mm|Loc=mm|MaxAmplitude=74.268|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nE|wordform=__EMPTY__
+2.3	_	_	_	_	_	2	Syl=3	_	AlignBegin=50875|AlignEnd=51017|AvgAmplitude=78.649|AvgHeightGlo=M|AvgHeightLoc=M|Duration=141|Glo=mm|Loc=mm|MaxAmplitude=83.77|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=se|wordform=__EMPTY__
+3	déjà	déjà	ADV	_	_	2	mod	_	AlignBegin=51017|AlignEnd=51257|Layer=In|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=51017|AlignEnd=51127|AvgAmplitude=68.933|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Glo=mm|Loc=mm|MaxAmplitude=73.736|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=de|wordform=__EMPTY__
+3.2	_	_	_	_	_	3	Syl=2	_	AlignBegin=51127|AlignEnd=51257|AvgAmplitude=70.418|AvgHeightGlo=H|AvgHeightLoc=M|Duration=129|Glo=mh|Loc=mm|MaxAmplitude=74.323|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=Za|wordform=__EMPTY__
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art|Shared=No	5	det	_	AlignBegin=51257|AlignEnd=51337|InIdiom=Yes|Layer=In|Nucleus=In|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=51257|AlignEnd=51337|AvgAmplitude=72.496|AvgHeightGlo=H|AvgHeightLoc=L|Duration=80|Glo=hh|Loc=ll|MaxAmplitude=72.618|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e~|wordform=__EMPTY__
+5	peu	peu	NOUN	_	ExtPos=ADV	2	mod	_	AlignBegin=51337|AlignEnd=51557|Idiom=Yes|Layer=Last|Nucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=51337|AlignEnd=51557|AvgAmplitude=68.611|AvgHeightGlo=H|AvgHeightLoc=H|Duration=220|Glo=hH|Loc=mH|MaxAmplitude=76.051|MeanF0=0|MeanF0Step=0|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=p2|wordform=__EMPTY__
+6	,	,	PUNCT	_	_	7	punct	_	AlignBegin=51557|AlignEnd=51557
+7	ou	ou	CCONJ	_	_	5	conj:dicto	_	AlignBegin=51557|AlignEnd=51890|Hesitation=Yes|Layer=Begin|ProminenceFinal=Strong|RhythmGroup=dis-strong|SpaceAfter=No
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=51557|AlignEnd=51890|AvgAmplitude=70.552|AvgHeightGlo=M|AvgHeightLoc=M|Duration=332|Glo=hl|Loc=hL|MaxAmplitude=72.57|MeanF0=0|MeanF0Step=0|PitchRangeGlo=M|PitchRangeLoc=H|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=u|wordform=__EMPTY__
+
