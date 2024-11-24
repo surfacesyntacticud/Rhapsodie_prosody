@@ -45,7 +45,6 @@ contenant le id du tree, la forme du token, le temps initial, le temps final, le
 1. Extrait les metadonnees des fichiers xml et les ajoute au conllu. Prend les valeurs comme _interactivity, plannigtype, involvement, socialcontext, eventstructure, channel, actor, role, name, fullname, familysocialrole, age, sex, education_
 
 
-
 Pour le bon fonctionnement de _SLAM3.py_ et _fill-conllus-prosody.ipynb_ ces scripts ont été utilisés :
 
 #### alignement_punct.py
@@ -59,3 +58,8 @@ Pour le bon fonctionnement de _SLAM3.py_ et _fill-conllus-prosody.ipynb_ ces scr
 
 #### Note
 Le seul fichier où les syllabes, extraites avec _fill-conllus-prosody.ipynb_, n'ont pas été ajoutées correctement est _Rhap-M2001.conllu_.
+
+### changement_dep_conllu.py
+1. Dans les arbres où des tokens ont été décomposés, ce code crée un dictionnaire des id des tokens et met a jour les relations de dépendance. 
+
+Attention, les id des arbres ont changé dans quelques occassions. Ce script prend en compte un dictionnaire de correspondances (dico_dependances.py) entre les id des arbres avant et après la décomposition. 
