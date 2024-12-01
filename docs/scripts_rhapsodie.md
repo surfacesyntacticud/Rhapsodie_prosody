@@ -53,13 +53,24 @@ Pour le bon fonctionnement de _SLAM3.py_ et _fill-conllus-prosody.ipynb_ ces scr
 #### change_utf.py 
 1. Ce script simplement prend les fichiers et les garde en "utf-8".
 
-### changement_sentid.py
+#### changement_sentid.py
 1. Ce code a été utilisé pour trois fichiers. Il crée un nouveau sent_id en ordre, pour eviter les arbres ayant des identifiants comme "14bis".
 
 #### Note
 Le seul fichier où les syllabes, extraites avec _fill-conllus-prosody.ipynb_, n'ont pas été ajoutées correctement est _Rhap-M2001.conllu_.
 
-### changement_dep_conllu.py
+#### changement_dep_conllu.py
 1. Dans les arbres où des tokens ont été décomposés, ce code crée un dictionnaire des id des tokens et met a jour les relations de dépendance. 
 
 Attention, les id des arbres ont changé dans quelques occassions. Ce script prend en compte un dictionnaire de correspondances (dico_dependances.py) entre les id des arbres avant et après la décomposition. 
+
+### Travail sur les dialogues
+
+#### trouver_mots_composes.py 
+
+Ce script automatise ce qui a été fait à la main sur les dialogues. 
+1.  Trouve des mots composés.
+2. Crée un dictionnaire avec ces mots où la clé correspond au mots composé et la valeur correspond à une liste avec les tokens issus de la décomposition.
+3. Enleve le tiret dans des tokens du type '-ce'.
+
+Le dictionnaire résultat de ce script sera utilisé par fixer_decalage.py
