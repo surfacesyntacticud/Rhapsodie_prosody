@@ -4,7 +4,7 @@ from grewpy import Corpus, CorpusDraft
 import re
 import os
 import argparse
-from decomposition_tokens import decomposer_tokens
+from dict_decomposiion_dialogues import dico_decomposition
 
 
 
@@ -43,7 +43,7 @@ def lignes_repetees(liste_listes):
         lignes_modifiees =  []
         for ligne in liste:
             lignes_modifiees.append(ligne)
-            for key, value in decomposer_tokens.items():
+            for key, value in dico_decomposition.items():
                 if key in ligne and ligne[0] != "#":
                     longueur_value = len(value) - 1
                     for i in range (longueur_value):
@@ -73,7 +73,7 @@ def decomposer_mots(liste_listes):
             id_actual = premiere_actual[0]
             id_next = deuxieme_line[0]
             
-            for key, value in decomposer_tokens.items():
+            for key, value in dico_decomposition.items():
                 if id_actual == id_next and key in premiere_actual[1]:
                     premiere_actual[1] = value[0]
                     premiere_actual[2] = value[0]
@@ -127,7 +127,8 @@ def fixer_id (liste_listes):
                 liste[index] = "\t".join(partes)
     return liste_listes
 
-def exporter_corpus(liste_listes, output_dir, liste_filename):            
+def exporter_corpus(liste_listes, output_dir, liste_filename): 
+    '''Exporte le corpus. Prend comme argument la liste de drafts, la liste de noms des fichiers et le directoire d'output'''            
     os.makedirs(output_dir, exist_ok=True)
     for filename, liste in zip(liste_filename, liste_listes):
             output_path = os.path.join(output_dir, filename)
