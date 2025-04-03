@@ -3,47 +3,6 @@ from grewpy import Corpus, CorpusDraft
 import os
 import argparse
 
-def obtenir_conllu(corpus_dir): 
-    '''Crée la liste de fichiers conllu et la liste de noms de fichiers pour les exporter après'''
-    
-    liste_fichiers = []  
-    liste_filename = []
-    liste_non_ordonnee = os.listdir(corpus_dir)
-    liste_ordonne = sorted(liste_non_ordonnee)
-    for filename in liste_ordonne:
-        if filename == ".DS_Store":
-            continue
-        treebank_path = os.path.join(corpus_dir, filename)
-        liste_filename.append(filename)
-        
-        try:
-            grewpy.set_config("sud")
-            corpus = Corpus(treebank_path)
-            draft = CorpusDraft(corpus)
-            liste_fichiers.append(draft) 
-        except Exception as error:
-            print(f"Oups ! ce fichier ne marche pas {treebank_path}: {error}")
-    #print(liste_filename)
-    return liste_fichiers, liste_filename
-
-def exporter_corpus(liste_drafts, output_dir, liste_filename): 
-    '''Exporte le corpus. Prend comme argument la liste de drafts, la liste de noms des fichiers et le directoire d'output'''          
-    os.makedirs(output_dir, exist_ok=True)
-    for filename, draft in zip(liste_filename, liste_drafts):
-            output_path = os.path.join(output_dir, filename)
-            
-            conll_string=draft.to_conll()
-            try:
-                with open(output_path, 'w', encoding='utf-8') as file:
-                    file.write(conll_string)
-                print(f"Fichier exporté : {output_path}")
-            except Exception as error:
-                print(f"Oups ! Erreur lors de l'exportation du fichier: {error}")
-                
-import grewpy
-from grewpy import Corpus, CorpusDraft
-import os
-import argparse
 
 def obtenir_conllu(corpus_dir): 
     '''Crée la liste de fichiers conllu et la liste de noms de fichiers pour les exporter après'''
@@ -91,34 +50,34 @@ def alignement_punct(liste_drafts):
             features = sentence.features
             tokens = []
             
+            
             for id, dico in features.items():
                 tokens.append(dico.copy())
                 
             for i in range(len(tokens)):
                 dictionnaire_actuel = tokens[i]
                 
-                
-                if dictionnaire_actuel.get('upos') == "PUNCT":
+                if dictionnaire_actuel.get('upos') == "PUNCT" or 'AlignBegin' not in dictionnaire_actuel:
                     dictionnaire_precedent = tokens[i-1] if i > 0 else None
                     dictionnaire_suivant = tokens[i+1] if i < (len(tokens) - 1) else None
                     print(dictionnaire_actuel)
                     
                     if dictionnaire_precedent and dictionnaire_suivant:
                         
-                        align_begin = dictionnaire_precedent.get('AlignEnd')
-                        align_end = dictionnaire_suivant.get('AlignBegin')
+                        align_begin = dictionnaire_precedent.get('AlignEnd', "0.0")
+                        align_end = dictionnaire_suivant.get('AlignBegin', "0.0")
                     elif dictionnaire_precedent:
                       
-                        align_begin = dictionnaire_precedent.get('AlignEnd')
+                        align_begin = dictionnaire_precedent.get('AlignEnd', "0.0")
                         align_end = align_begin  
                     elif dictionnaire_suivant:
                         
-                        align_begin = dictionnaire_suivant.get('AlignBegin')
+                        align_begin = dictionnaire_suivant.get('AlignBegin', "0.0")
                         align_end = align_begin  
                     else:
                         
-                        align_begin = None
-                        align_end = None
+                        align_begin = "0.0"
+                        align_end = "0.0"
                     
                     
                     if align_begin is not None and align_end is not None:
@@ -135,7 +94,7 @@ def alignement_punct(liste_drafts):
 
 def main():
     
-    parser = argparse.ArgumentParser(description="Ajoutez les directoires des fichiers conllu et fichiers tabulaires")
+    parser = argparse.ArgumentParser(description="Ajoutez les directoires des fichiers conllu")
     parser.add_argument('-c','--dir_conllu', help="Ajoutez le chemin du directoire des fichiers conllu")
     parser.add_argument('-o','--output_dir', help="Ajoutez le chemin du directoire d'output")
     args = parser.parse_args()
