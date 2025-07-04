@@ -11,6 +11,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -40,6 +45,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -70,6 +80,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -115,6 +130,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -147,6 +167,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -214,6 +239,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -246,14 +276,14 @@
 10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=37996|AlignEnd=38077|AvgAmplitude=76.141|AvgHeightGlo=H|AvgHeightLoc=H|Duration=81|Glo=hm|Loc=hm|MaxAmplitude=76.141|MeanF0=235.625|MeanF0Step=264.48|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.183|SemitonesFromUtteranceMean=-0.633|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=a
 10.2	_	_	_	_	_	10	Syl=2	_	AlignBegin=38077|AlignEnd=38202|AvgAmplitude=70.221|AvgHeightGlo=M|AvgHeightLoc=M|Duration=124|Glo=mm|Loc=mm|MaxAmplitude=70.221|MeanF0=222.316|MeanF0Step=249.541|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.238|SemitonesFromUtteranceMean=-1.639|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vEk
 11	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	12	det	_	AlignBegin=38202|AlignEnd=38431|Foot=Last|FootTone=hm|FootType=Weak|Group=Last|GroupTone=hm|IU=In|Layer=Begin|Nucleus=In|Package=In|Package_type=included|PackageTone=hh|Period=In|Period_tone=hl|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=38202|AlignEnd=38315|AvgAmplitude=73.35|AvgHeightGlo=M|AvgHeightLoc=M|Duration=113|Glo=mm|Loc=mm|MaxAmplitude=73.35|MeanF0=231.769|MeanF0Step=260.152|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.624|SemitonesFromUtteranceMean=-0.918|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nO
-11.2	_	_	_	_	_	11|12	Syl=2|Syl=1	_	AlignBegin=38315|AlignEnd=38537|AvgAmplitude=65.687|AvgHeightGlo=M|AvgHeightLoc=M|Duration=221|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=70.903|MeanF0=221.095|MeanF0Step=248.171|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.238|SemitonesFromUtteranceMean=-1.735|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tRa~
+11.1	_	_	_	_	_	11|12.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=38202|AlignEnd=38315|AvgAmplitude=73.35|AvgHeightGlo=M|AvgHeightLoc=M|Duration=113|Glo=mm|Loc=mm|MaxAmplitude=73.35|MeanF0=231.769|MeanF0Step=260.152|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.624|SemitonesFromUtteranceMean=-0.918|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nO
 12	envoyé	envoyé	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	AlignBegin=38431|AlignEnd=38725|Foot=Unique|FootTone=hm|FootType=Weak|Group=Unique|GroupTone=hm|IU=In|Layer=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hh|Period=In|Period_tone=hl|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-12.1	_	_	_	_	_	12|13.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=38537|AlignEnd=38594|AvgHeightGlo=M|AvgHeightLoc=M|Duration=56|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vwa
+12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=38315|AlignEnd=38537|AvgAmplitude=65.687|AvgHeightGlo=M|AvgHeightLoc=M|Duration=221|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=70.903|MeanF0=221.095|MeanF0Step=248.171|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.238|SemitonesFromUtteranceMean=-1.735|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tRa~
+12.2	_	_	_	_	_	12	Syl=2	_	AlignBegin=38537|AlignEnd=38594|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=56|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=221.727|MeanF0Step=248.88|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.079|SemitonesFromUtteranceMean=-1.685|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vwa
+12.3	_	_	_	_	_	12|13	Syl=3|Syl=1	_	AlignBegin=38594|AlignEnd=38770|AvgAmplitude=66.777|AvgHeightGlo=M|AvgHeightLoc=M|Duration=176|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=70.585|MeanF0=218.875|MeanF0Step=245.679|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.223|SemitonesFromUtteranceMean=-1.909|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=jes
 13	spécial	spécial	ADJ	_	Gender=Masc|Number=Sing	12	mod	_	AlignBegin=38725|AlignEnd=39170|Foot=Unique|FootTone=hhH2|FootType=Weak|Group=Unique|GroupTone=hhH2|IU=In|Layer=Last|Nucleus=In|Package=In|Package_type=included|PackageTone=hh|Period=In|Period_tone=hl|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
-13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=38594|AlignEnd=38770|AvgAmplitude=66.777|AvgHeightGlo=M|AvgHeightLoc=M|Duration=176|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=70.585|MeanF0=218.875|MeanF0Step=245.679|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.223|SemitonesFromUtteranceMean=-1.909|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=jes
-13.2	_	_	_	_	_	13	Syl=2	_	AlignBegin=38770|AlignEnd=38900|AvgAmplitude=64.406|AvgHeightGlo=M|AvgHeightLoc=M|Duration=130|Glo=mm|Loc=mm|MaxAmplitude=75.918|MeanF0=230.4|MeanF0Step=258.615|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.229|SemitonesFromUtteranceMean=-1.021|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pe
-13.3	_	_	_	_	_	13	Syl=3	_	AlignBegin=38900|AlignEnd=39170|AvgAmplitude=67.275|AvgHeightGlo=M|AvgHeightLoc=M|Duration=269|Glo=mm|Loc=mm|MaxAmplitude=77.521|MeanF0=254.6|MeanF0Step=285.779|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.597|SemitonesFromUtteranceMean=0.708|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sjal
+13.1	_	_	_	_	_	13	Syl=2	_	AlignBegin=38770|AlignEnd=38900|AvgAmplitude=67.275|AvgHeightGlo=M|AvgHeightLoc=M|Duration=130|Glo=mm|Loc=mm|MaxAmplitude=77.521|MeanF0=254.6|MeanF0Step=285.779|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.597|SemitonesFromUtteranceMean=0.708|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pe
+13.2	_	_	_	_	_	13	Syl=3	_	AlignBegin=38900|AlignEnd=39170|AvgAmplitude=67.275|AvgHeightGlo=M|AvgHeightLoc=M|Duration=269|Glo=mm|Loc=mm|MaxAmplitude=77.521|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sjal
 14	,	,	PUNCT	_	_	15	punct	_	AlignBegin=39170|AlignEnd=39170
 15	Sébastien	Sébastien	PROPN	_	_	12	conj:appos	_	AlignBegin=39170|AlignEnd=39729|Foot=Unique|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=mmh1|IU=In|Layer=Begin|Nucleus=In|Package=In|Package_type=included|PackageTone=hh|Period=In|Period_tone=hl|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaDform
 15.1	_	_	_	_	_	15	Syl=1	_	AlignBegin=39170|AlignEnd=39350|AvgAmplitude=66.714|AvgHeightGlo=M|AvgHeightLoc=M|Duration=179|Glo=lh|Loc=lh|MaxAmplitude=69.684|MeanF0=251.05|MeanF0Step=281.794|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-2.898|SemitonesFromUtteranceMean=0.465|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=se
@@ -285,6 +315,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -314,12 +349,11 @@
 9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=42745|AlignEnd=42895|AvgAmplitude=70.476|AvgHeightGlo=M|AvgHeightLoc=M|Duration=149|Glo=mm|Loc=mm|MaxAmplitude=75.447|MeanF0=212.935|MeanF0Step=239.012|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.733|SemitonesFromUtteranceMean=-2.11|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=d@
 9.2	_	_	_	_	_	9	Syl=2	_	AlignBegin=42895|AlignEnd=43017|AvgAmplitude=76.771|AvgHeightGlo=M|AvgHeightLoc=M|Duration=121|Glo=mm|Loc=mm|MaxAmplitude=76.771|MeanF0=210.833|MeanF0Step=236.652|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.411|SemitonesFromUtteranceMean=-2.282|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vRE
 10	pas	pas	ADV	_	Polarity=Neg	9	mod	_	AlignBegin=43017|AlignEnd=43229|Foot=Begin|FootTone=mm|FootType=Weak|Group=In|GroupTone=hHm2|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
-10.1	_	_	_	_	_	10|11.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=43017|AlignEnd=43174|AvgAmplitude=62.924|AvgHeightGlo=M|AvgHeightLoc=M|Duration=157|Glo=mm|Loc=mm|MaxAmplitude=76.631|MeanF0=223.294|MeanF0Step=250.639|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.129|SemitonesFromUtteranceMean=-1.288|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pa
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=43017|AlignEnd=43174|AvgAmplitude=62.924|AvgHeightGlo=M|AvgHeightLoc=M|Duration=157|Glo=mm|Loc=mm|MaxAmplitude=76.631|MeanF0=223.294|MeanF0Step=250.639|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.129|SemitonesFromUtteranceMean=-1.288|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pa
+10.2	_	_	_	_	_	10|11|12	Syl=2|Syl=1|Syl=1	_	AlignBegin=43174|AlignEnd=43284|AvgAmplitude=71.227|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=71.227|MeanF0=214.545|MeanF0Step=240.819|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0|SemitonesFromUtteranceMean=-1.979|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
 11	en	en	PRON	_	Person=3|PronType=Prs	13	mod	_	AlignBegin=43229|AlignEnd=43306|Foot=Last|FootTone=mm|FootType=Weak|Group=In|GroupTone=hHm2|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
-11.1	_	_	_	_	_	11|12.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=43174|AlignEnd=43284|AvgAmplitude=71.227|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=71.227|MeanF0=214.545|MeanF0Step=240.819|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0|SemitonesFromUtteranceMean=-1.979|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
 12	être	être	AUX	_	VerbForm=Inf	9	comp:obj	_	AlignBegin=43306|AlignEnd=43560|Foot=Unique|FootTone=Hhm1|FootType=Strong|Group=In|GroupTone=hHm2|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong|Subject=SubjRaising
-12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=43284|AlignEnd=43391|AvgAmplitude=73.1|AvgHeightGlo=M|AvgHeightLoc=M|Duration=107|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=73.1|MeanF0=207.5|MeanF0Step=232.911|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.887|SemitonesFromUtteranceMean=-2.558|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nE
-12.2	_	_	_	_	_	12	Syl=2	_	AlignBegin=43391|AlignEnd=43560|AvgAmplitude=63.605|AvgHeightGlo=M|AvgHeightLoc=M|Duration=168|Glo=mm|Loc=mm|MaxAmplitude=73.16|MeanF0=212.667|MeanF0Step=238.71|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.228|SemitonesFromUtteranceMean=-2.132|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tR@
+12.1	_	_	_	_	_	12	Syl=2	_	AlignBegin=43391|AlignEnd=43560|AvgAmplitude=63.605|AvgHeightGlo=M|AvgHeightLoc=M|Duration=168|Glo=mm|Loc=mm|MaxAmplitude=73.16|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tR@
 13	question	question	NOUN	_	Gender=Fem|Number=Sing	12	comp:pred	_	AlignBegin=43560|AlignEnd=44153|Foot=Unique|FootTone=HH|FootType=Strong|Group=Last|GroupTone=hHm2|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
 13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=43560|AlignEnd=43865|AvgAmplitude=60.401|AvgHeightGlo=M|AvgHeightLoc=M|Duration=305|Glo=mm|Loc=mm|MaxAmplitude=64.383|MeanF0=275.6|MeanF0Step=309.351|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-5.717|SemitonesFromUtteranceMean=2.356|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kEs
 13.2	_	_	_	_	_	13	Syl=2	_	AlignBegin=43865|AlignEnd=44153|AvgAmplitude=71.281|AvgHeightGlo=M|AvgHeightLoc=M|Duration=287|Glo=mm|Loc=mm|MaxAmplitude=80.507|MeanF0=283.083|MeanF0Step=317.75|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.155|SemitonesFromUtteranceMean=2.82|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tjo~
@@ -359,6 +393,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -377,11 +416,11 @@
 4	face	face	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=46993|AlignEnd=47360|Foot=Last|FootTone=hhh3|FootType=Weak|Group=Last|GroupTone=hhh3|InIdiom=Yes|IU=In|NextBreakLength=0.131187000000004|Nucleus=In|Package=Last|Package_type=motherless|PackageTone=hhh3|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
 4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=46993|AlignEnd=47360|AvgAmplitude=58.969|AvgHeightGlo=M|AvgHeightLoc=M|Duration=367|Glo=mm|Loc=mm|MaxAmplitude=60.694|MeanF0=247.489|MeanF0Step=277.797|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.297|SemitonesFromUtteranceMean=0.933|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=fas
 5	très	très	ADV	_	_	6	mod	_	AlignBegin=47491|AlignEnd=47823|Foot=Begin|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=hmH1|IU=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Weak
-5.1	_	_	_	_	_	5|6.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=47491|AlignEnd=47706|AvgAmplitude=70.844|AvgHeightGlo=M|AvgHeightLoc=M|Duration=214|Glo=lh|Loc=lh|MaxAmplitude=80.428|MeanF0=273.833|MeanF0Step=307.368|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.467|SemitonesFromUtteranceMean=2.684|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tRE
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=47491|AlignEnd=47706|AvgAmplitude=70.844|AvgHeightGlo=M|AvgHeightLoc=M|Duration=214|Glo=lh|Loc=lh|MaxAmplitude=80.428|MeanF0=273.833|MeanF0Step=307.368|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.467|SemitonesFromUtteranceMean=2.684|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tRE
+5.2	_	_	_	_	_	5|6	Syl=2|Syl=1	_	AlignBegin=47706|AlignEnd=47936|AvgAmplitude=70.839|AvgHeightGlo=M|AvgHeightLoc=M|Duration=230|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=71.879|MeanF0=292.643|MeanF0Step=328.481|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.175|SemitonesFromUtteranceMean=3.835|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za
 6	attendu	attendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	mod	_	AlignBegin=47823|AlignEnd=48318|Foot=Last|FootTone=Hm|FootType=Weak|Group=Last|GroupTone=hmH1|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=47706|AlignEnd=47936|AvgAmplitude=70.839|AvgHeightGlo=M|AvgHeightLoc=M|Duration=230|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=71.879|MeanF0=292.643|MeanF0Step=328.481|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.175|SemitonesFromUtteranceMean=3.835|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za
-6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=47936|AlignEnd=48103|AvgAmplitude=73.733|AvgHeightGlo=H|AvgHeightLoc=H|Duration=166|Glo=hm|Loc=hm|MaxAmplitude=74.851|MeanF0=246.793|MeanF0Step=277.016|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=4.438|SemitonesFromUtteranceMean=0.884|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ta~
-6.3	_	_	_	_	_	6	Syl=3	_	AlignBegin=48103|AlignEnd=48318|AvgAmplitude=69.699|AvgHeightGlo=L|AvgHeightLoc=M|Duration=214|Glo=ll|Loc=mm|MaxAmplitude=71.43|MeanF0=209.349|MeanF0Step=234.986|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.412|SemitonesFromUtteranceMean=-1.964|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dy
+6.1	_	_	_	_	_	6	Syl=2	_	AlignBegin=47936|AlignEnd=48103|AvgAmplitude=69.699|AvgHeightGlo=H|AvgHeightLoc=H|Duration=166|Glo=hm|Loc=hm|MaxAmplitude=71.43|MeanF0=209.349|MeanF0Step=234.986|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.412|SemitonesFromUtteranceMean=-1.964|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ta~
+6.2	_	_	_	_	_	6	Syl=3	_	AlignBegin=48103|AlignEnd=48318|AvgAmplitude=69.699|AvgHeightGlo=L|AvgHeightLoc=M|Duration=214|Glo=ll|Loc=mm|MaxAmplitude=71.43|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dy
 7	entre	entre	ADP	_	_	2	udep	_	AlignBegin=48318|AlignEnd=48515|Foot=Unique|FootTone=mm|FootType=Weak|Group=Begin|GroupTone=mH|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=48318|AlignEnd=48381|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=63|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=199.077|MeanF0Step=223.456|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.888|SemitonesFromUtteranceMean=-2.835|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a~
 7.2	_	_	_	_	_	7	Syl=2	_	AlignBegin=48381|AlignEnd=48515|AvgAmplitude=55.325|AvgHeightGlo=M|AvgHeightLoc=M|Duration=133|Glo=lm|Loc=lm|MaxAmplitude=56.373|MeanF0=205.167|MeanF0Step=230.292|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.383|SemitonesFromUtteranceMean=-2.314|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tR@
@@ -421,6 +460,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -473,10 +517,10 @@
 17.1	_	_	_	_	_	17	Syl=1	_	AlignBegin=56429|AlignEnd=56705|AvgAmplitude=67.847|AvgHeightGlo=H|AvgHeightLoc=H|Duration=275|Glo=hm|Loc=hm|MaxAmplitude=71.125|MeanF0=210.121|MeanF0Step=235.853|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=5.029|SemitonesFromUtteranceMean=-2.051|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=so
 17.2	_	_	_	_	_	17	Syl=2	_	AlignBegin=56705|AlignEnd=56819|AvgAmplitude=71.964|AvgHeightGlo=L|AvgHeightLoc=L|Duration=113|Glo=ll|Loc=ll|MaxAmplitude=71.964|MeanF0=177.739|MeanF0Step=199.505|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.695|SemitonesFromUtteranceMean=-4.949|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ve
 18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	AlignBegin=56819|AlignEnd=56996|Foot=Begin|FootTone=llL3|FootType=Strong|Group=Begin|GroupTone=llL3|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mlh1|Period=In|Period_tone=hL|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
-18.1	_	_	_	_	_	18|19.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=56819|AlignEnd=56937|AvgAmplitude=70.807|AvgHeightGlo=M|AvgHeightLoc=M|Duration=118|Glo=mm|Loc=mm|MaxAmplitude=70.807|MeanF0=174.042|MeanF0Step=195.355|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.403|SemitonesFromUtteranceMean=-5.313|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
+18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=56819|AlignEnd=56937|AvgAmplitude=70.807|AvgHeightGlo=M|AvgHeightLoc=M|Duration=118|Glo=mm|Loc=mm|MaxAmplitude=70.807|MeanF0=174.042|MeanF0Step=195.355|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.403|SemitonesFromUtteranceMean=-5.313|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
+18.2	_	_	_	_	_	18|19	Syl=2|Syl=1	_	AlignBegin=56937|AlignEnd=57104|AvgAmplitude=65.898|AvgHeightGlo=H|AvgHeightLoc=H|Duration=166|Fused=Yes|Glo=Hh|Loc=Hh|MaxAmplitude=70.164|MeanF0=165.219|MeanF0Step=185.452|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=6.771|SemitonesFromUtteranceMean=-6.213|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=za~
 19	emplois	emploi	NOUN	_	Gender=Masc|Number=Plur	17	comp:obj	_	AlignBegin=56996|AlignEnd=57465|Foot=Last|FootTone=llL3|FootType=Strong|Group=Last|GroupTone=llL3|IU=Last|NextBreakLength=10.4539|Nucleus=Last|Package=Last|Package_type=included|PackageTone=mlh1|Period=Last|Period_tone=hL|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
-19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=56937|AlignEnd=57104|AvgAmplitude=65.898|AvgHeightGlo=H|AvgHeightLoc=H|Duration=166|ExternalOnset=True|Glo=Hh|Loc=Hh|MaxAmplitude=70.164|MeanF0=165.219|MeanF0Step=185.452|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=6.771|SemitonesFromUtteranceMean=-6.213|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=za~
-19.2	_	_	_	_	_	19	Syl=2	_	AlignBegin=57104|AlignEnd=57465|AvgAmplitude=56.519|AvgHeightGlo=M|AvgHeightLoc=M|Duration=361|Glo=Lh|Loc=LH|MaxAmplitude=58.517|MeanF0=121.432|MeanF0Step=136.303|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=-9.006|SemitonesFromUtteranceMean=-11.544|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=plwa
+19.1	_	_	_	_	_	19	Syl=2	_	AlignBegin=57104|AlignEnd=57465|AvgAmplitude=56.519|AvgHeightGlo=M|AvgHeightLoc=M|Duration=361|Glo=Lh|Loc=LH|MaxAmplitude=58.517|PitchRangeGlo=H|PitchRangeLoc=H|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=plwa
 20	.	.	PUNCT	_	_	14	punct	_	AlignBegin=57465|AlignEnd=57465
 
 # sent_id = Rhap_M2006-10
@@ -491,6 +535,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -532,12 +581,12 @@
 14.1	_	_	_	_	_	14	Syl=1	_	AlignBegin=70396|AlignEnd=70887|AvgAmplitude=63.175|AvgHeightGlo=M|AvgHeightLoc=M|Duration=491|Glo=mm|Loc=mm|MaxAmplitude=77.042|MeanF0=246.205|MeanF0Step=276.356|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.876|SemitonesFromUtteranceMean=0.014|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=swaR
 15	,	,	PUNCT	_	_	10	punct	_	AlignBegin=70887|AlignEnd=70979
 16	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	AlignBegin=70979|AlignEnd=71139|Foot=Begin|FootTone=Hh|FootType=Weak|Group=Begin|GroupTone=Hh|IU=In|Nucleus=Begin|Package=Begin|Package_type=included|PackageTone=Hhm3|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Weak
-16.1	_	_	_	_	_	16	Syl=1	_	AlignBegin=70979|AlignEnd=71109|AvgAmplitude=79.023|AvgHeightGlo=M|AvgHeightLoc=M|Duration=130|Glo=mm|Loc=mm|MaxAmplitude=82.726|MeanF0=275.25|MeanF0Step=308.958|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-5.097|SemitonesFromUtteranceMean=1.944|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=y
-16.2	_	_	_	_	_	16|17	Syl=2|Syl=1	_	AlignBegin=71109|AlignEnd=71253|AvgAmplitude=77.437|AvgHeightGlo=H|AvgHeightLoc=M|Duration=143|Fused=Yes|Glo=hh|Loc=mm|MaxAmplitude=81.06|MeanF0=285.533|MeanF0Step=320.5|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.653|SemitonesFromUtteranceMean=2.579|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=n9~
+16.1	_	_	_	_	_	16|17.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=70979|AlignEnd=71109|AvgAmplitude=79.023|AvgHeightGlo=M|AvgHeightLoc=M|Duration=130|Glo=mm|Loc=mm|MaxAmplitude=82.726|MeanF0=275.25|MeanF0Step=308.958|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-5.097|SemitonesFromUtteranceMean=1.944|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=y
 17	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=71139|AlignEnd=71715|Foot=Last|FootTone=Hh|FootType=Weak|Group=Last|GroupTone=Hh|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hhm3|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=246.011
-17.1	_	_	_	_	_	17	Syl=2	_	AlignBegin=71253|AlignEnd=71417|AvgAmplitude=73.598|AvgHeightGlo=H|AvgHeightLoc=H|Duration=164|Glo=hm|Loc=hm|MaxAmplitude=74.653|MeanF0=228.407|MeanF0Step=256.379|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.26|SemitonesFromUtteranceMean=-1.285|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tER
-17.2	_	_	_	_	_	17	Syl=3	_	AlignBegin=71417|AlignEnd=71553|AvgAmplitude=65.642|AvgHeightGlo=M|AvgHeightLoc=M|Duration=135|Glo=mm|Loc=mm|MaxAmplitude=73.717|MeanF0=226.688|MeanF0Step=254.448|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.122|SemitonesFromUtteranceMean=-1.416|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=va~
-17.3	_	_	_	_	_	17	Syl=4	_	AlignBegin=71553|AlignEnd=71715|AvgHeightGlo=M|AvgHeightLoc=M|Duration=162|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sjo~
+17.1	_	_	_	_	_	17	Syl=1	_	AlignBegin=71109|AlignEnd=71253|AvgAmplitude=77.437|AvgHeightGlo=H|AvgHeightLoc=M|Duration=143|ExternalOnset=True|Glo=hh|Loc=mm|MaxAmplitude=81.06|MeanF0=285.533|MeanF0Step=320.5|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.653|SemitonesFromUtteranceMean=2.579|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=n9~
+17.2	_	_	_	_	_	17	Syl=2	_	AlignBegin=71253|AlignEnd=71417|AvgAmplitude=75.026|AvgHeightGlo=H|AvgHeightLoc=H|Duration=164|Glo=hm|Loc=hm|MaxAmplitude=77.155|MeanF0=251.36|MeanF0Step=282.142|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.481|SemitonesFromUtteranceMean=0.372|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tER
+17.3	_	_	_	_	_	17	Syl=3	_	AlignBegin=71417|AlignEnd=71553|AvgAmplitude=73.598|AvgHeightGlo=M|AvgHeightLoc=M|Duration=135|Glo=mm|Loc=mm|MaxAmplitude=74.653|MeanF0=228.407|MeanF0Step=256.379|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.26|SemitonesFromUtteranceMean=-1.285|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=va~
+17.4	_	_	_	_	_	17	Syl=4	_	AlignBegin=71553|AlignEnd=71715|AvgAmplitude=65.642|AvgHeightGlo=M|AvgHeightLoc=M|Duration=162|Glo=mm|Loc=mm|MaxAmplitude=73.717|MeanF0=226.688|MeanF0Step=254.448|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.122|SemitonesFromUtteranceMean=-1.416|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sjo~
 18	du	du	ADP	_	_	17	udep	_	AlignBegin=71715|AlignEnd=71830|Foot=Begin|FootTone=hhm2|FootType=Strong|Group=Begin|GroupTone=hhm2|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hhm3|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=71715|AlignEnd=71830|AvgAmplitude=69.86|AvgHeightGlo=M|AvgHeightLoc=M|Duration=114|Glo=mm|Loc=mm|MaxAmplitude=69.86|MeanF0=214.083|MeanF0Step=240.3|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.04|SemitonesFromUtteranceMean=-2.407|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dy
 19	chef	chef	NOUN	_	Gender=Masc|Number=Sing	18	comp:obj	_	AlignBegin=71830|AlignEnd=72007|Foot=In|FootTone=hhm2|FootType=Strong|Group=In|GroupTone=hhm2|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hhm3|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
@@ -571,6 +620,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -588,21 +642,21 @@
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=74159|AlignEnd=74341|AvgAmplitude=78.977|AvgHeightGlo=M|AvgHeightLoc=M|Duration=181|Glo=hl|Loc=hl|MaxAmplitude=79.389|MeanF0=258.081|MeanF0Step=289.686|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=3.686|SemitonesFromUtteranceMean=0.633|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ta~
 4	,	,	PUNCT	_	_	1	punct	_	AlignBegin=74341|AlignEnd=74341
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art|Shared=No	6	det	_	AlignBegin=74341|AlignEnd=74522|Foot=Unique|FootTone=hH|FootType=Weak|Group=Unique|GroupTone=hH|IU=In|Layer=Begin|Nucleus=Begin|Package=Begin|Package_type=included|PackageTone=hhH1|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-5.1	_	_	_	_	_	5|6.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=74341|AlignEnd=74448|AvgAmplitude=79.32|AvgHeightGlo=M|AvgHeightLoc=M|Duration=107|Glo=lm|Loc=mm|MaxAmplitude=79.32|MeanF0=257.476|MeanF0Step=289.007|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.458|SemitonesFromUtteranceMean=0.592|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=le
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=74341|AlignEnd=74448|AvgAmplitude=79.32|AvgHeightGlo=M|AvgHeightLoc=M|Duration=107|Glo=lm|Loc=mm|MaxAmplitude=79.32|MeanF0=257.476|MeanF0Step=289.007|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.458|SemitonesFromUtteranceMean=0.592|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=le
+5.2	_	_	_	_	_	5|6	Syl=2|Syl=1	_	AlignBegin=74448|AlignEnd=74597|AvgAmplitude=76.571|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=76.951|MeanF0=286.9|MeanF0Step=322.034|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.99|SemitonesFromUtteranceMean=2.466|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ze
 6	étudiants	étudiant	NOUN	_	Gender=Masc|Number=Plur	11	subj	_	AlignBegin=74522|AlignEnd=75125|Foot=Unique|FootTone=Hh|FootType=Strong|Group=Unique|GroupTone=Hh|IU=In|Layer=Last|Nucleus=In|Package=Last|Package_type=included|PackageTone=hhH1|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
-6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=74448|AlignEnd=74597|AvgAmplitude=76.571|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=76.951|MeanF0=286.9|MeanF0Step=322.034|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.99|SemitonesFromUtteranceMean=2.466|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ze
-6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=74597|AlignEnd=74763|AvgAmplitude=67.304|AvgHeightGlo=H|AvgHeightLoc=H|Duration=166|Glo=hm|Loc=hm|MaxAmplitude=78.499|MeanF0=270.172|MeanF0Step=303.258|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.374|SemitonesFromUtteranceMean=1.426|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ty
-6.3	_	_	_	_	_	6	Syl=3	_	AlignBegin=74763|AlignEnd=75125|AvgAmplitude=78.248|AvgHeightGlo=M|AvgHeightLoc=M|Duration=361|Glo=mm|Loc=mm|MaxAmplitude=80.523|MeanF0=243.207|MeanF0Step=272.991|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.75|SemitonesFromUtteranceMean=-0.395|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dja~
+6.1	_	_	_	_	_	6	Syl=2	_	AlignBegin=74597|AlignEnd=74763|AvgAmplitude=78.248|AvgHeightGlo=H|AvgHeightLoc=H|Duration=166|Glo=hm|Loc=hm|MaxAmplitude=80.523|MeanF0=243.207|MeanF0Step=272.991|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.75|SemitonesFromUtteranceMean=-0.395|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ty
+6.2	_	_	_	_	_	6	Syl=3	_	AlignBegin=74763|AlignEnd=75125|AvgAmplitude=78.248|AvgHeightGlo=M|AvgHeightLoc=M|Duration=361|Glo=mm|Loc=mm|MaxAmplitude=80.523|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dja~
 7	et	et	CCONJ	_	_	9	cc	_	AlignBegin=75125|AlignEnd=75236|Foot=Unique|FootTone=hH|FootType=Strong|Group=Unique|GroupTone=hH|IU=In|Layer=Begin|Package=Unique|Package_type=lone|PackageTone=hH|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
 7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=75125|AlignEnd=75236|AvgAmplitude=81.308|AvgHeightGlo=M|AvgHeightLoc=M|Duration=111|Glo=mm|Loc=mm|MaxAmplitude=81.308|MeanF0=282.938|MeanF0Step=317.587|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.62|SemitonesFromUtteranceMean=2.225|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e
 8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	AlignBegin=75236|AlignEnd=75414|Foot=Begin|FootTone=hm|FootType=Weak|Group=Begin|GroupTone=Hm|IU=In|Layer=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=HHm3|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
-8.1	_	_	_	_	_	8|9.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=75236|AlignEnd=75350|AvgAmplitude=78.189|AvgHeightGlo=M|AvgHeightLoc=M|Duration=113|Glo=mm|Loc=mm|MaxAmplitude=78.189|MeanF0=278.227|MeanF0Step=312.3|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.997|SemitonesFromUtteranceMean=1.934|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
+8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=75236|AlignEnd=75350|AvgAmplitude=78.189|AvgHeightGlo=M|AvgHeightLoc=M|Duration=113|Glo=mm|Loc=mm|MaxAmplitude=78.189|MeanF0=278.227|MeanF0Step=312.3|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.997|SemitonesFromUtteranceMean=1.934|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
+8.2	_	_	_	_	_	8|9	Syl=2|Syl=1	_	AlignBegin=75350|AlignEnd=75510|AvgAmplitude=72.271|AvgHeightGlo=M|AvgHeightLoc=M|Duration=159|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=75.541|MeanF0=245.273|MeanF0Step=275.309|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.063|SemitonesFromUtteranceMean=-0.248|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
 9	enseignants-chercheurs	enseignants-chercheurs	NOUN	_	Gender=Masc|Number=Plur	6	conj:coord	_	AlignBegin=75414|AlignEnd=76305|Foot=Last|FootToken2=Last|FootTone=hm|FootToneToken2=hm|FootType=Weak|FootTypeToken2=Weak|Group=In|GroupToken2=Last|GroupTone=Hm|GroupToneToken2=Hm|IU=In|IUToken2=In|Layer=In|LayerToken2=Last|Nucleus=In|NucleusToken2=In|Package=In|Package_type=included|Package_typeToken2=included|PackageToken2=In|PackageTone=HHm3|PackageToneToken2=HHm3|Period=In|Period_tone=Hm|Period_toneToken2=Hm|PeriodToken2=In|ProminenceFinal=Weak|ProminenceFinalToken2=Weak|ProminenceInitial=0|ProminenceInitialToken2=0|RhythmGroup=Weak|RhythmGroupToken2=Weak|TypeInherited=SubInherited|TypePara=ParaCoord
-9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=75350|AlignEnd=75510|AvgAmplitude=72.271|AvgHeightGlo=M|AvgHeightLoc=M|Duration=159|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=75.541|MeanF0=245.273|MeanF0Step=275.309|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.063|SemitonesFromUtteranceMean=-0.248|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
-9.2	_	_	_	_	_	9	Syl=2	_	AlignBegin=75510|AlignEnd=75653|AvgAmplitude=68.155|AvgHeightGlo=M|AvgHeightLoc=H|Duration=143|Glo=mm|Loc=hh|MaxAmplitude=77.015|MeanF0=252.444|MeanF0Step=283.359|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.29|SemitonesFromUtteranceMean=0.251|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sE
-9.3	_	_	_	_	_	9	Syl=3	_	AlignBegin=75653|AlignEnd=75846|AvgAmplitude=76.454|AvgHeightGlo=M|AvgHeightLoc=M|Duration=192|Glo=ml|Loc=mm|MaxAmplitude=77.685|MeanF0=223.051|MeanF0Step=250.367|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.754|SemitonesFromUtteranceMean=-1.892|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=nja~
-9.4	_	_	_	_	_	9	Syl=4	_	AlignBegin=75846|AlignEnd=76064|AvgAmplitude=69.053|AvgHeightGlo=H|AvgHeightLoc=H|Duration=217|Glo=hm|Loc=hm|MaxAmplitude=71.929|MeanF0=235.742|MeanF0Step=264.611|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.931|SemitonesFromUtteranceMean=-0.934|Slope=Fall|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=SER
-9.5	_	_	_	_	_	9	Syl=5	_	AlignBegin=76064|AlignEnd=76305|AvgAmplitude=72.333|AvgHeightGlo=M|AvgHeightLoc=M|Duration=240|Glo=hl|Loc=hl|MaxAmplitude=77.883|MeanF0=217.846|MeanF0Step=244.524|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.53|SemitonesFromUtteranceMean=-2.301|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=S9R
+9.1	_	_	_	_	_	9	Syl=2	_	AlignBegin=75510|AlignEnd=75653|AvgAmplitude=76.454|AvgHeightGlo=M|AvgHeightLoc=H|Duration=143|Glo=mm|Loc=hh|MaxAmplitude=77.685|MeanF0=223.051|MeanF0Step=250.367|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.754|SemitonesFromUtteranceMean=-1.892|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sE
+9.2	_	_	_	_	_	9	Syl=3	_	AlignBegin=75653|AlignEnd=75846|AvgAmplitude=76.454|AvgHeightGlo=M|AvgHeightLoc=M|Duration=192|Glo=ml|Loc=mm|MaxAmplitude=77.685|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=nja~
+9.3	_	_	_	_	_	9	Syl=4	_	AlignBegin=75846|AlignEnd=76064|AvgAmplitude=69.053|AvgHeightGlo=H|AvgHeightLoc=H|Duration=217|Glo=hm|Loc=hm|MaxAmplitude=71.929|MeanF0=235.742|MeanF0Step=264.611|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.931|SemitonesFromUtteranceMean=-0.934|Slope=Fall|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=SER
+9.4	_	_	_	_	_	9	Syl=5	_	AlignBegin=76064|AlignEnd=76305|AvgAmplitude=72.333|AvgHeightGlo=M|AvgHeightLoc=M|Duration=240|Glo=hl|Loc=hl|MaxAmplitude=77.883|MeanF0=217.846|MeanF0Step=244.524|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.53|SemitonesFromUtteranceMean=-2.301|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=S9R
 10	ne	ne	ADV	_	Polarity=Neg	11	mod	_	AlignBegin=76305|AlignEnd=76526|Foot=Unique|FootTone=mH|FootType=Strong|Group=Unique|GroupTone=mH|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=HHm3|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
 10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=76305|AlignEnd=76526|AvgAmplitude=77.765|AvgHeightGlo=M|AvgHeightLoc=M|Duration=221|Glo=lh|Loc=lh|MaxAmplitude=81.631|MeanF0=220.73|MeanF0Step=247.761|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-8.218|SemitonesFromUtteranceMean=-2.073|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=n@
 11	désarment	désarmer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=76526|AlignEnd=77108|Foot=Begin|FootTone=hHm2|FootType=Strong|Group=Begin|GroupTone=hHm2|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=hHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|UtteranceMeanF0=248.815
@@ -625,6 +679,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -646,12 +705,13 @@
 4.1	_	_	_	_	_	4	Syl=2	_	AlignBegin=78699|AlignEnd=79067|AvgHeightGlo=M|AvgHeightLoc=M|Duration=367|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sjo~
 5	hier	hier	ADV	_	_	2	mod	_	AlignBegin=79067|AlignEnd=79402|Foot=Unique|FootTone=mH|FootType=Strong|GovPostnucleus=Unique|Group=Last|GroupTone=hHm3|IU=In|Package=Last|Package_type=included|PackageTone=hH|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=79067|AlignEnd=79144|AvgAmplitude=79.774|AvgHeightGlo=M|AvgHeightLoc=M|Duration=76|Glo=mm|Loc=mm|MaxAmplitude=79.774|MeanF0=219.267|MeanF0Step=246.119|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.319|SemitonesFromUtteranceMean=-1.587|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=i
-5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=79144|AlignEnd=79249|AvgAmplitude=76.777|AvgHeightGlo=M|AvgHeightLoc=M|Duration=105|Glo=mm|Loc=mm|MaxAmplitude=76.777|MeanF0=212.19|MeanF0Step=238.176|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.914|SemitonesFromUtteranceMean=-2.154|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=E
-5.3	_	_	_	_	_	5|6|7	Syl=3|Syl=1|Syl=1	_	AlignBegin=79249|AlignEnd=79489|AvgAmplitude=76.759|AvgHeightGlo=H|AvgHeightLoc=M|Duration=240|Fused=Yes|Glo=mH|Loc=lh|MaxAmplitude=78.883|MeanF0=247.172|MeanF0Step=277.442|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-6.817|SemitonesFromUtteranceMean=0.487|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Ra~
+5.2	_	_	_	_	_	5|6.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=79144|AlignEnd=79249|AvgAmplitude=76.777|AvgHeightGlo=M|AvgHeightLoc=M|Duration=105|Glo=mm|Loc=mm|MaxAmplitude=76.777|MeanF0=212.19|MeanF0Step=238.176|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.914|SemitonesFromUtteranceMean=-2.154|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=E
 6	en	en	ADP	_	_	2	udep	_	AlignBegin=79402|AlignEnd=79556|Foot=Begin|FootTone=HHm2|FootType=Strong|GovPostnucleus=Begin|Group=Begin|GroupTone=HHm2|IU=In|Package=Begin|Package_type=lone|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
+6.1	_	_	_	_	_	6|7.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=79249|AlignEnd=79489|AvgAmplitude=76.759|AvgHeightGlo=H|AvgHeightLoc=M|Duration=240|ExternalOnset=True|Glo=mH|Loc=lh|MaxAmplitude=78.883|MeanF0=247.172|MeanF0Step=277.442|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-6.817|SemitonesFromUtteranceMean=0.487|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Ra~
 7	attendant	attendre	VERB	_	Tense=Pres|VerbForm=Part	6	comp:obj	_	AlignBegin=79556|AlignEnd=80126|Foot=Last|FootTone=HHm2|FootType=Strong|GovPostnucleus=In|Group=Last|GroupTone=HHm2|IU=In|Package=Last|Package_type=lone|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
-7.1	_	_	_	_	_	7	Syl=2	_	AlignBegin=79662|AlignEnd=79841|AvgAmplitude=76.888|AvgHeightGlo=H|AvgHeightLoc=H|Duration=179|Glo=hm|Loc=hm|MaxAmplitude=77.113|MeanF0=235.123|MeanF0Step=263.916|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.182|SemitonesFromUtteranceMean=-0.378|Slope=Fall|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ta~
-7.2	_	_	_	_	_	7	Syl=3	_	AlignBegin=79841|AlignEnd=80126|AvgHeightGlo=M|AvgHeightLoc=M|Duration=284|Glo=lm|Loc=lh|PitchRangeGlo=L|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=da~
+7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=79489|AlignEnd=79662|AvgAmplitude=78.611|AvgHeightGlo=H|AvgHeightLoc=H|Duration=172|ExternalOnset=True|Glo=hm|Loc=hm|MaxAmplitude=79.432|MeanF0=279.867|MeanF0Step=314.14|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.287|SemitonesFromUtteranceMean=2.638|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=na
+7.2	_	_	_	_	_	7	Syl=2	_	AlignBegin=79662|AlignEnd=79841|AvgAmplitude=67.14|AvgHeightGlo=H|AvgHeightLoc=H|Duration=179|Glo=hm|Loc=hm|MaxAmplitude=76.052|MeanF0=256.152|MeanF0Step=287.52|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.397|SemitonesFromUtteranceMean=1.105|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ta~
+7.3	_	_	_	_	_	7	Syl=3	_	AlignBegin=79841|AlignEnd=80126|AvgAmplitude=76.888|AvgHeightGlo=M|AvgHeightLoc=M|Duration=284|Glo=lm|Loc=lh|MaxAmplitude=77.113|MeanF0=235.123|MeanF0Step=263.916|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=-3.182|SemitonesFromUtteranceMean=-0.378|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=da~
 8	celle	celui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	comp:obj	_	AlignBegin=80126|AlignEnd=80460|Foot=Unique|FootTone=Hm|FootType=Weak|GovPostnucleus=In|Group=Unique|GroupTone=Hm|IU=In|Package=Begin|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
 8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=80126|AlignEnd=80460|AvgAmplitude=67.341|AvgHeightGlo=M|AvgHeightLoc=M|Duration=333|Glo=hl|Loc=hl|MaxAmplitude=74.369|MeanF0=249.648|MeanF0Step=280.221|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.149|SemitonesFromUtteranceMean=0.66|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=sEl
 9	de	de	ADP	_	_	8	mod	_	AlignBegin=80460|AlignEnd=80544|Foot=Begin|FootTone=mH|FootType=Strong|GovPostnucleus=In|Group=Begin|GroupTone=mH|IU=In|Package=In|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
@@ -673,6 +733,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -689,9 +754,9 @@
 3	d'	de	ADP	_	_	2	udep	_	AlignBegin=81732|AlignEnd=81814|Foot=Begin|FootTone=hHm2|FootType=Strong|Group=In|GroupTone=HHm3|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=HHm3|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
 3.1	_	_	_	_	_	3|4	Syl=1|Syl=1	_	AlignBegin=81732|AlignEnd=81927|AvgAmplitude=74.867|AvgHeightGlo=H|AvgHeightLoc=M|Duration=195|Fused=Yes|Glo=hm|Loc=mm|MaxAmplitude=77.306|MeanF0=276.41|MeanF0Step=310.26|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.425|SemitonesFromUtteranceMean=1.67|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=da~
 4	empoigne	empoigne	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=81814|AlignEnd=82392|Foot=In|FootTone=hHm2|FootType=Strong|Group=In|GroupTone=HHm3|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=HHm3|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
-4.1	_	_	_	_	_	4	Syl=2	_	AlignBegin=81927|AlignEnd=82179|AvgAmplitude=70.676|AvgHeightGlo=H|AvgHeightLoc=M|Duration=251|Glo=hm|Loc=mm|MaxAmplitude=76.04|MeanF0=220.828|MeanF0Step=247.871|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=4.041|SemitonesFromUtteranceMean=-2.217|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=pwa
-4.2	_	_	_	_	_	4|5	Syl=3|Syl=1	_	AlignBegin=82179|AlignEnd=82567|AvgHeightGlo=M|AvgHeightLoc=M|Duration=387|Fused=Yes|Glo=ml|Loc=ml|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=njo
+4.1	_	_	_	_	_	4|5.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=81927|AlignEnd=82179|AvgAmplitude=70.676|AvgHeightGlo=H|AvgHeightLoc=M|Duration=251|Glo=hm|Loc=mm|MaxAmplitude=76.04|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=pwa
 5	au	au	ADP	_	_	2	udep	_	AlignBegin=82392|AlignEnd=82567|Foot=In|FootTone=hHm2|FootType=Strong|Group=In|GroupTone=HHm3|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=HHm3|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=82179|AlignEnd=82567|AvgAmplitude=70.676|AvgHeightGlo=M|AvgHeightLoc=M|Duration=387|ExternalOnset=True|Glo=ml|Loc=ml|MaxAmplitude=76.04|MeanF0=220.828|MeanF0Step=247.871|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=4.041|SemitonesFromUtteranceMean=-2.217|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=njo
 6	procès	procès	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=82567|AlignEnd=82970|Foot=Last|FootTone=hHm2|FootType=Strong|Group=Last|GroupTone=HHm3|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=HHm3|Period=In|Period_tone=Hl|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=82567|AlignEnd=82779|AvgAmplitude=69.365|AvgHeightGlo=M|AvgHeightLoc=M|Duration=212|Glo=mm|Loc=mm|MaxAmplitude=79.918|MeanF0=251.682|MeanF0Step=282.503|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-5.334|SemitonesFromUtteranceMean=0.047|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pRO
 6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=82779|AlignEnd=82970|AvgAmplitude=66.389|Glo=X|Loc=X|MaxAmplitude=68.59|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=sE
@@ -713,6 +778,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -723,11 +793,11 @@
 # macrosyntax = les avocats du berger corse ont quitté le procès hier soir //
 # text = les avocats du berger corse ont quitté le procès hier soir.
 1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	AlignBegin=83410|AlignEnd=83590|Foot=Begin|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=Hm|IU=Begin|Nucleus=Begin|Package=Begin|Package_type=included|PackageTone=HHm1|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
-1.1	_	_	_	_	_	1|2.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=83410|AlignEnd=83548|AvgAmplitude=76.719|AvgHeightGlo=H|AvgHeightLoc=H|Duration=138|Glo=hm|Loc=hm|MaxAmplitude=77.061|MeanF0=277.667|MeanF0Step=311.67|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.001|SemitonesFromUtteranceMean=2.379|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=le
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=83410|AlignEnd=83548|AvgAmplitude=76.719|AvgHeightGlo=H|AvgHeightLoc=H|Duration=138|Glo=hm|Loc=hm|MaxAmplitude=77.061|MeanF0=277.667|MeanF0Step=311.67|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.001|SemitonesFromUtteranceMean=2.379|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=le
+1.2	_	_	_	_	_	1|2	Syl=2|Syl=1	_	AlignBegin=83548|AlignEnd=83660|AvgAmplitude=77.241|AvgHeightGlo=M|AvgHeightLoc=M|Duration=111|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=77.241|MeanF0=224.435|MeanF0Step=251.92|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.085|SemitonesFromUtteranceMean=-1.306|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za
 2	avocats	avocat	NOUN	_	Gender=Masc|Number=Plur	6	subj	_	AlignBegin=83590|AlignEnd=84003|Foot=Last|FootTone=Hm|FootType=Weak|Group=Last|GroupTone=Hm|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm1|Period=In|Period_tone=Hl|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=83548|AlignEnd=83660|AvgAmplitude=77.241|AvgHeightGlo=M|AvgHeightLoc=M|Duration=111|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=77.241|MeanF0=224.435|MeanF0Step=251.92|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.085|SemitonesFromUtteranceMean=-1.306|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za
-2.2	_	_	_	_	_	2	Syl=2	_	AlignBegin=83660|AlignEnd=83789|AvgAmplitude=73.181|AvgHeightGlo=M|AvgHeightLoc=M|Duration=129|Glo=mm|Loc=mm|MaxAmplitude=74.727|MeanF0=213.538|MeanF0Step=239.689|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.265|SemitonesFromUtteranceMean=-2.168|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vO
-2.3	_	_	_	_	_	2	Syl=3	_	AlignBegin=83789|AlignEnd=84003|AvgAmplitude=66.759|AvgHeightGlo=H|AvgHeightLoc=H|Duration=214|Glo=Hl|Loc=Hl|MaxAmplitude=73.051|MeanF0=239.757|MeanF0Step=269.118|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=1.767|SemitonesFromUtteranceMean=-0.163|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ka
+2.1	_	_	_	_	_	2	Syl=2	_	AlignBegin=83660|AlignEnd=83789|AvgAmplitude=66.759|AvgHeightGlo=M|AvgHeightLoc=M|Duration=129|Glo=mm|Loc=mm|MaxAmplitude=73.051|MeanF0=239.757|MeanF0Step=269.118|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.767|SemitonesFromUtteranceMean=-0.163|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vO
+2.2	_	_	_	_	_	2	Syl=3	_	AlignBegin=83789|AlignEnd=84003|AvgAmplitude=66.759|AvgHeightGlo=H|AvgHeightLoc=H|Duration=214|Glo=Hl|Loc=Hl|MaxAmplitude=73.051|PitchRangeGlo=H|PitchRangeLoc=H|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ka
 3	du	du	ADP	_	_	2	udep	_	AlignBegin=84003|AlignEnd=84144|Foot=Unique|FootTone=hh|FootType=Weak|Group=Unique|GroupTone=hh|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm1|Period=In|Period_tone=Hl|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=84003|AlignEnd=84144|AvgAmplitude=73.156|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|Glo=mm|Loc=mm|MaxAmplitude=74.607|MeanF0=238.88|MeanF0Step=268.134|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.012|SemitonesFromUtteranceMean=-0.226|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dy
 4	berger	berger	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=84144|AlignEnd=84422|Foot=Unique|FootTone=hH|FootType=Strong|Group=Unique|GroupTone=hH|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=HHm1|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
@@ -764,6 +834,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -807,6 +882,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -865,6 +945,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -876,14 +961,14 @@
 # text = réponse à suivre avec Hélène Chevalier au congrès de Barcelone.
 1	réponse	réponse	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=93449|AlignEnd=94023|Foot=Begin|FootTone=Hhm2|FootType=Weak|Group=Begin|GroupTone=mhH2|IU=Begin|Nucleus=Begin|Package=Begin|Package_type=included|PackageTone=mH|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=218.994
 1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=93449|AlignEnd=93734|AvgAmplitude=63.37|AvgHeightGlo=H|AvgHeightLoc=H|Duration=285|Glo=lH|Loc=lH|MaxAmplitude=69.257|MeanF0=237.606|MeanF0Step=266.704|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=-6.183|SemitonesFromUtteranceMean=1.412|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Re
-1.2	_	_	_	_	_	1	Syl=2	_	AlignBegin=93734|AlignEnd=93942|AvgAmplitude=75.886|AvgHeightGlo=M|AvgHeightLoc=M|Duration=207|Glo=hl|Loc=hl|MaxAmplitude=77.917|MeanF0=240.179|MeanF0Step=269.592|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.402|SemitonesFromUtteranceMean=1.599|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=po~
-1.3	_	_	_	_	_	1|2	Syl=3|Syl=1	_	AlignBegin=93942|AlignEnd=94124|AvgAmplitude=70.604|AvgHeightGlo=M|AvgHeightLoc=M|Duration=181|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=77.394|MeanF0=259.158|MeanF0Step=290.895|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.455|SemitonesFromUtteranceMean=2.915|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sa
+1.2	_	_	_	_	_	1|2.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=93734|AlignEnd=93942|AvgAmplitude=75.886|AvgHeightGlo=M|AvgHeightLoc=M|Duration=207|Glo=hl|Loc=hl|MaxAmplitude=77.917|MeanF0=240.179|MeanF0Step=269.592|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.402|SemitonesFromUtteranceMean=1.599|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=po~
 2	à	à	ADP	_	_	1	udep	_	AlignBegin=94023|AlignEnd=94124|Foot=Last|FootTone=Hhm2|FootType=Weak|Group=Last|GroupTone=mhH2|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=mH|Period=In|Period_tone=Hl|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Weak
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=93942|AlignEnd=94124|AvgAmplitude=70.604|AvgHeightGlo=M|AvgHeightLoc=M|Duration=181|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=77.394|MeanF0=259.158|MeanF0Step=290.895|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.455|SemitonesFromUtteranceMean=2.915|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sa
 3	suivre	suivre	VERB	_	VerbForm=Inf	2	comp:obj	_	AlignBegin=94124|AlignEnd=94478|Foot=Begin|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=Hhm3|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=Hhm3|Period=In|Period_tone=Hl|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|Subject=NoRaising
-3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=94124|AlignEnd=94430|AvgAmplitude=70.197|AvgHeightGlo=M|AvgHeightLoc=M|Duration=306|Glo=mm|Loc=mm|MaxAmplitude=79.214|MeanF0=262.333|MeanF0Step=294.459|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.786|SemitonesFromUtteranceMean=3.126|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sHi
-3.2	_	_	_	_	_	3|4	Syl=2|Syl=1	_	AlignBegin=94430|AlignEnd=94594|AvgAmplitude=75.371|AvgHeightGlo=M|AvgHeightLoc=M|Duration=164|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=79.042|MeanF0=289.267|MeanF0Step=324.691|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.473|SemitonesFromUtteranceMean=4.818|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vRa
+3.1	_	_	_	_	_	3|4.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=94124|AlignEnd=94430|AvgAmplitude=70.197|AvgHeightGlo=M|AvgHeightLoc=M|Duration=306|Glo=mm|Loc=mm|MaxAmplitude=79.214|MeanF0=262.333|MeanF0Step=294.459|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.786|SemitonesFromUtteranceMean=3.126|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sHi
 4	avec	avec	ADP	_	_	3	mod	_	AlignBegin=94478|AlignEnd=94795|Foot=In|FootTone=Hm|FootType=Weak|Group=In|GroupTone=Hhm3|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=Hhm3|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
-4.1	_	_	_	_	_	4|5.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=94594|AlignEnd=94739|AvgHeightGlo=M|AvgHeightLoc=M|Duration=144|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=94430|AlignEnd=94594|AvgAmplitude=75.371|AvgHeightGlo=M|AvgHeightLoc=M|Duration=164|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=79.042|MeanF0=289.267|MeanF0Step=324.691|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.473|SemitonesFromUtteranceMean=4.818|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vRa
+4.2	_	_	_	_	_	4|5.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=94594|AlignEnd=94739|AvgAmplitude=74.851|AvgHeightGlo=M|AvgHeightLoc=M|Duration=144|Glo=mm|Loc=mm|MaxAmplitude=78.07|MeanF0=285.241|MeanF0Step=320.173|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.423|SemitonesFromUtteranceMean=4.576|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE
 5	Hélène	Hélène	PROPN	_	_	4	comp:obj	_	AlignBegin=94795|AlignEnd=95036|Foot=Last|FootTone=Hm|FootType=Weak|Group=In|GroupTone=Hhm3|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=Hhm3|Period=In|Period_tone=Hl|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
 5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=94739|AlignEnd=94914|AvgAmplitude=65.002|AvgHeightGlo=H|AvgHeightLoc=H|Duration=175|ExternalOnset=True|Glo=hm|Loc=hm|MaxAmplitude=76.037|MeanF0=268.964|MeanF0Step=301.902|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.925|SemitonesFromUtteranceMean=3.558|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ke
 5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=94914|AlignEnd=95036|AvgAmplitude=77.67|AvgHeightGlo=M|AvgHeightLoc=M|Duration=122|Glo=ml|Loc=mm|MaxAmplitude=77.67|MeanF0=230.28|MeanF0Step=258.481|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.599|SemitonesFromUtteranceMean=0.87|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=lEn
@@ -915,6 +1000,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -963,9 +1053,9 @@
 17	syndicats	syndicat	NOUN	_	Gender=Masc|Number=Plur	16	comp:obj	_	AlignBegin=108294|AlignEnd=108912|Foot=Begin|FootTone=HHm2|FootType=Strong|Group=Begin|GroupTone=HHm2|IU=In|Layer=Unique|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=HHm2|Period=In|Period_tone=hmm2|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 17.1	_	_	_	_	_	17	Syl=1	_	AlignBegin=108294|AlignEnd=108472|AvgAmplitude=70.745|AvgHeightGlo=M|AvgHeightLoc=H|Duration=177|Glo=mm|Loc=mh|MaxAmplitude=78.521|MeanF0=242.312|MeanF0Step=271.987|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-5.798|SemitonesFromUtteranceMean=0.396|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=s9~
 17.2	_	_	_	_	_	17	Syl=2	_	AlignBegin=108472|AlignEnd=108658|AvgAmplitude=73.574|AvgHeightGlo=M|AvgHeightLoc=M|Duration=186|Glo=mm|Loc=mm|MaxAmplitude=75.641|MeanF0=229.892|MeanF0Step=258.045|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.282|SemitonesFromUtteranceMean=-0.515|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=di
-17.3	_	_	_	_	_	17|18.1	Syl=3|ExternalOnset=Yes	_	AlignBegin=108658|AlignEnd=108849|AvgAmplitude=66.944|AvgHeightGlo=M|AvgHeightLoc=H|Duration=190|Glo=lh|Loc=mh|MaxAmplitude=76.553|MeanF0=261.368|MeanF0Step=293.376|PitchRangeGlo=M|PitchRangeLoc=L|Semiton=-5.155|SemitonesFromUtteranceMean=1.706|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ka
+17.3	_	_	_	_	_	17	Syl=3	_	AlignBegin=108658|AlignEnd=108849|AvgAmplitude=66.944|AvgHeightGlo=M|AvgHeightLoc=H|Duration=190|Glo=lh|Loc=mh|MaxAmplitude=76.553|MeanF0=261.368|MeanF0Step=293.376|PitchRangeGlo=M|PitchRangeLoc=L|Semiton=-5.155|SemitonesFromUtteranceMean=1.706|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ka
+17.4	_	_	_	_	_	17|18	Syl=4|Syl=1	_	AlignBegin=108849|AlignEnd=108991|AvgAmplitude=70.519|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|Fused=Yes|Glo=hl|Loc=hl|MaxAmplitude=78.476|MeanF0=271.167|MeanF0Step=304.374|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=3.308|SemitonesFromUtteranceMean=2.343|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ze
 18	et	et	CCONJ	_	_	19	cc	_	AlignBegin=108912|AlignEnd=108991|Foot=In|FootTone=HHm2|FootType=Strong|Group=In|GroupTone=HHm2|IU=In|Layer=Begin|Package=In|Package_type=lone|PackageTone=HHm2|Period=In|Period_tone=hmm2|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
-18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=108849|AlignEnd=108991|AvgAmplitude=70.519|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|ExternalOnset=True|Glo=hl|Loc=hl|MaxAmplitude=78.476|MeanF0=271.167|MeanF0Step=304.374|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=3.308|SemitonesFromUtteranceMean=2.343|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ze
 19	patronat	patronat	NOUN	_	Gender=Masc|Number=Sing	17	conj:coord	_	AlignBegin=108991|AlignEnd=109752|Foot=Last|FootTone=HHm2|FootType=Strong|Group=Last|GroupTone=HHm2|IU=Last|Layer=Last|Nucleus=Last|Package=Last|Package_type=lone|PackageTone=HHm2|Period=In|Period_tone=hmm2|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No|TypeInherited= ObjInherited|TypePara=ParaCoord
 19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=108991|AlignEnd=109140|AvgAmplitude=62.059|AvgHeightGlo=H|AvgHeightLoc=H|Duration=148|Glo=hm|Loc=hm|MaxAmplitude=76.324|MeanF0=233.933|MeanF0Step=262.581|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.564|SemitonesFromUtteranceMean=-0.214|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=pa
 19.2	_	_	_	_	_	19	Syl=2	_	AlignBegin=109140|AlignEnd=109335|AvgAmplitude=65.078|AvgHeightGlo=L|AvgHeightLoc=L|Duration=194|Glo=Ll|Loc=Ll|MaxAmplitude=75.532|MeanF0=182.69|MeanF0Step=205.062|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.322|SemitonesFromUtteranceMean=-4.494|Slope=Flat|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tRO
@@ -984,6 +1074,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1050,6 +1145,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1089,6 +1189,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1176,6 +1281,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1244,6 +1354,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1318,6 +1433,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1369,6 +1489,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1386,12 +1511,12 @@
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=283830|AlignEnd=283976|AvgAmplitude=78.222|AvgHeightGlo=M|AvgHeightLoc=M|Duration=146|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=78.624|MeanF0=254.4|MeanF0Step=285.554|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.484|SemitonesFromUtteranceMean=1.842|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=z9~
 4	sondage	sondage	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=283976|AlignEnd=284346|Foot=In|FootTone=Hm|FootType=Weak|GovNucleus=In|Group=In|GroupTone=Hm|IU=In|Package=In|Package_type=included|PackageTone=HHm3|Period=In|Period_tone=HHm2|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
 4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=283976|AlignEnd=284125|AvgAmplitude=67.367|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|Glo=mm|Loc=mm|MaxAmplitude=74.804|MeanF0=248.217|MeanF0Step=278.615|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.498|SemitonesFromUtteranceMean=1.416|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=so~
-4.2	_	_	_	_	_	4	Syl=2	_	AlignBegin=284125|AlignEnd=284274|AvgAmplitude=74.575|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|Glo=mm|Loc=mm|MaxAmplitude=79.822|MeanF0=231.733|MeanF0Step=260.112|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.985|SemitonesFromUtteranceMean=0.227|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=da
-4.3	_	_	_	_	_	4|5	Syl=3|Syl=1	_	AlignBegin=284274|AlignEnd=284457|AvgAmplitude=69.816|AvgHeightGlo=M|AvgHeightLoc=M|Duration=182|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=73.065|MeanF0=202.054|MeanF0Step=226.798|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.164|SemitonesFromUtteranceMean=-2.146|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ZRe
+4.2	_	_	_	_	_	4|5.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=284125|AlignEnd=284274|AvgAmplitude=74.575|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|Glo=mm|Loc=mm|MaxAmplitude=79.822|MeanF0=231.733|MeanF0Step=260.112|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.985|SemitonesFromUtteranceMean=0.227|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=da
 5	réalisé	réaliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	mod	_	AlignBegin=284346|AlignEnd=285045|Foot=Last|FootTone=Hm|FootType=Weak|GovNucleus=In|Group=Last|GroupTone=Hm|IU=In|Package=In|Package_type=included|PackageTone=HHm3|Period=In|Period_tone=HHm2|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-5.1	_	_	_	_	_	5	Syl=2	_	AlignBegin=284457|AlignEnd=284591|AvgAmplitude=73.81|AvgHeightGlo=M|AvgHeightLoc=M|Duration=134|Glo=mm|Loc=mm|MaxAmplitude=73.81|MeanF0=214|MeanF0Step=240.207|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0|SemitonesFromUtteranceMean=-1.152|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a
-5.2	_	_	_	_	_	5	Syl=3	_	AlignBegin=284591|AlignEnd=284713|AvgAmplitude=71.72|AvgHeightGlo=M|AvgHeightLoc=M|Duration=121|Glo=mm|Loc=mm|MaxAmplitude=72.348|MeanF0=205.625|MeanF0Step=230.806|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.936|SemitonesFromUtteranceMean=-1.843|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=li
-5.3	_	_	_	_	_	5	Syl=4	_	AlignBegin=284713|AlignEnd=285045|AvgHeightGlo=M|AvgHeightLoc=M|Duration=332|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ze
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=284274|AlignEnd=284457|AvgAmplitude=69.816|AvgHeightGlo=M|AvgHeightLoc=M|Duration=182|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=73.065|MeanF0=202.054|MeanF0Step=226.798|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.164|SemitonesFromUtteranceMean=-2.146|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ZRe
+5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=284457|AlignEnd=284591|AvgAmplitude=75.401|AvgHeightGlo=M|AvgHeightLoc=M|Duration=134|Glo=mm|Loc=mm|MaxAmplitude=78.082|MeanF0=209|MeanF0Step=234.595|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0|SemitonesFromUtteranceMean=-1.561|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a
+5.3	_	_	_	_	_	5	Syl=3	_	AlignBegin=284591|AlignEnd=284713|AvgAmplitude=73.81|AvgHeightGlo=M|AvgHeightLoc=M|Duration=121|Glo=mm|Loc=mm|MaxAmplitude=73.81|MeanF0=214|MeanF0Step=240.207|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0|SemitonesFromUtteranceMean=-1.152|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=li
+5.4	_	_	_	_	_	5	Syl=4	_	AlignBegin=284713|AlignEnd=285045|AvgAmplitude=71.72|AvgHeightGlo=M|AvgHeightLoc=M|Duration=332|Glo=mm|Loc=mm|MaxAmplitude=72.348|MeanF0=205.625|MeanF0Step=230.806|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.936|SemitonesFromUtteranceMean=-1.843|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ze
 6	avant	avant	ADP	_	_	5	mod	_	AlignBegin=285045|AlignEnd=285415|Foot=Unique|FootTone=mH|FootType=Strong|GovNucleus=In|Group=Unique|GroupTone=mH|IU=In|Package=Last|Package_type=included|PackageTone=HHm3|Period=In|Period_tone=HHm2|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=285045|AlignEnd=285163|AvgAmplitude=75.543|AvgHeightGlo=M|AvgHeightLoc=M|Duration=117|Glo=mm|Loc=mm|MaxAmplitude=75.543|MeanF0=197.19|MeanF0Step=221.339|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.178|SemitonesFromUtteranceMean=-2.568|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a
 6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=285163|AlignEnd=285415|AvgAmplitude=75.373|AvgHeightGlo=H|AvgHeightLoc=H|Duration=251|Glo=lH|Loc=lH|MaxAmplitude=81.763|MeanF0=220.824|MeanF0Step=247.866|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=-7.467|SemitonesFromUtteranceMean=-0.608|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=va~
@@ -1433,12 +1558,12 @@
 23	politique	politique	NOUN	_	Gender=Fem|Number=Sing	21	comp:obj	_	AlignBegin=289231|AlignEnd=289677|Foot=Unique|FootTone=mm|FootType=Weak|Group=In|GroupTone=mH|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm1|Period=In|Period_tone=mhH1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 23.1	_	_	_	_	_	23	Syl=1	_	AlignBegin=289231|AlignEnd=289348|AvgAmplitude=65.521|AvgHeightGlo=M|AvgHeightLoc=M|Duration=116|Glo=lh|Loc=lh|MaxAmplitude=65.521|MeanF0=206.412|MeanF0Step=231.689|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-3.076|SemitonesFromUtteranceMean=-1.777|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=pO
 23.2	_	_	_	_	_	23	Syl=2	_	AlignBegin=289348|AlignEnd=289448|AvgAmplitude=72.934|AvgHeightGlo=M|AvgHeightLoc=M|Duration=100|Glo=mm|Loc=mm|MaxAmplitude=72.934|MeanF0=206.1|MeanF0Step=231.339|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.059|SemitonesFromUtteranceMean=-1.803|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=li
-23.3	_	_	_	_	_	23	Syl=3	_	AlignBegin=289448|AlignEnd=289597|AvgAmplitude=56.8|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|Glo=lm|Loc=lm|MaxAmplitude=68.542|MeanF0=197.727|MeanF0Step=221.941|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.589|SemitonesFromUtteranceMean=-2.521|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ti
-23.4	_	_	_	_	_	23|24	Syl=4|Syl=1	_	AlignBegin=289597|AlignEnd=289737|AvgAmplitude=65.039|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=77.456|MeanF0=220.826|MeanF0Step=247.869|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.405|SemitonesFromUtteranceMean=-0.608|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ke
+23.3	_	_	_	_	_	23|24.1	Syl=3|ExternalOnset=Yes	_	AlignBegin=289448|AlignEnd=289597|AvgAmplitude=56.8|AvgHeightGlo=M|AvgHeightLoc=M|Duration=148|Glo=lm|Loc=lm|MaxAmplitude=68.542|MeanF0=197.727|MeanF0Step=221.941|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.589|SemitonesFromUtteranceMean=-2.521|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ti
 24	économique	économique	ADJ	_	Number=Sing	23	mod	_	AlignBegin=289677|AlignEnd=290210|Foot=Unique|FootTone=mH|FootType=Strong|Group=Last|GroupTone=mH|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=HHm1|Period=In|Period_tone=mhH1|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
-24.1	_	_	_	_	_	24	Syl=2	_	AlignBegin=289737|AlignEnd=289884|AvgAmplitude=74.32|AvgHeightGlo=M|AvgHeightLoc=M|Duration=146|Glo=mm|Loc=mm|MaxAmplitude=74.32|MeanF0=205.136|MeanF0Step=230.258|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.586|SemitonesFromUtteranceMean=-1.884|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO
-24.2	_	_	_	_	_	24	Syl=3	_	AlignBegin=289884|AlignEnd=289994|AvgAmplitude=67.838|AvgHeightGlo=L|AvgHeightLoc=L|Duration=109|Glo=ll|Loc=ll|MaxAmplitude=77.019|MeanF0=254.773|MeanF0Step=285.973|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-5.937|SemitonesFromUtteranceMean=1.868|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nO
-24.3	_	_	_	_	_	24	Syl=4	_	AlignBegin=289994|AlignEnd=290210|AvgHeightGlo=H|AvgHeightLoc=H|Duration=216|Glo=lH|Loc=lH|PitchRangeGlo=H|PitchRangeLoc=H|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=mik
+24.1	_	_	_	_	_	24	Syl=1	_	AlignBegin=289597|AlignEnd=289737|AvgAmplitude=65.039|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=77.456|MeanF0=220.826|MeanF0Step=247.869|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.405|SemitonesFromUtteranceMean=-0.608|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ke
+24.2	_	_	_	_	_	24	Syl=2	_	AlignBegin=289737|AlignEnd=289884|AvgAmplitude=62.189|AvgHeightGlo=M|AvgHeightLoc=M|Duration=146|Glo=mm|Loc=mm|MaxAmplitude=76.846|MeanF0=225.655|MeanF0Step=253.289|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.565|SemitonesFromUtteranceMean=-0.234|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO
+24.3	_	_	_	_	_	24	Syl=3	_	AlignBegin=289884|AlignEnd=289994|AvgAmplitude=74.32|AvgHeightGlo=L|AvgHeightLoc=L|Duration=109|Glo=ll|Loc=ll|MaxAmplitude=74.32|MeanF0=205.136|MeanF0Step=230.258|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.586|SemitonesFromUtteranceMean=-1.884|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nO
+24.4	_	_	_	_	_	24	Syl=4	_	AlignBegin=289994|AlignEnd=290210|AvgAmplitude=67.838|AvgHeightGlo=H|AvgHeightLoc=H|Duration=216|Glo=lH|Loc=lH|MaxAmplitude=77.019|MeanF0=254.773|MeanF0Step=285.973|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=-5.937|SemitonesFromUtteranceMean=1.868|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=mik
 25	du	du	ADP	_	_	23	udep	_	AlignBegin=290210|AlignEnd=290358|Foot=Begin|FootTone=hH|FootType=Strong|Group=Begin|GroupTone=hH|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=hH|Period=In|Period_tone=mhH1|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
 25.1	_	_	_	_	_	25	Syl=1	_	AlignBegin=290210|AlignEnd=290358|AvgAmplitude=73.612|AvgHeightGlo=M|AvgHeightLoc=M|Duration=147|Glo=mm|Loc=mm|MaxAmplitude=76.184|MeanF0=227.5|MeanF0Step=255.36|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=4.271|SemitonesFromUtteranceMean=-0.093|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=dy
 26	gouvernement	gouvernement	NOUN	_	Gender=Masc|Number=Sing	25	comp:obj	_	AlignBegin=290358|AlignEnd=290926|Foot=Last|FootTone=hH|FootType=Strong|Group=Last|GroupTone=hH|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=hH|Period=In|Period_tone=mhH1|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
@@ -1477,6 +1602,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1520,11 +1650,11 @@
 15	dans	dans	ADP	_	_	12	udep	_	AlignBegin=297050|AlignEnd=297212|Foot=Unique|FootTone=mH|FootType=Weak|Group=Unique|GroupTone=mH|IU=In|Nucleus=In|Package=Unique|Package_type=included|PackageTone=mh|Period=In|Period_tone=hlh1|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
 15.1	_	_	_	_	_	15	Syl=1	_	AlignBegin=297050|AlignEnd=297212|AvgAmplitude=71.153|AvgHeightGlo=M|AvgHeightLoc=M|Duration=162|Glo=lh|Loc=lh|MaxAmplitude=78.108|MeanF0=219.879|MeanF0Step=246.806|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-5.624|SemitonesFromUtteranceMean=-1.012|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=da~
 16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	AlignBegin=297212|AlignEnd=297339|Foot=Unique|FootTone=hm|FootType=Weak|Group=Begin|GroupTone=hhm2|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=hhm2|Period=In|Period_tone=hlh1|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
-16.1	_	_	_	_	_	16|17.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=297212|AlignEnd=297304|AvgAmplitude=78.608|AvgHeightGlo=M|AvgHeightLoc=M|Duration=91|Glo=mm|Loc=mm|MaxAmplitude=78.608|MeanF0=289.643|MeanF0Step=325.113|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.186|SemitonesFromUtteranceMean=3.759|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
+16.1	_	_	_	_	_	16	Syl=1	_	AlignBegin=297212|AlignEnd=297304|AvgAmplitude=78.608|AvgHeightGlo=M|AvgHeightLoc=M|Duration=91|Glo=mm|Loc=mm|MaxAmplitude=78.608|MeanF0=289.643|MeanF0Step=325.113|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.186|SemitonesFromUtteranceMean=3.759|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
+16.2	_	_	_	_	_	16|17	Syl=2|Syl=1	_	AlignBegin=297304|AlignEnd=297480|AvgAmplitude=73.694|AvgHeightGlo=H|AvgHeightLoc=H|Duration=175|Fused=Yes|Glo=hm|Loc=hm|MaxAmplitude=74.945|MeanF0=241.417|MeanF0Step=270.981|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.762|SemitonesFromUtteranceMean=0.606|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=za~
 17	entreprises	entreprise	NOUN	_	Gender=Fem|Number=Plur	15	comp:obj	_	AlignBegin=297339|AlignEnd=298025|Foot=Unique|FootTone=hhm1|FootType=Strong|Group=Last|GroupTone=hhm2|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=hhm2|Period=In|Period_tone=hlh1|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
-17.1	_	_	_	_	_	17	Syl=1	_	AlignBegin=297304|AlignEnd=297480|AvgAmplitude=73.694|AvgHeightGlo=H|AvgHeightLoc=H|Duration=175|ExternalOnset=True|Glo=hm|Loc=hm|MaxAmplitude=74.945|MeanF0=241.417|MeanF0Step=270.981|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.762|SemitonesFromUtteranceMean=0.606|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=za~
-17.2	_	_	_	_	_	17	Syl=2	_	AlignBegin=297480|AlignEnd=297653|AvgAmplitude=62.269|AvgHeightGlo=M|AvgHeightLoc=M|Duration=173|Glo=hl|Loc=hl|MaxAmplitude=73.712|MeanF0=220.409|MeanF0Step=247.401|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=2.939|SemitonesFromUtteranceMean=-0.97|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tR@
-17.3	_	_	_	_	_	17	Syl=3	_	AlignBegin=297653|AlignEnd=298025|AvgAmplitude=62.323|AvgHeightGlo=M|AvgHeightLoc=M|Duration=371|Glo=lh|Loc=lh|MaxAmplitude=74.783|MeanF0=250.809|MeanF0Step=281.523|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.475|SemitonesFromUtteranceMean=1.267|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=pRiz
+17.1	_	_	_	_	_	17	Syl=2	_	AlignBegin=297480|AlignEnd=297653|AvgAmplitude=62.323|AvgHeightGlo=M|AvgHeightLoc=M|Duration=173|Glo=hl|Loc=hl|MaxAmplitude=74.783|MeanF0=250.809|MeanF0Step=281.523|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.475|SemitonesFromUtteranceMean=1.267|Slope=Fall|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tR@
+17.2	_	_	_	_	_	17	Syl=3	_	AlignBegin=297653|AlignEnd=298025|AvgAmplitude=62.323|AvgHeightGlo=M|AvgHeightLoc=M|Duration=371|Glo=lh|Loc=lh|MaxAmplitude=74.783|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=pRiz
 18	entre	entre	ADP	_	_	12	udep	_	AlignBegin=298025|AlignEnd=298534|Foot=Unique|FootTone=Hh|FootType=Weak|Group=Unique|GroupTone=Hh|IU=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=HHm3|Period=In|Period_tone=hlh1|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
 18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=298025|AlignEnd=298197|AvgAmplitude=65.363|AvgHeightGlo=M|AvgHeightLoc=M|Duration=172|Glo=hl|Loc=hl|MaxAmplitude=75.23|MeanF0=234|MeanF0Step=262.656|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=3.996|SemitonesFromUtteranceMean=0.066|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=a~
 18.2	_	_	_	_	_	18	Syl=2	_	AlignBegin=298197|AlignEnd=298534|AvgAmplitude=52.639|AvgHeightGlo=M|AvgHeightLoc=M|Duration=337|Glo=mm|Loc=mm|MaxAmplitude=59.622|MeanF0=221.804|MeanF0Step=248.967|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.283|SemitonesFromUtteranceMean=-0.861|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tR@
@@ -1556,6 +1686,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1576,16 +1711,16 @@
 3.3	_	_	_	_	_	3	Syl=3	_	AlignBegin=301999|AlignEnd=302215|AvgHeightGlo=M|AvgHeightLoc=M|Duration=216|Glo=ml|Loc=ml|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=a
 4	,	,	PUNCT	_	_	6	punct	_	AlignBegin=302215|AlignEnd=302215
 5	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	AlignBegin=302215|AlignEnd=302500|Foot=Unique|FootTone=Hh|FootType=Weak|Group=Begin|GroupTone=Hm|IU=In|Layer=Begin|Nucleus=In|Package=Begin|Package_type=included|PackageTone=Hhm2|Period=In|Period_tone=hlh1|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
-5.1	_	_	_	_	_	5|6.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=302215|AlignEnd=302423|AvgHeightGlo=M|AvgHeightLoc=M|Duration=208|Glo=lh|Loc=lh|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=le
+5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=302215|AlignEnd=302423|AvgHeightGlo=M|AvgHeightLoc=M|Duration=208|Glo=lh|Loc=lh|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=le
+5.2	_	_	_	_	_	5|6	Syl=2|Syl=1	_	AlignBegin=302423|AlignEnd=302583|AvgHeightGlo=H|AvgHeightLoc=H|Duration=159|Fused=Yes|Glo=hm|Loc=hm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ze
 6	Échos	Échos	PROPN	_	_	3	conj:coord	_	AlignBegin=302500|AlignEnd=302785|Foot=Begin|FootTone=hm|FootType=Weak|Group=In|GroupTone=Hm|IU=In|Layer=Last|Nucleus=In|Package=In|Package_type=included|PackageTone=Hhm2|Period=In|Period_tone=hlh1|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
-6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=302423|AlignEnd=302583|AvgHeightGlo=H|AvgHeightLoc=H|Duration=159|ExternalOnset=True|Glo=hm|Loc=hm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ze
-6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=302583|AlignEnd=302785|AvgHeightGlo=M|AvgHeightLoc=M|Duration=201|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ko
+6.1	_	_	_	_	_	6	Syl=2	_	AlignBegin=302583|AlignEnd=302785|AvgHeightGlo=M|AvgHeightLoc=M|Duration=201|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ko
 7	,	,	PUNCT	_	_	8	punct	_	AlignBegin=302785|AlignEnd=302785
 8	France	France	PROPN	_	_	6	conj:coord	_	AlignBegin=302785|AlignEnd=303065|Foot=In|FootTone=hm|FootType=Weak|Group=In|GroupTone=Hm|IU=In|Layer=Begin|Nucleus=In|Package=In|Package_type=included|PackageTone=Hhm2|Period=In|Period_tone=hlh1|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Weak|TypeInherited=DepInherited|TypePara=ParaCoord
-8.1	_	_	_	_	_	8|9.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=302785|AlignEnd=302973|AvgHeightGlo=H|AvgHeightLoc=H|Duration=188|Glo=hm|Loc=hm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=fRa~
+8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=302785|AlignEnd=302973|AvgHeightGlo=H|AvgHeightLoc=H|Duration=188|Glo=hm|Loc=hm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=fRa~
+8.2	_	_	_	_	_	8|9	Syl=2|Syl=1	_	AlignBegin=302973|AlignEnd=303166|AvgHeightGlo=M|AvgHeightLoc=M|Duration=193|Fused=Yes|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=s9~
 9	Info	Info	PROPN	_	_	8	flat@name	_	AlignBegin=303065|AlignEnd=303479|Foot=Last|FootTone=hm|FootType=Weak|Group=Last|GroupTone=Hm|IU=In|Layer=Last|Nucleus=In|Package=In|Package_type=included|PackageTone=Hhm2|Period=In|Period_tone=hlh1|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=302973|AlignEnd=303166|AvgHeightGlo=M|AvgHeightLoc=M|Duration=193|ExternalOnset=True|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=s9~
-9.2	_	_	_	_	_	9	Syl=2	_	AlignBegin=303166|AlignEnd=303479|AvgHeightGlo=M|AvgHeightLoc=M|Duration=313|Glo=lh|Loc=lh|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=fO
+9.1	_	_	_	_	_	9	Syl=2	_	AlignBegin=303166|AlignEnd=303479|AvgHeightGlo=M|AvgHeightLoc=M|Duration=313|Glo=lh|Loc=lh|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=fO
 10	réalisé	réaliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	mod	_	AlignBegin=303479|AlignEnd=304178|Foot=Unique|FootTone=mm|FootType=Strong|Group=Unique|GroupTone=mh|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=Hhm2|Period=In|Period_tone=hlh1|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=303479|AlignEnd=303703|AvgHeightGlo=M|AvgHeightLoc=M|Duration=223|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Re
 10.2	_	_	_	_	_	10	Syl=2	_	AlignBegin=303703|AlignEnd=303757|AvgHeightGlo=M|AvgHeightLoc=M|Duration=54|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a
@@ -1594,9 +1729,9 @@
 11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art|Shared=Yes	12	det	_	AlignBegin=304178|AlignEnd=304418|Foot=Unique|FootTone=lhh3|FootType=Strong|Group=Unique|GroupTone=lhh3|IU=In|Nucleus=In|Package=Unique|Package_type=lone|PackageTone=lhh3|Period=In|Period_tone=hlh1|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
 11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=304178|AlignEnd=304418|AvgHeightGlo=M|AvgHeightLoc=M|Duration=239|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
 12	treize	treize	NUM	_	Number=Plur	10	mod	_	AlignBegin=304418|AlignEnd=304759|Foot=Begin|FootTone=hH|FootType=Strong|Group=Begin|GroupTone=mlH2|IU=In|Layer=Unique|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=mlH2|Period=In|Period_tone=hlh1|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
-12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=304418|AlignEnd=304696|AvgHeightGlo=M|AvgHeightLoc=M|Duration=277|Glo=lh|Loc=lh|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tRE
-12.2	_	_	_	_	_	12|13	Syl=2|Syl=1	_	AlignBegin=304696|AlignEnd=304823|AvgHeightGlo=M|AvgHeightLoc=M|Duration=127|Fused=Yes|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ze
+12.1	_	_	_	_	_	12|13.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=304418|AlignEnd=304696|AvgHeightGlo=M|AvgHeightLoc=M|Duration=277|Glo=lh|Loc=lh|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tRE
 13	et	et	CCONJ	_	_	14	cc	_	AlignBegin=304759|AlignEnd=304823|Foot=Last|FootTone=hH|FootType=Strong|Group=In|GroupTone=mlH2|IU=In|Layer=Begin|Package=In|Package_type=lone|PackageTone=mlH2|Period=In|Period_tone=hlh1|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
+13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=304696|AlignEnd=304823|AvgHeightGlo=M|AvgHeightLoc=M|Duration=127|ExternalOnset=True|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ze
 14	quatorze	quatorze	NUM	_	Number=Plur	12	conj:coord	_	AlignBegin=304823|AlignEnd=305294|Foot=Unique|FootTone=Hl|FootType=Strong|Group=Last|GroupTone=mlH2|IU=In|Layer=Last|Nucleus=In|Package=Last|Package_type=lone|PackageTone=mlH2|Period=In|Period_tone=hlh1|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|TypeInherited=DepInherited|TypePara=ParaCoord
 14.1	_	_	_	_	_	14	Syl=1	_	AlignBegin=304823|AlignEnd=305029|AvgHeightGlo=H|AvgHeightLoc=H|Duration=205|Glo=hh|Loc=hh|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ka
 14.2	_	_	_	_	_	14	Syl=2	_	AlignBegin=305029|AlignEnd=305294|AvgHeightGlo=M|AvgHeightLoc=M|Duration=264|Glo=HL|Loc=HL|PitchRangeGlo=H|PitchRangeLoc=H|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tORz
@@ -1621,6 +1756,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1662,6 +1802,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1724,6 +1869,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1757,6 +1907,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1792,6 +1947,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1828,6 +1988,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1861,6 +2026,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1911,6 +2081,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1940,6 +2115,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1950,9 +2130,9 @@
 # macrosyntax = vous y étiez il y a pas longtemps //
 # text = vous y étiez il y a pas longtemps.
 1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj	_	AlignBegin=427529|AlignEnd=427673|Foot=Begin|FootTone=mh|FootType=Strong|Group=Begin|GroupTone=mh|IU=Begin|Nucleus=Begin|Package=Begin|Package_type=lone|PackageTone=mh|Period=In|Period_tone=mlh2|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
-1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=427529|AlignEnd=427627|AvgAmplitude=74.29|AvgHeightGlo=M|AvgHeightLoc=M|Duration=97|Glo=mm|Loc=mm|MaxAmplitude=74.29|MeanF0=223.95|MeanF0Step=251.375|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.234|SemitonesFromUtteranceMean=0.095|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu
-1.2	_	_	_	_	_	1|2	Syl=2|Syl=1	_	AlignBegin=427627|AlignEnd=427767|AvgAmplitude=68.599|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|Fused=Yes|Glo=lm|Loc=mm|MaxAmplitude=71.2|MeanF0=230|MeanF0Step=258.166|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.341|SemitonesFromUtteranceMean=0.557|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=zi
+1.1	_	_	_	_	_	1|2.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=427529|AlignEnd=427627|AvgAmplitude=74.29|AvgHeightGlo=M|AvgHeightLoc=M|Duration=97|Glo=mm|Loc=mm|MaxAmplitude=74.29|MeanF0=223.95|MeanF0Step=251.375|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.234|SemitonesFromUtteranceMean=0.095|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vu
 2	y	y	PRON	_	Person=3|PronType=Prs	3	comp:pred	_	AlignBegin=427673|AlignEnd=427767|Foot=In|FootTone=mh|FootType=Strong|Group=In|GroupTone=mh|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=mh|Period=In|Period_tone=mlh2|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=427627|AlignEnd=427767|AvgAmplitude=68.599|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|ExternalOnset=True|Glo=lm|Loc=mm|MaxAmplitude=71.2|MeanF0=230|MeanF0Step=258.166|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.341|SemitonesFromUtteranceMean=0.557|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=zi
 3	étiez	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=427767|AlignEnd=428004|Foot=Last|FootTone=mh|FootType=Strong|Group=Last|GroupTone=mh|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=mh|Period=In|Period_tone=mlh2|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|UtteranceMeanF0=222.722
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=427767|AlignEnd=427824|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=56|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=248.727|MeanF0Step=279.187|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.698|SemitonesFromUtteranceMean=1.912|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e
 3.2	_	_	_	_	_	3	Syl=2	_	AlignBegin=427824|AlignEnd=428004|AvgAmplitude=66.39|AvgHeightGlo=M|AvgHeightLoc=M|Duration=179|Glo=mm|Loc=mm|MaxAmplitude=77.769|MeanF0=253.3|MeanF0Step=284.32|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0|SemitonesFromUtteranceMean=2.227|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tje
@@ -1980,6 +2160,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1993,9 +2178,9 @@
 1.1	_	_	_	_	_	1|2	Syl=1|Syl=1	_	AlignBegin=429067|AlignEnd=429202|AvgAmplitude=75.681|Fused=Yes|Glo=X|Loc=X|MaxAmplitude=75.981|MeanF0=0|MeanF0Step=0|Semiton=X|SemitonesFromUtteranceMean=0|Slope=X|SylForm=tul
 2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=429142|AlignEnd=429202|Foot=Last|FootTone=HH|FootType=Strong|Group=Last|GroupTone=HH|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=HH|Period=In|Period_tone=Hl|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
 3	monde	monde	NOUN	_	Gender=Masc|Number=Sing	4	subj	_	AlignBegin=429202|AlignEnd=429392|Foot=Begin|FootTone=hh|FootType=Strong|Group=Begin|GroupTone=hh|IU=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=Hh|Period=In|Period_tone=Hl|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Strong
-3.1	_	_	_	_	_	3|4.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=429202|AlignEnd=429362|AvgAmplitude=81.069|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|Glo=mm|Loc=mm|MaxAmplitude=81.181|MeanF0=291.5|MeanF0Step=327.198|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.013|SemitonesFromUtteranceMean=4.975|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mo~
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=429202|AlignEnd=429362|AvgAmplitude=81.069|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|Glo=mm|Loc=mm|MaxAmplitude=81.181|MeanF0=291.5|MeanF0Step=327.198|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.013|SemitonesFromUtteranceMean=4.975|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mo~
+3.2	_	_	_	_	_	3|4	Syl=2|Syl=1	_	AlignBegin=429362|AlignEnd=429521|AvgAmplitude=77.606|AvgHeightGlo=M|AvgHeightLoc=M|Duration=159|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=77.893|MeanF0=260.781|MeanF0Step=292.717|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.977|SemitonesFromUtteranceMean=3.047|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=de
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=429392|AlignEnd=429521|Foot=In|FootTone=hh|FootType=Strong|Group=In|GroupTone=hh|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hh|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong|UtteranceMeanF0=218.699
-4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=429362|AlignEnd=429521|AvgAmplitude=77.606|AvgHeightGlo=M|AvgHeightLoc=M|Duration=159|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=77.893|MeanF0=260.781|MeanF0Step=292.717|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.977|SemitonesFromUtteranceMean=3.047|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=de
 5	maintenant	maintenant	ADV	_	_	4	mod	_	AlignBegin=429521|AlignEnd=429902|Foot=Last|FootTone=hh|FootType=Strong|Group=Last|GroupTone=hh|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=Hh|Period=In|Period_tone=Hl|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
 5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=429521|AlignEnd=429742|AvgAmplitude=64.092|AvgHeightGlo=M|AvgHeightLoc=M|Duration=220|Glo=mm|Loc=mm|MaxAmplitude=79.626|MeanF0=255.545|MeanF0Step=286.84|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.013|SemitonesFromUtteranceMean=2.696|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=m9~t
 5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=429742|AlignEnd=429902|AvgAmplitude=79.211|AvgHeightGlo=M|AvgHeightLoc=M|Duration=160|Glo=mm|Loc=mm|MaxAmplitude=80.669|MeanF0=258.969|MeanF0Step=290.683|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.737|SemitonesFromUtteranceMean=2.926|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=na~
@@ -2074,6 +2259,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2133,6 +2323,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2183,6 +2378,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2200,10 +2400,10 @@
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=444474|AlignEnd=444674|AvgAmplitude=60.856|AvgHeightGlo=M|AvgHeightLoc=M|Duration=200|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=77.615|MeanF0=263.061|MeanF0Step=295.276|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.453|SemitonesFromUtteranceMean=1.398|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ljed
 4	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	3	comp:obj	_	AlignBegin=444674|AlignEnd=445180|Foot=Begin|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=Hm|IU=In|Nucleus=In|Package=Begin|Package_type=motherless|PackageTone=Hm|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
 4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=444674|AlignEnd=444834|AvgAmplitude=72.324|AvgHeightGlo=M|AvgHeightLoc=M|Duration=159|Glo=mm|Loc=mm|MaxAmplitude=78.19|MeanF0=240.762|MeanF0Step=270.246|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.95|SemitonesFromUtteranceMean=-0.135|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pER
-4.2	_	_	_	_	_	4|5.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=444834|AlignEnd=445116|AvgAmplitude=69.659|AvgHeightGlo=M|AvgHeightLoc=M|Duration=282|Glo=mm|Loc=mm|MaxAmplitude=78.166|MeanF0=269.263|MeanF0Step=302.238|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-4.26|SemitonesFromUtteranceMean=1.802|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sO
+4.2	_	_	_	_	_	4	Syl=2	_	AlignBegin=444834|AlignEnd=445116|AvgAmplitude=69.659|AvgHeightGlo=M|AvgHeightLoc=M|Duration=282|Glo=mm|Loc=mm|MaxAmplitude=78.166|MeanF0=269.263|MeanF0Step=302.238|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-4.26|SemitonesFromUtteranceMean=1.802|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sO
+4.3	_	_	_	_	_	4|5	Syl=3|Syl=1	_	AlignBegin=445116|AlignEnd=445281|AvgAmplitude=77.822|AvgHeightGlo=H|AvgHeightLoc=H|Duration=164|Fused=Yes|Glo=hm|Loc=hm|MaxAmplitude=78.548|MeanF0=260.105|MeanF0Step=291.958|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.727|SemitonesFromUtteranceMean=1.203|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ne
 5	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=445180|AlignEnd=445454|Foot=In|FootTone=Hm|FootType=Weak|Group=In|GroupTone=Hm|IU=In|Nucleus=In|Package=In|Package_type=motherless|PackageTone=Hm|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=242.65
-5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=445116|AlignEnd=445281|AvgAmplitude=77.822|AvgHeightGlo=H|AvgHeightLoc=H|Duration=164|ExternalOnset=True|Glo=hm|Loc=hm|MaxAmplitude=78.548|MeanF0=260.105|MeanF0Step=291.958|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.727|SemitonesFromUtteranceMean=1.203|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ne
-5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=445281|AlignEnd=445454|AvgAmplitude=60.123|AvgHeightGlo=M|AvgHeightLoc=M|Duration=173|Glo=ml|Loc=hl|MaxAmplitude=70.355|MeanF0=228.267|MeanF0Step=256.221|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=3.474|SemitonesFromUtteranceMean=-1.058|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tE
+5.1	_	_	_	_	_	5	Syl=2	_	AlignBegin=445281|AlignEnd=445454|AvgAmplitude=60.123|AvgHeightGlo=M|AvgHeightLoc=M|Duration=173|Glo=ml|Loc=hl|MaxAmplitude=70.355|PitchRangeGlo=L|PitchRangeLoc=M|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tE
 6	dans	dans	ADP	_	_	5	comp:obl	_	AlignBegin=445454|AlignEnd=445585|Foot=In|FootTone=Hm|FootType=Weak|Group=In|GroupTone=Hm|IU=In|Nucleus=In|Package=In|Package_type=motherless|PackageTone=Hm|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
 6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=445454|AlignEnd=445585|AvgAmplitude=73.582|AvgHeightGlo=M|AvgHeightLoc=M|Duration=131|Glo=mm|Loc=mm|MaxAmplitude=74.372|MeanF0=202.154|MeanF0Step=226.91|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.77|SemitonesFromUtteranceMean=-3.161|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=da~
 7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	AlignBegin=445585|AlignEnd=445714|Foot=In|FootTone=Hm|FootType=Weak|Group=In|GroupTone=Hm|IU=In|Nucleus=In|Package=In|Package_type=motherless|PackageTone=Hm|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
@@ -2229,6 +2429,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2267,6 +2472,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2323,6 +2533,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2341,12 +2556,12 @@
 3	de	de	ADP	_	_	2	udep	_	AlignBegin=453219|AlignEnd=453324|Foot=Unique|FootTone=ml|FootType=Weak|Group=Unique|GroupTone=ml|IU=In|Layer=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=mh|Period=In|Period_tone=Hl|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=453219|AlignEnd=453324|AvgAmplitude=69.909|AvgHeightGlo=M|AvgHeightLoc=M|Duration=105|Glo=mm|Loc=mm|MaxAmplitude=69.909|MeanF0=187.524|MeanF0Step=210.488|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.027|SemitonesFromUtteranceMean=-2.788|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=d@
 4	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	AlignBegin=453324|AlignEnd=453504|Foot=Unique|FootTone=llm2|FootType=Weak|Group=Begin|GroupTone=mm|IU=In|Layer=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mh|Period=In|Period_tone=Hl|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-4.1	_	_	_	_	_	4|5.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=453324|AlignEnd=453474|AvgAmplitude=60.95|AvgHeightGlo=H|AvgHeightLoc=M|Duration=149|Glo=hm|Loc=mm|MaxAmplitude=68.845|MeanF0=183.632|MeanF0Step=206.119|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.851|SemitonesFromUtteranceMean=-3.151|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=se
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=453324|AlignEnd=453474|AvgAmplitude=60.95|AvgHeightGlo=H|AvgHeightLoc=M|Duration=149|Glo=hm|Loc=mm|MaxAmplitude=68.845|MeanF0=183.632|MeanF0Step=206.119|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.851|SemitonesFromUtteranceMean=-3.151|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=se
+4.2	_	_	_	_	_	4|5	Syl=2|Syl=1	_	AlignBegin=453474|AlignEnd=453564|AvgAmplitude=62.491|AvgHeightGlo=M|AvgHeightLoc=M|Duration=90|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=62.491|MeanF0=171.333|MeanF0Step=192.315|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.551|SemitonesFromUtteranceMean=-4.352|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ta~
 5	enseignement	enseignement	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=453504|AlignEnd=453946|Foot=Unique|FootTone=lm|FootType=Weak|Group=Last|GroupTone=mm|IU=In|Layer=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mh|Period=In|Period_tone=Hl|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
-5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=453474|AlignEnd=453564|AvgAmplitude=62.491|AvgHeightGlo=M|AvgHeightLoc=M|Duration=90|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=62.491|MeanF0=171.333|MeanF0Step=192.315|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.551|SemitonesFromUtteranceMean=-4.352|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ta~
-5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=453564|AlignEnd=453742|AvgAmplitude=61.9|AvgHeightGlo=M|AvgHeightLoc=M|Duration=177|Glo=mm|Loc=mm|MaxAmplitude=67.641|MeanF0=177.111|MeanF0Step=198.801|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.099|SemitonesFromUtteranceMean=-3.777|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sE
-5.3	_	_	_	_	_	5	Syl=3	_	AlignBegin=453742|AlignEnd=453884|AvgAmplitude=69.205|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|Glo=mm|Loc=mm|MaxAmplitude=69.291|MeanF0=180.286|MeanF0Step=202.364|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.584|SemitonesFromUtteranceMean=-3.47|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nj@
-5.4	_	_	_	_	_	5	Syl=4	_	AlignBegin=453884|AlignEnd=453946|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=62|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=182.538|MeanF0Step=204.892|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.474|SemitonesFromUtteranceMean=-3.255|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ma~
+5.1	_	_	_	_	_	5	Syl=2	_	AlignBegin=453564|AlignEnd=453742|AvgAmplitude=69.205|AvgHeightGlo=M|AvgHeightLoc=M|Duration=177|Glo=mm|Loc=mm|MaxAmplitude=69.291|MeanF0=180.286|MeanF0Step=202.364|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.584|SemitonesFromUtteranceMean=-3.47|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sE
+5.2	_	_	_	_	_	5	Syl=3	_	AlignBegin=453742|AlignEnd=453884|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=182.538|MeanF0Step=204.892|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.474|SemitonesFromUtteranceMean=-3.255|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nj@
+5.3	_	_	_	_	_	5	Syl=4	_	AlignBegin=453884|AlignEnd=453946|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=62|Glo=mm|Loc=mm|MaxAmplitude=0|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ma~
 6	supérieur	supérieur	ADJ	_	Gender=Masc|Number=Sing	5	mod	_	AlignBegin=453946|AlignEnd=454495|Foot=Unique|FootTone=hh|FootType=Strong|Group=Unique|GroupTone=lh|IU=In|Layer=Last|Nucleus=In|Package=Last|Package_type=included|PackageTone=mh|Period=In|Period_tone=Hl|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=453946|AlignEnd=454130|AvgAmplitude=66.272|AvgHeightGlo=M|AvgHeightLoc=M|Duration=183|Glo=lm|Loc=lm|MaxAmplitude=71.764|MeanF0=193.577|MeanF0Step=217.283|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.553|SemitonesFromUtteranceMean=-2.238|Slope=Flat|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=sy
 6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=454130|AlignEnd=454298|AvgAmplitude=68.38|AvgHeightGlo=M|AvgHeightLoc=M|Duration=168|Glo=mm|Loc=mm|MaxAmplitude=75.067|MeanF0=221.889|MeanF0Step=249.062|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.809|SemitonesFromUtteranceMean=0.125|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pe
@@ -2391,6 +2606,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2448,6 +2668,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2466,12 +2691,12 @@
 2.3	_	_	_	_	_	2	Syl=4	_	AlignBegin=495680|AlignEnd=495872|AvgAmplitude=74.712|AvgHeightGlo=M|AvgHeightLoc=M|Duration=192|Glo=mm|Loc=mm|MaxAmplitude=79.401|MeanF0=238.974|MeanF0Step=268.24|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.58|SemitonesFromUtteranceMean=0.489|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ni
 3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=495872|AlignEnd=496137
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=495872|AlignEnd=495975|AvgHeightGlo=M|AvgHeightLoc=M|Duration=102|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ba
-3.2	_	_	_	_	_	3|5.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=495975|AlignEnd=496076|AvgHeightGlo=M|AvgHeightLoc=M|Duration=100|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ra
+3.2	_	_	_	_	_	3	Syl=2	_	AlignBegin=495975|AlignEnd=496076|AvgHeightGlo=M|AvgHeightLoc=M|Duration=100|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ra
+3.3	_	_	_	_	_	3|5	Syl=3|Syl=1	_	AlignBegin=496076|AlignEnd=496229|AvgHeightGlo=M|AvgHeightLoc=M|Duration=153|Fused=Yes|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO
 4	Barack	Barack	PROPN	_	_	6	subj	_	AlignBegin=495872|AlignEnd=496137|Foot=Begin|FootTone=hh|FootType=Strong|Group=Begin|GroupTone=hh|IU=In|Nucleus=Begin|Package=Begin|Package_type=lone|PackageTone=hh|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
 5	Obama	Obama	PROPN	_	_	4	flat@name	_	AlignBegin=496137|AlignEnd=496518|Foot=Last|FootTone=hh|FootType=Strong|Group=Last|GroupTone=hh|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=hh|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
-5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=496076|AlignEnd=496229|AvgAmplitude=63.328|AvgHeightGlo=M|AvgHeightLoc=M|Duration=153|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=78.27|MeanF0=231.655|MeanF0Step=260.024|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.097|SemitonesFromUtteranceMean=-0.05|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO
-5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=496229|AlignEnd=496339|AvgAmplitude=79.01|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Glo=mm|Loc=mm|MaxAmplitude=79.01|MeanF0=213.591|MeanF0Step=239.748|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.081|SemitonesFromUtteranceMean=-1.456|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ba
-5.3	_	_	_	_	_	5	Syl=3	_	AlignBegin=496339|AlignEnd=496518|AvgAmplitude=74.861|AvgHeightGlo=M|AvgHeightLoc=M|Duration=178|Glo=mm|Loc=mm|MaxAmplitude=75.614|MeanF0=226.111|MeanF0Step=253.801|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.184|SemitonesFromUtteranceMean=-0.469|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ma
+5.1	_	_	_	_	_	5	Syl=2	_	AlignBegin=496229|AlignEnd=496339|AvgAmplitude=74.861|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Glo=mm|Loc=mm|MaxAmplitude=75.614|MeanF0=226.111|MeanF0Step=253.801|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.184|SemitonesFromUtteranceMean=-0.469|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ba
+5.2	_	_	_	_	_	5	Syl=3	_	AlignBegin=496339|AlignEnd=496518|AvgAmplitude=74.861|AvgHeightGlo=M|AvgHeightLoc=M|Duration=178|Glo=mm|Loc=mm|MaxAmplitude=75.614|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ma
 6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=496518|AlignEnd=496629|Foot=Unique|FootTone=hH|FootType=Strong|Group=Begin|GroupTone=mmH1|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=mmH1|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|UtteranceMeanF0=232.325
 6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=496518|AlignEnd=496629|AvgAmplitude=76.054|AvgHeightGlo=M|AvgHeightLoc=M|Duration=111|Glo=mm|Loc=mm|MaxAmplitude=76.054|MeanF0=209.455|MeanF0Step=235.105|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.953|SemitonesFromUtteranceMean=-1.794|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a
 7	promulgué	promulguer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	AlignBegin=496629|AlignEnd=497319|Foot=Unique|FootTone=Hm|FootType=Strong|Group=Last|GroupTone=mmH1|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=mmH1|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
@@ -2491,8 +2716,9 @@
 12.2	_	_	_	_	_	12	Syl=2	_	AlignBegin=498283|AlignEnd=498549|AvgAmplitude=56.117|AvgHeightGlo=M|AvgHeightLoc=M|Duration=266|Glo=hl|Loc=hl|MaxAmplitude=67.389|MeanF0=211.083|MeanF0Step=236.933|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.774|SemitonesFromUtteranceMean=-1.66|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=dOp
 12.3	_	_	_	_	_	12	Syl=3	_	AlignBegin=498549|AlignEnd=498611|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=61|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=200.9|MeanF0Step=225.503|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.044|SemitonesFromUtteranceMean=-2.516|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=te
 13	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	AlignBegin=498611|AlignEnd=498656|Foot=In|FootTone=Hhm2|FootType=Weak|Group=In|GroupTone=Hhm2|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
-13.1	_	_	_	_	_	13|14|14	Syl=1|Syl=1|Syl=2	_	AlignBegin=498611|AlignEnd=498828|AvgAmplitude=66.479|AvgHeightGlo=M|AvgHeightLoc=M|Duration=216|Fused=Yes|Glo=lm|Loc=lm|MaxAmplitude=72.846|MeanF0=204.478|MeanF0Step=229.519|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.225|SemitonesFromUtteranceMean=-2.21|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=swi
+13.1	_	_	_	_	_	13|14	Syl=1|Syl=1	_	AlignBegin=498611|AlignEnd=498828|AvgAmplitude=66.479|AvgHeightGlo=M|AvgHeightLoc=M|Duration=216|Fused=Yes|Glo=lm|Loc=lm|MaxAmplitude=72.846|MeanF0=204.478|MeanF0Step=229.519|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.225|SemitonesFromUtteranceMean=-2.21|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=swi
 14	week-end	week-end	NOUN	_	Gender=Masc|Number=Sing	12	mod	_	AlignBegin=498656|AlignEnd=499093|Foot=In|FootToken2=Last|FootTone=Hhm2|FootToneToken2=Hhm2|FootType=Weak|FootTypeToken2=Weak|Group=In|GroupToken2=Last|GroupTone=Hhm2|GroupToneToken2=Hhm2|IU=In|IUToken2=In|Nucleus=In|NucleusToken2=In|Package=In|Package_type=included|Package_typeToken2=included|PackageToken2=In|PackageTone=HHm2|PackageToneToken2=HHm2|Period=In|Period_tone=Hm|Period_toneToken2=Hm|PeriodToken2=In|ProminenceFinal=Weak|ProminenceFinalToken2=Weak|ProminenceInitial=0|ProminenceInitialToken2=0|RhythmGroup=Weak|RhythmGroupToken2=Weak
+14.1	_	_	_	_	_	14|14	Syl=2|Syl=3	_	AlignBegin=498828|AlignEnd=499093|AvgHeightGlo=M|AvgHeightLoc=M|Duration=265|Fused=Yes|Glo=lm|Loc=lm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=kEnd
 15	par	par	ADP	_	_	12	comp:obl	_	AlignBegin=499093|AlignEnd=499249|Foot=Begin|FootTone=hhl2|FootType=Weak|Group=Begin|GroupTone=hHm1|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 15.1	_	_	_	_	_	15	Syl=1	_	AlignBegin=499093|AlignEnd=499249|AvgAmplitude=67.262|AvgHeightGlo=M|AvgHeightLoc=M|Duration=155|Glo=hl|Loc=hl|MaxAmplitude=71.895|MeanF0=208.929|MeanF0Step=234.514|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=3.491|SemitonesFromUtteranceMean=-1.838|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=paR
 16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	AlignBegin=499249|AlignEnd=499354|Foot=Last|FootTone=hhl2|FootType=Weak|Group=In|GroupTone=hHm1|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
@@ -2514,6 +2740,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2585,6 +2816,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2595,10 +2831,10 @@
 # macrosyntax = un autre plan (+ destiné ( celui-là ) à ralentir les saisies immobilières ) devrait être annoncé aujourd'hui par le président américain //
 # text = un autre plan, destiné, celui-là, à ralentir les saisies immobilières, devrait être annoncé aujourd'hui par le président américain.
 1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=506562|AlignEnd=506723|Foot=Unique|FootTone=mH|FootType=Strong|Group=Begin|GroupTone=mmH2|IU=Begin|Nucleus=Begin|Package=Begin|Package_type=lone|PackageTone=mmH2|Period=Begin|Period_tone=hhm3|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
-1.1	_	_	_	_	_	1|2.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=506562|AlignEnd=506673|AvgAmplitude=69.661|AvgHeightGlo=M|AvgHeightLoc=M|Duration=111|Glo=mm|Loc=mm|MaxAmplitude=69.661|MeanF0=192.5|MeanF0Step=216.074|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.324|SemitonesFromUtteranceMean=-2.048|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=9~
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=506562|AlignEnd=506673|AvgAmplitude=69.661|AvgHeightGlo=M|AvgHeightLoc=M|Duration=111|Glo=mm|Loc=mm|MaxAmplitude=69.661|MeanF0=192.5|MeanF0Step=216.074|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.324|SemitonesFromUtteranceMean=-2.048|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=9~
+1.2	_	_	_	_	_	1|2	Syl=2|Syl=1	_	AlignBegin=506673|AlignEnd=506824|AvgAmplitude=74.936|AvgHeightGlo=M|AvgHeightLoc=M|Duration=151|Fused=Yes|Glo=lh|Loc=lh|MaxAmplitude=79.035|MeanF0=267.5|MeanF0Step=300.259|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-5.386|SemitonesFromUtteranceMean=3.648|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=no
 2	autre	autre	ADJ	_	Gender=Masc|Number=Sing	3	mod	_	AlignBegin=506723|AlignEnd=507003|Foot=Begin|FootTone=Hm|FootType=Strong|Group=In|GroupTone=mmH2|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=mmH2|Period=In|Period_tone=hhm3|ProminenceFinal=0|ProminenceInitial=Pause|RhythmGroup=Strong
-2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=506673|AlignEnd=506824|AvgAmplitude=74.936|AvgHeightGlo=M|AvgHeightLoc=M|Duration=151|ExternalOnset=True|Glo=lh|Loc=lh|MaxAmplitude=79.035|MeanF0=267.5|MeanF0Step=300.259|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-5.386|SemitonesFromUtteranceMean=3.648|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=no
-2.2	_	_	_	_	_	2	Syl=2	_	AlignBegin=506824|AlignEnd=507003|AvgAmplitude=65.188|AvgHeightGlo=M|AvgHeightLoc=H|Duration=179|Glo=mm|Loc=hm|MaxAmplitude=75.711|MeanF0=268.3|MeanF0Step=301.157|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.979|SemitonesFromUtteranceMean=3.7|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=tR@
+2.1	_	_	_	_	_	2	Syl=2	_	AlignBegin=506824|AlignEnd=507003|AvgAmplitude=65.188|AvgHeightGlo=M|AvgHeightLoc=H|Duration=179|Glo=mm|Loc=hm|MaxAmplitude=75.711|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=tR@
 3	plan	plan	NOUN	_	Gender=Masc|Number=Sing	16	subj@pass	_	AlignBegin=507003|AlignEnd=507385|Foot=Last|FootTone=Hm|FootType=Strong|Group=Last|GroupTone=mmH2|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=mmH2|Period=In|Period_tone=hhm3|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=507003|AlignEnd=507385|AvgAmplitude=67.453|AvgHeightGlo=M|AvgHeightLoc=M|Duration=381|Glo=hl|Loc=hl|MaxAmplitude=70.68|MeanF0=233.771|MeanF0Step=262.4|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=3.251|SemitonesFromUtteranceMean=1.315|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=pla~
 4	,	,	PUNCT	_	_	5	punct	_	AlignBegin=507385|AlignEnd=507385
@@ -2632,13 +2868,12 @@
 15	,	,	PUNCT	_	_	3	punct	_	AlignBegin=509830|AlignEnd=509830
 16	devrait	devoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=509830|AlignEnd=510215|Foot=Begin|FootTone=hmm3|FootType=Weak|Group=Begin|GroupTone=mmh1|IU=In|Nucleus=In|Package=Begin|Package_type=motherless|PackageTone=mmh1|Period=In|Period_tone=hhm3|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=216.671
 16.1	_	_	_	_	_	16	Syl=1	_	AlignBegin=509830|AlignEnd=510035|AvgAmplitude=68.97|AvgHeightGlo=M|AvgHeightLoc=M|Duration=205|Glo=lh|Loc=lh|MaxAmplitude=73.557|MeanF0=243.69|MeanF0Step=273.533|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-3.863|SemitonesFromUtteranceMean=2.035|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=d@
-16.2	_	_	_	_	_	16|17.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=510035|AlignEnd=510185|AvgAmplitude=70.464|AvgHeightGlo=M|AvgHeightLoc=M|Duration=149|Glo=mm|Loc=mm|MaxAmplitude=74.58|MeanF0=239.774|MeanF0Step=269.137|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.635|SemitonesFromUtteranceMean=1.754|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vRE
+16.2	_	_	_	_	_	16	Syl=2	_	AlignBegin=510035|AlignEnd=510185|AvgAmplitude=70.464|AvgHeightGlo=M|AvgHeightLoc=M|Duration=149|Glo=mm|Loc=mm|MaxAmplitude=74.58|MeanF0=239.774|MeanF0Step=269.137|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.635|SemitonesFromUtteranceMean=1.754|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vRE
+16.3	_	_	_	_	_	16|17|18	Syl=3|Syl=1|Syl=1	_	AlignBegin=510185|AlignEnd=510335|AvgAmplitude=58.312|AvgHeightGlo=H|AvgHeightLoc=M|Duration=149|Fused=Yes|Glo=hm|Loc=hl|MaxAmplitude=72.351|MeanF0=223.16|MeanF0Step=250.489|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=2.886|SemitonesFromUtteranceMean=0.511|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tE
 17	être	être	AUX	_	VerbForm=Inf	16	comp:obj	_	AlignBegin=510215|AlignEnd=510434|Foot=In|FootTone=hmm3|FootType=Weak|Group=In|GroupTone=mmh1|IU=In|Nucleus=In|Package=In|Package_type=motherless|PackageTone=mmh1|Period=In|Period_tone=hhm3|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak|Subject=SubjRaising
-17.1	_	_	_	_	_	17|18.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=510185|AlignEnd=510335|AvgAmplitude=58.312|AvgHeightGlo=H|AvgHeightLoc=M|Duration=149|ExternalOnset=True|Glo=hm|Loc=hl|MaxAmplitude=72.351|MeanF0=223.16|MeanF0Step=250.489|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=2.886|SemitonesFromUtteranceMean=0.511|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tE
 18	annoncé	annoncer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	comp:aux@pass	_	AlignBegin=510434|AlignEnd=510823|Foot=In|FootTone=hmm3|FootType=Weak|Group=In|GroupTone=mmh1|IU=In|Nucleus=In|Package=In|Package_type=motherless|PackageTone=mmh1|Period=In|Period_tone=hhm3|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
-18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=510335|AlignEnd=510525|AvgAmplitude=62.063|AvgHeightGlo=M|AvgHeightLoc=M|Duration=190|ExternalOnset=True|Glo=ml|Loc=mm|MaxAmplitude=72.131|MeanF0=198.353|MeanF0Step=222.644|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.231|SemitonesFromUtteranceMean=-1.529|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=tRa
-18.2	_	_	_	_	_	18	Syl=2	_	AlignBegin=510525|AlignEnd=510680|AvgAmplitude=69.247|AvgHeightGlo=M|AvgHeightLoc=M|Duration=155|Glo=mm|Loc=mm|MaxAmplitude=69.685|MeanF0=183.531|MeanF0Step=206.007|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.246|SemitonesFromUtteranceMean=-2.874|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=no~
-18.3	_	_	_	_	_	18	Syl=3	_	AlignBegin=510680|AlignEnd=510823|AvgAmplitude=54.64|AvgHeightGlo=M|AvgHeightLoc=M|Duration=143|Glo=lh|Loc=lh|MaxAmplitude=56.339|MeanF0=188.364|MeanF0Step=211.431|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-3.738|SemitonesFromUtteranceMean=-2.424|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=se
+18.1	_	_	_	_	_	18	Syl=2	_	AlignBegin=510525|AlignEnd=510680|AvgAmplitude=54.64|AvgHeightGlo=M|AvgHeightLoc=M|Duration=155|Glo=mm|Loc=mm|MaxAmplitude=56.339|MeanF0=188.364|MeanF0Step=211.431|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.738|SemitonesFromUtteranceMean=-2.424|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=no~
+18.2	_	_	_	_	_	18	Syl=3	_	AlignBegin=510680|AlignEnd=510823|AvgAmplitude=54.64|AvgHeightGlo=M|AvgHeightLoc=M|Duration=143|Glo=lh|Loc=lh|MaxAmplitude=56.339|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=se
 19	aujourd'hui	aujourd'hui	ADV	_	_	16	mod	_	AlignBegin=510823|AlignEnd=511228
 19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=510823|AlignEnd=510956|AvgAmplitude=68.843|AvgHeightGlo=M|AvgHeightLoc=M|Duration=132|Glo=mm|Loc=mm|MaxAmplitude=68.975|MeanF0=191.37|MeanF0Step=214.806|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.36|SemitonesFromUtteranceMean=-2.15|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=o
 19.2	_	_	_	_	_	19	Syl=2	_	AlignBegin=510956|AlignEnd=511108|AvgAmplitude=67.935|AvgHeightGlo=M|AvgHeightLoc=M|Duration=152|Glo=mm|Loc=mm|MaxAmplitude=68.031|MeanF0=181.533|MeanF0Step=203.764|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.098|SemitonesFromUtteranceMean=-3.063|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ZuR
@@ -2670,6 +2905,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2731,6 +2971,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2780,6 +3025,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2799,12 +3049,11 @@
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=521766|AlignEnd=521878|AvgAmplitude=77.283|AvgHeightGlo=M|AvgHeightLoc=M|Duration=111|Glo=mm|Loc=mm|MaxAmplitude=77.283|MeanF0=286.619|MeanF0Step=321.719|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.937|SemitonesFromUtteranceMean=4.799|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=e
 4	Chrysler	Chrysler	PROPN	_	_	1	conj:coord	_	AlignBegin=521878|AlignEnd=522653|Foot=Begin|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=Hm|IU=In|Layer=Last|Nucleus=In|Package=Begin|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak|TypeInherited=SubInherited|TypePara=ParaCoord
 4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=521878|AlignEnd=522094|AvgAmplitude=67.611|AvgHeightGlo=M|AvgHeightLoc=M|Duration=216|Glo=mm|Loc=mm|MaxAmplitude=77.026|MeanF0=252|MeanF0Step=282.86|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.181|SemitonesFromUtteranceMean=2.571|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kRi
-4.2	_	_	_	_	_	4	Syl=2	_	AlignBegin=522094|AlignEnd=522601|AvgAmplitude=72.385|AvgHeightGlo=M|AvgHeightLoc=M|Duration=506|Glo=lh|Loc=lh|MaxAmplitude=72.437|MeanF0=242.888|MeanF0Step=272.632|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-3.047|SemitonesFromUtteranceMean=1.933|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=slE
+4.2	_	_	_	_	_	4|6	Syl=2|Syl=1	_	AlignBegin=522094|AlignEnd=522601|AvgAmplitude=72.385|AvgHeightGlo=M|AvgHeightLoc=M|Duration=506|Fused=Yes|Glo=lh|Loc=lh|MaxAmplitude=72.437|MeanF0=242.888|MeanF0Step=272.632|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-3.047|SemitonesFromUtteranceMean=1.933|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=slE
 5	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=522653|AlignEnd=522747|Foot=In|FootTone=Hm|FootType=Weak|Group=In|GroupTone=Hm|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=217.225
 6	présenté	présenter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@tense	_	AlignBegin=522760|AlignEnd=523198|Foot=Last|FootTone=Hm|FootType=Weak|Group=Last|GroupTone=Hm|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=522747|AlignEnd=522942|AvgAmplitude=65.558|AvgHeightGlo=M|AvgHeightLoc=M|Duration=194|Glo=mm|Loc=mm|MaxAmplitude=75.351|MeanF0=228.818|MeanF0Step=256.84|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.152|SemitonesFromUtteranceMean=0.9|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pRe
-6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=522942|AlignEnd=523093|AvgAmplitude=71.007|AvgHeightGlo=M|AvgHeightLoc=M|Duration=151|Glo=mm|Loc=mm|MaxAmplitude=71.532|MeanF0=214.867|MeanF0Step=241.18|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.324|SemitonesFromUtteranceMean=-0.189|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
-6.3	_	_	_	_	_	6	Syl=3	_	AlignBegin=523093|AlignEnd=523198|AvgAmplitude=70.962|AvgHeightGlo=M|AvgHeightLoc=M|Duration=104|Glo=mm|Loc=mm|MaxAmplitude=70.962|MeanF0=219.875|MeanF0Step=246.801|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.483|SemitonesFromUtteranceMean=0.21|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=te
+6.1	_	_	_	_	_	6	Syl=2	_	AlignBegin=522942|AlignEnd=523093|AvgAmplitude=70.962|AvgHeightGlo=M|AvgHeightLoc=M|Duration=151|Glo=mm|Loc=mm|MaxAmplitude=70.962|MeanF0=219.875|MeanF0Step=246.801|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.483|SemitonesFromUtteranceMean=0.21|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
+6.2	_	_	_	_	_	6	Syl=3	_	AlignBegin=523093|AlignEnd=523198|AvgAmplitude=70.962|AvgHeightGlo=M|AvgHeightLoc=M|Duration=104|Glo=mm|Loc=mm|MaxAmplitude=70.962|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=te
 7	hier	hier	ADV	_	_	5	mod	_	AlignBegin=523198|AlignEnd=523389|Foot=Unique|FootTone=mm|FootType=Weak|Group=Unique|GroupTone=mm|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=HHm2|Period=In|Period_tone=Hm|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
 7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=523198|AlignEnd=523268|AvgAmplitude=69.601|AvgHeightGlo=M|AvgHeightLoc=M|Duration=69|Glo=mm|Loc=mm|MaxAmplitude=69.601|MeanF0=211|MeanF0Step=236.839|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.817|SemitonesFromUtteranceMean=-0.503|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=i
 7.2	_	_	_	_	_	7	Syl=2	_	AlignBegin=523268|AlignEnd=523389|AvgAmplitude=76.932|AvgHeightGlo=M|AvgHeightLoc=M|Duration=120|Glo=mm|Loc=mm|MaxAmplitude=76.932|MeanF0=201.708|MeanF0Step=226.41|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.935|SemitonesFromUtteranceMean=-1.283|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ER
@@ -2847,6 +3096,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2911,6 +3165,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2957,6 +3216,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3010,9 +3274,9 @@
 18.2	_	_	_	_	_	18	Syl=2	_	AlignBegin=600170|AlignEnd=600388|AvgAmplitude=66.416|AvgHeightGlo=M|AvgHeightLoc=M|Duration=218|Glo=mm|Loc=mm|MaxAmplitude=76.889|MeanF0=239.476|MeanF0Step=268.803|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.857|SemitonesFromUtteranceMean=0.414|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pRE
 19	trente-six	trente-six	NUM	_	Number=Plur	20	det	_	AlignBegin=600388|AlignEnd=600907|Foot=Unique|FootToken2=In|FootTone=hHl1|FootToneToken2=HHh2|FootType=Weak|FootTypeToken2=Strong|Group=Begin|GroupToken2=In|GroupTone=hH|GroupToneToken2=hH|IU=In|IUToken2=In|Nucleus=In|NucleusToken2=In|Package=In|Package_type=included|Package_typeToken2=included|PackageToken2=In|PackageTone=mHm1|PackageToneToken2=mHm1|Period=In|Period_tone=Hm|Period_toneToken2=Hm|PeriodToken2=In|ProminenceFinal=0|ProminenceFinalToken2=0|ProminenceInitial=0|ProminenceInitialToken2=0|RhythmGroup=Strong|RhythmGroupToken2=Strong
 19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=600388|AlignEnd=600723|AvgAmplitude=66.484|AvgHeightGlo=M|AvgHeightLoc=M|Duration=335|Glo=mhl2|Loc=mhl2|MaxAmplitude=76.828|MeanF0=244.412|MeanF0Step=274.343|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.458|SemitonesFromUtteranceMean=0.768|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tRa~t
-19.2	_	_	_	_	_	19|20.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=600723|AlignEnd=600840|AvgAmplitude=72.652|AvgHeightGlo=M|AvgHeightLoc=M|Duration=116|Glo=mm|Loc=mm|MaxAmplitude=72.652|MeanF0=264.692|MeanF0Step=297.107|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.19|SemitonesFromUtteranceMean=2.148|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=si
+19.2	_	_	_	_	_	19	Syl=2	_	AlignBegin=600723|AlignEnd=600840|AvgAmplitude=72.652|AvgHeightGlo=M|AvgHeightLoc=M|Duration=116|Glo=mm|Loc=mm|MaxAmplitude=72.652|MeanF0=264.692|MeanF0Step=297.107|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.19|SemitonesFromUtteranceMean=2.148|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=si
+19.3	_	_	_	_	_	19|20	Syl=3|Syl=1	_	AlignBegin=600840|AlignEnd=601098|AvgAmplitude=72.37|AvgHeightGlo=M|AvgHeightLoc=M|Duration=258|Fused=Yes|Glo=lm|Loc=lh|MaxAmplitude=76.903|MeanF0=252.057|MeanF0Step=282.925|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=-2.6|SemitonesFromUtteranceMean=1.301|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=z9R
 20	heures	heure	NOUN	_	Gender=Fem|Number=Plur	18	comp:obj	_	AlignBegin=600907|AlignEnd=601098|Foot=Last|FootTone=HHh2|FootType=Strong|Group=Last|GroupTone=hH|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=mHm1|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
-20.1	_	_	_	_	_	20	Syl=1	_	AlignBegin=600840|AlignEnd=601098|AvgAmplitude=72.37|AvgHeightGlo=M|AvgHeightLoc=M|Duration=258|ExternalOnset=True|Glo=lm|Loc=lh|MaxAmplitude=76.903|MeanF0=252.057|MeanF0Step=282.925|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=-2.6|SemitonesFromUtteranceMean=1.301|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=z9R
 21	de	de	ADP	_	_	20	udep	_	AlignBegin=601098|AlignEnd=601254|Foot=Unique|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=Hhm2|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=Hhm2|Period=In|Period_tone=Hm|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
 21.1	_	_	_	_	_	21	Syl=1	_	AlignBegin=601098|AlignEnd=601254|AvgAmplitude=66.061|AvgHeightGlo=H|AvgHeightLoc=H|Duration=155|Glo=hm|Loc=hm|MaxAmplitude=78.754|MeanF0=252.72|MeanF0Step=283.669|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=4.392|SemitonesFromUtteranceMean=1.346|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=d@
 22	cavale	cavale	NOUN	_	Gender=Fem|Number=Sing	21	comp:obj	_	AlignBegin=601254|AlignEnd=601935|Foot=Unique|FootTone=mhH3|FootType=Strong|Group=Last|GroupTone=Hhm2|IU=Last|Nucleus=Last|Package=Last|Package_type=lone|PackageTone=Hhm2|Period=In|Period_tone=Hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
@@ -3032,6 +3296,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3082,6 +3351,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3092,11 +3366,11 @@
 # macrosyntax = les enquêteurs cherchent maintenant à savoir si elle a été complice dans cette évasion //
 # text = les enquêteurs cherchent maintenant à savoir si elle a été complice dans cette évasion.
 1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	AlignBegin=605044|AlignEnd=605204|Foot=Begin|FootTone=hl|FootType=Strong|Group=Begin|GroupTone=hl|IU=Begin|Nucleus=Begin|Package=Begin|Package_type=included|PackageTone=hm|Period=Begin|Period_tone=hhm3|ProminenceFinal=Weak|ProminenceInitial=Strong|RhythmGroup=Strong
-1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=605044|AlignEnd=605171|AvgAmplitude=79.185|AvgHeightGlo=M|AvgHeightLoc=M|Duration=127|Glo=mm|Loc=mm|MaxAmplitude=79.185|MeanF0=255.538|MeanF0Step=286.832|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.076|SemitonesFromUtteranceMean=2.54|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
-1.2	_	_	_	_	_	1|2	Syl=2|Syl=1	_	AlignBegin=605171|AlignEnd=605277|AvgAmplitude=78.559|AvgHeightGlo=M|AvgHeightLoc=M|Duration=105|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=78.559|MeanF0=251.238|MeanF0Step=282.005|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.28|SemitonesFromUtteranceMean=2.246|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
+1.1	_	_	_	_	_	1|2.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=605044|AlignEnd=605171|AvgAmplitude=79.185|AvgHeightGlo=M|AvgHeightLoc=M|Duration=127|Glo=mm|Loc=mm|MaxAmplitude=79.185|MeanF0=255.538|MeanF0Step=286.832|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.076|SemitonesFromUtteranceMean=2.54|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
 2	enquêteurs	enquêteur	NOUN	_	Gender=Masc|Number=Plur	3	subj	_	AlignBegin=605204|AlignEnd=605686|Foot=Last|FootTone=hl|FootType=Strong|Group=Last|GroupTone=hl|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=hm|Period=In|Period_tone=hhm3|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
-2.1	_	_	_	_	_	2	Syl=2	_	AlignBegin=605277|AlignEnd=605454|AvgAmplitude=68.745|AvgHeightGlo=M|AvgHeightLoc=H|Duration=177|Glo=mm|Loc=hm|MaxAmplitude=73.648|MeanF0=213.875|MeanF0Step=240.067|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=4.731|SemitonesFromUtteranceMean=-0.542|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=kE
-2.2	_	_	_	_	_	2	Syl=3	_	AlignBegin=605454|AlignEnd=605686|AvgHeightGlo=M|AvgHeightLoc=M|Duration=232|Glo=ml|Loc=ml|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=t9R
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=605171|AlignEnd=605277|AvgAmplitude=78.559|AvgHeightGlo=M|AvgHeightLoc=M|Duration=105|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=78.559|MeanF0=251.238|MeanF0Step=282.005|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.28|SemitonesFromUtteranceMean=2.246|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=za~
+2.2	_	_	_	_	_	2	Syl=2	_	AlignBegin=605277|AlignEnd=605454|AvgAmplitude=61.458|AvgHeightGlo=M|AvgHeightLoc=H|Duration=177|Glo=mm|Loc=hm|MaxAmplitude=74.193|MeanF0=240.086|MeanF0Step=269.487|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.098|SemitonesFromUtteranceMean=1.46|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=kE
+2.3	_	_	_	_	_	2	Syl=3	_	AlignBegin=605454|AlignEnd=605686|AvgAmplitude=68.745|AvgHeightGlo=M|AvgHeightLoc=M|Duration=232|Glo=ml|Loc=ml|MaxAmplitude=73.648|MeanF0=213.875|MeanF0Step=240.067|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=4.731|SemitonesFromUtteranceMean=-0.542|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=t9R
 3	cherchent	chercher	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=605686|AlignEnd=606012|Foot=Unique|FootTone=lmh1|FootType=Weak|Group=Unique|GroupTone=lmh1|IU=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=hHm2|Period=In|Period_tone=hhm3|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=220.671
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=605686|AlignEnd=606012|AvgAmplitude=63.421|AvgHeightGlo=M|AvgHeightLoc=M|Duration=325|Glo=lm|Loc=lm|MaxAmplitude=64.228|MeanF0=209.565|MeanF0Step=235.229|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.106|SemitonesFromUtteranceMean=-0.894|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=SERS
 4	maintenant	maintenant	ADV	_	_	3	mod	_	AlignBegin=606012|AlignEnd=606362|Foot=Unique|FootTone=hmH2|FootType=Weak|Group=Unique|GroupTone=hmH2|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hHm2|Period=In|Period_tone=hhm3|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
@@ -3141,6 +3415,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3207,6 +3486,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3255,6 +3539,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3299,6 +3588,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3331,11 +3625,11 @@
 9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=620922|AlignEnd=621136|AvgAmplitude=67.487|AvgHeightGlo=M|AvgHeightLoc=M|Duration=214|Glo=hl|Loc=hl|MaxAmplitude=78.532|MeanF0=247.905|MeanF0Step=278.264|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.175|SemitonesFromUtteranceMean=1.976|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=pRO
 9.2	_	_	_	_	_	9	Syl=2	_	AlignBegin=621136|AlignEnd=621433|AvgAmplitude=69.853|AvgHeightGlo=M|AvgHeightLoc=M|Duration=296|Glo=lh|Loc=lh|MaxAmplitude=78.497|MeanF0=261.862|MeanF0Step=293.93|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-5.175|SemitonesFromUtteranceMean=2.925|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=sE
 10	en	en	ADP	_	_	6	mod	_	AlignBegin=621722|AlignEnd=621911|Foot=Begin|FootTone=HHh2|FootType=Strong|Group=Begin|GroupTone=HHh2|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=HHh2|Period=Begin|Period_tone=HHm2|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
-10.1	_	_	_	_	_	10|11.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=621722|AlignEnd=621865|AvgAmplitude=72.582|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|Glo=mm|Loc=mm|MaxAmplitude=81.699|MeanF0=277.75|MeanF0Step=311.764|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.82|SemitonesFromUtteranceMean=3.944|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a~
+10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=621722|AlignEnd=621865|AvgAmplitude=72.582|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|Glo=mm|Loc=mm|MaxAmplitude=81.699|MeanF0=277.75|MeanF0Step=311.764|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.82|SemitonesFromUtteranceMean=3.944|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a~
+10.2	_	_	_	_	_	10|11	Syl=2|Syl=1	_	AlignBegin=621865|AlignEnd=622007|AvgAmplitude=74.755|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=80.466|MeanF0=285.688|MeanF0Step=320.673|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.651|SemitonesFromUtteranceMean=4.432|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=na
 11	attendant	attendre	VERB	_	Tense=Pres|VerbForm=Part	10	comp:obj	_	AlignBegin=621911|AlignEnd=622420|Foot=Last|FootTone=HHh2|FootType=Strong|Group=Last|GroupTone=HHh2|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=HHh2|Period=In|Period_tone=HHm2|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong
-11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=621865|AlignEnd=622007|AvgAmplitude=74.755|AvgHeightGlo=M|AvgHeightLoc=M|Duration=142|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=80.466|MeanF0=285.688|MeanF0Step=320.673|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.651|SemitonesFromUtteranceMean=4.432|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=na
-11.2	_	_	_	_	_	11	Syl=2	_	AlignBegin=622007|AlignEnd=622193|AvgAmplitude=74.546|AvgHeightGlo=M|AvgHeightLoc=M|Duration=186|Glo=hl|Loc=hl|MaxAmplitude=75.391|MeanF0=257.514|MeanF0Step=289.049|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=4.274|SemitonesFromUtteranceMean=2.635|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ta~
-11.3	_	_	_	_	_	11	Syl=3	_	AlignBegin=622193|AlignEnd=622420|AvgAmplitude=76.189|AvgHeightGlo=M|AvgHeightLoc=M|Duration=226|Glo=lh|Loc=lh|MaxAmplitude=76.454|MeanF0=258.957|MeanF0Step=290.669|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.076|SemitonesFromUtteranceMean=2.731|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=da~
+11.1	_	_	_	_	_	11	Syl=2	_	AlignBegin=622007|AlignEnd=622193|AvgAmplitude=76.189|AvgHeightGlo=M|AvgHeightLoc=M|Duration=186|Glo=hl|Loc=hl|MaxAmplitude=76.454|MeanF0=258.957|MeanF0Step=290.669|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.076|SemitonesFromUtteranceMean=2.731|Slope=Fall|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=ta~
+11.2	_	_	_	_	_	11	Syl=3	_	AlignBegin=622193|AlignEnd=622420|AvgAmplitude=76.189|AvgHeightGlo=M|AvgHeightLoc=M|Duration=226|Glo=lh|Loc=lh|MaxAmplitude=76.454|PitchRangeGlo=M|PitchRangeLoc=M|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=da~
 12	que	que	SCONJ	_	_	11	comp:obj	_	AlignBegin=622420|AlignEnd=622476|Foot=Begin|FootTone=Hm|FootType=Weak|Group=Begin|GroupTone=Hm|IU=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=hHm3|Period=In|Period_tone=HHm2|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Weak
 12.1	_	_	_	_	_	12|13	Syl=1|Syl=1	_	AlignBegin=622420|AlignEnd=622609|AvgAmplitude=68.171|AvgHeightGlo=M|AvgHeightLoc=M|Duration=188|Fused=Yes|Glo=hl|Loc=hl|MaxAmplitude=73.888|MeanF0=250.152|MeanF0Step=280.786|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=5.102|SemitonesFromUtteranceMean=2.132|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=kla
 13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	AlignBegin=622476|AlignEnd=622609|Foot=In|FootTone=Hm|FootType=Weak|Group=In|GroupTone=Hm|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hHm3|Period=In|Period_tone=HHm2|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
@@ -3383,6 +3677,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3404,11 +3703,11 @@
 4.3	_	_	_	_	_	4	Syl=3	_	AlignBegin=627226|AlignEnd=627339|AvgAmplitude=78.354|AvgHeightGlo=M|AvgHeightLoc=H|Duration=113|Glo=mm|Loc=mh|MaxAmplitude=78.354|MeanF0=250.864|MeanF0Step=281.585|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.432|SemitonesFromUtteranceMean=1.049|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=da~
 5	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=627339|AlignEnd=627575|Foot=Begin|FootTone=hhm1|FootType=Weak|Group=Begin|GroupTone=hhm1|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hh|Period=In|Period_tone=hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=236.109
 5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=627339|AlignEnd=627383|AvgAmplitude=0|AvgHeightGlo=H|AvgHeightLoc=H|Duration=43|Glo=hh|Loc=hh|MaxAmplitude=0|MeanF0=237|MeanF0Step=266.024|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.979|SemitonesFromUtteranceMean=0.065|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a
-5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=627383|AlignEnd=627512|AvgAmplitude=69.734|AvgHeightGlo=M|AvgHeightLoc=M|Duration=129|Glo=mm|Loc=mm|MaxAmplitude=73.197|MeanF0=205.423|MeanF0Step=230.58|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.144|SemitonesFromUtteranceMean=-2.41|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE
-5.3	_	_	_	_	_	5|6	Syl=3|Syl=1	_	AlignBegin=627512|AlignEnd=627628|AvgAmplitude=71.108|AvgHeightGlo=M|AvgHeightLoc=M|Duration=116|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=71.108|MeanF0=213.133|MeanF0Step=239.234|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.499|SemitonesFromUtteranceMean=-1.772|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ta
+5.2	_	_	_	_	_	5|6.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=627383|AlignEnd=627512|AvgAmplitude=69.734|AvgHeightGlo=M|AvgHeightLoc=M|Duration=129|Glo=mm|Loc=mm|MaxAmplitude=73.197|MeanF0=205.423|MeanF0Step=230.58|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.144|SemitonesFromUtteranceMean=-2.41|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE
 6	annoncé	annoncer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@tense	_	AlignBegin=627575|AlignEnd=627929|Foot=Last|FootTone=hhm1|FootType=Weak|Group=Last|GroupTone=hhm1|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hh|Period=In|Period_tone=hm|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-6.1	_	_	_	_	_	6	Syl=2	_	AlignBegin=627628|AlignEnd=627760|AvgAmplitude=68.049|AvgHeightGlo=M|AvgHeightLoc=M|Duration=131|Glo=mm|Loc=lm|MaxAmplitude=75.712|MeanF0=245.714|MeanF0Step=275.805|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.249|SemitonesFromUtteranceMean=0.69|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=no~
-6.2	_	_	_	_	_	6	Syl=3	_	AlignBegin=627760|AlignEnd=627929|AvgHeightGlo=H|AvgHeightLoc=H|Duration=169|Glo=mh|Loc=mh|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=se
+6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=627512|AlignEnd=627628|AvgAmplitude=71.108|AvgHeightGlo=M|AvgHeightLoc=M|Duration=116|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=71.108|MeanF0=213.133|MeanF0Step=239.234|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.499|SemitonesFromUtteranceMean=-1.772|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ta
+6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=627628|AlignEnd=627760|AvgAmplitude=72.33|AvgHeightGlo=M|AvgHeightLoc=M|Duration=131|Glo=mm|Loc=lm|MaxAmplitude=73.571|MeanF0=214.63|MeanF0Step=240.914|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.647|SemitonesFromUtteranceMean=-1.651|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Rise|SylForm=no~
+6.3	_	_	_	_	_	6	Syl=3	_	AlignBegin=627760|AlignEnd=627929|AvgAmplitude=68.049|AvgHeightGlo=H|AvgHeightLoc=H|Duration=169|Glo=mh|Loc=mh|MaxAmplitude=75.712|MeanF0=245.714|MeanF0Step=275.805|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-3.249|SemitonesFromUtteranceMean=0.69|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=se
 7	qu'	que	SCONJ	_	_	6	comp:obj	_	AlignBegin=627929|AlignEnd=628019|Foot=Begin|FootTone=Hhm2|FootType=Strong|Group=Begin|GroupTone=Hhm1|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hh|Period=In|Period_tone=hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
 7.1	_	_	_	_	_	7|8	Syl=1|Syl=1	_	AlignBegin=627929|AlignEnd=628104|AvgAmplitude=64.476|AvgHeightGlo=L|AvgHeightLoc=M|Duration=174|Fused=Yes|Glo=mL|Loc=hl|MaxAmplitude=74.109|MeanF0=232.897|MeanF0Step=261.418|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=4.936|SemitonesFromUtteranceMean=-0.237|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=kil
 8	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=628019|AlignEnd=628104|Foot=Last|FootTone=Hhm2|FootType=Strong|Group=In|GroupTone=Hhm1|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hh|Period=In|Period_tone=hm|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
@@ -3435,10 +3734,10 @@
 16	,	,	PUNCT	_	_	17	punct	_	AlignBegin=631021|AlignEnd=631109
 17	après	après	ADP	_	_	12	conj:appos	_	AlignBegin=631109|AlignEnd=631459|Foot=Unique|FootTone=hh|FootType=Weak|Group=Unique|GroupTone=hh|IU=In|Layer=Begin|Nucleus=In|Package=Begin|Package_type=included|PackageTone=mH|Period=In|Period_tone=hm|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=AdInherited|TypePara=ParaDform
 17.1	_	_	_	_	_	17	Syl=1	_	AlignBegin=631109|AlignEnd=631197|AvgAmplitude=75.311|AvgHeightGlo=L|AvgHeightLoc=L|Duration=88|Glo=ll|Loc=ll|MaxAmplitude=75.311|MeanF0=201.083|MeanF0Step=225.708|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.789|SemitonesFromUtteranceMean=-2.78|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=a
-17.2	_	_	_	_	_	17	Syl=2	_	AlignBegin=631197|AlignEnd=631410|AvgAmplitude=66.35|AvgHeightGlo=M|AvgHeightLoc=M|Duration=212|Glo=lh|Loc=lh|MaxAmplitude=75.979|MeanF0=245.087|MeanF0Step=275.101|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.034|SemitonesFromUtteranceMean=0.646|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=pRE
-17.3	_	_	_	_	_	17|18	Syl=3|Syl=1	_	AlignBegin=631410|AlignEnd=631519|AvgAmplitude=77.964|AvgHeightGlo=H|AvgHeightLoc=M|Duration=109|Fused=Yes|Glo=hm|Loc=mm|MaxAmplitude=77.964|MeanF0=248.5|MeanF0Step=278.932|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.636|SemitonesFromUtteranceMean=0.886|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=za
+17.2	_	_	_	_	_	17|18.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=631197|AlignEnd=631410|AvgAmplitude=66.35|AvgHeightGlo=M|AvgHeightLoc=M|Duration=212|Glo=lh|Loc=lh|MaxAmplitude=75.979|MeanF0=245.087|MeanF0Step=275.101|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-4.034|SemitonesFromUtteranceMean=0.646|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=pRE
 18	avoir	avoir	AUX	_	VerbForm=Inf	17	comp:obj	_	AlignBegin=631459|AlignEnd=631706|Foot=Begin|FootTone=hH|FootType=Strong|Group=Begin|GroupTone=hH|IU=In|Layer=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mH|Period=In|Period_tone=hm|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong|Subject=SubjRaising
-18.1	_	_	_	_	_	18|19.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=631519|AlignEnd=631653|AvgHeightGlo=M|AvgHeightLoc=M|Duration=133|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vwa
+18.1	_	_	_	_	_	18	Syl=1	_	AlignBegin=631410|AlignEnd=631519|AvgAmplitude=77.964|AvgHeightGlo=H|AvgHeightLoc=M|Duration=109|ExternalOnset=True|Glo=hm|Loc=mm|MaxAmplitude=77.964|MeanF0=248.5|MeanF0Step=278.932|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.636|SemitonesFromUtteranceMean=0.886|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=za
+18.2	_	_	_	_	_	18|19.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=631519|AlignEnd=631653|AvgAmplitude=74.205|AvgHeightGlo=M|AvgHeightLoc=M|Duration=133|Glo=mm|Loc=mm|MaxAmplitude=74.454|MeanF0=245.778|MeanF0Step=275.876|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.15|SemitonesFromUtteranceMean=0.695|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vwa
 19	entendu	entendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	comp:aux@tense	_	AlignBegin=631706|AlignEnd=632065|Foot=Last|FootTone=hH|FootType=Strong|Group=Last|GroupTone=hH|IU=In|Layer=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=mH|Period=In|Period_tone=hm|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 19.1	_	_	_	_	_	19	Syl=1	_	AlignBegin=631653|AlignEnd=631786|AvgAmplitude=73.398|AvgHeightGlo=M|AvgHeightLoc=M|Duration=133|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=73.623|MeanF0=218.815|MeanF0Step=245.611|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.26|SemitonesFromUtteranceMean=-1.317|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ra~
 19.2	_	_	_	_	_	19	Syl=2	_	AlignBegin=631786|AlignEnd=631970|AvgAmplitude=68.911|AvgHeightGlo=M|AvgHeightLoc=M|Duration=183|Glo=mm|Loc=mm|MaxAmplitude=72.875|MeanF0=217.344|MeanF0Step=243.96|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.555|SemitonesFromUtteranceMean=-1.434|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ta~
@@ -3471,6 +3770,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3530,6 +3834,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3540,10 +3849,10 @@
 # macrosyntax = on écoute maître Sollacaro au micro de Christian Binner //
 # text = on écoute maître Sollacaro au micro de Christian Binner.
 1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=638979|AlignEnd=639126|Foot=Begin|FootTone=hH|FootType=Strong|Group=Begin|GroupTone=hH|IU=Begin|Nucleus=Begin|Package=Begin|Package_type=lone|PackageTone=hH|Period=Begin|Period_tone=hmH1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
-1.1	_	_	_	_	_	1|2.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=638979|AlignEnd=639093|AvgAmplitude=73.906|AvgHeightGlo=M|AvgHeightLoc=M|Duration=113|Glo=mm|Loc=mm|MaxAmplitude=73.906|MeanF0=234.933|MeanF0Step=263.704|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.664|SemitonesFromUtteranceMean=2.806|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=o~
+1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=638979|AlignEnd=639093|AvgAmplitude=73.906|AvgHeightGlo=M|AvgHeightLoc=M|Duration=113|Glo=mm|Loc=mm|MaxAmplitude=73.906|MeanF0=234.933|MeanF0Step=263.704|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.664|SemitonesFromUtteranceMean=2.806|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=o~
+1.2	_	_	_	_	_	1|2	Syl=2|Syl=1	_	AlignBegin=639093|AlignEnd=639179|AvgAmplitude=77.407|AvgHeightGlo=M|AvgHeightLoc=M|Duration=85|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=77.407|MeanF0=246.824|MeanF0Step=277.05|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.707|SemitonesFromUtteranceMean=3.661|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ne
 2	écoute	écouter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=639126|AlignEnd=639527|Foot=Last|FootTone=hH|FootType=Strong|Group=Last|GroupTone=hH|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=hH|Period=In|Period_tone=hmH1|ProminenceFinal=Strong|ProminenceInitial=Pause|RhythmGroup=Strong|UtteranceMeanF0=199.781
-2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=639093|AlignEnd=639179|AvgAmplitude=77.407|AvgHeightGlo=M|AvgHeightLoc=M|Duration=85|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=77.407|MeanF0=246.824|MeanF0Step=277.05|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.707|SemitonesFromUtteranceMean=3.661|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ne
-2.2	_	_	_	_	_	2	Syl=2	_	AlignBegin=639179|AlignEnd=639527|AvgAmplitude=64.312|AvgHeightGlo=M|AvgHeightLoc=M|Duration=348|Glo=mm|Loc=mm|MaxAmplitude=69.444|MeanF0=246.737|MeanF0Step=276.953|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.45|SemitonesFromUtteranceMean=3.655|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kut
+2.1	_	_	_	_	_	2	Syl=2	_	AlignBegin=639179|AlignEnd=639527|AvgAmplitude=64.312|AvgHeightGlo=M|AvgHeightLoc=M|Duration=348|Glo=mm|Loc=mm|MaxAmplitude=69.444|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kut
 3	maître	maître	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=639527|AlignEnd=639927|Foot=Unique|FootTone=HHm2|FootType=Strong|Group=Begin|GroupTone=mmH2|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=mmH2|Period=In|Period_tone=hmH1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=639527|AlignEnd=639748|AvgAmplitude=77.508|AvgHeightGlo=M|AvgHeightLoc=M|Duration=220|Glo=Lh|Loc=Lh|MaxAmplitude=78.8|MeanF0=232.22|MeanF0Step=260.658|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=-7.782|SemitonesFromUtteranceMean=2.605|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=mE
 3.2	_	_	_	_	_	3	Syl=2	_	AlignBegin=639748|AlignEnd=639927|AvgAmplitude=54.35|AvgHeightGlo=H|AvgHeightLoc=H|Duration=179|Glo=hh|Loc=hh|MaxAmplitude=56.526|MeanF0=286|MeanF0Step=321.024|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.824|SemitonesFromUtteranceMean=6.211|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tR@
@@ -3579,6 +3888,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3589,9 +3903,9 @@
 # macrosyntax = ( il est { l'avocat | l'un des avocats } d'Yvan Colonna // )
 # text = il est l'avocat, l'un des avocats d'Yvan Colonna.
 1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=640621|AlignEnd=640707|Foot=Begin|FootTone=mmh3|FootType=Weak|Group=Begin|GroupTone=mmh3|IU=Begin|IU_parenthesis=Begin|Nucleus=Begin|Package=Begin|Package_type=included|PackageTone=mH|Period=In|Period_tone=hmH1|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
-1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=640621|AlignEnd=640661|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=39|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=189.625|MeanF0Step=212.847|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.457|SemitonesFromUtteranceMean=-0.014|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=i
-1.2	_	_	_	_	_	1|2	Syl=2|Syl=1	_	AlignBegin=640661|AlignEnd=640827|AvgAmplitude=71.23|AvgHeightGlo=M|AvgHeightLoc=M|Duration=166|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=76.658|MeanF0=199.818|MeanF0Step=224.288|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.964|SemitonesFromUtteranceMean=0.893|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
+1.1	_	_	_	_	_	1|2.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=640621|AlignEnd=640661|AvgAmplitude=0|AvgHeightGlo=M|AvgHeightLoc=M|Duration=39|Glo=mm|Loc=mm|MaxAmplitude=0|MeanF0=189.625|MeanF0Step=212.847|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.457|SemitonesFromUtteranceMean=-0.014|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=i
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=640707|AlignEnd=640827|Foot=In|FootTone=mmh3|FootType=Weak|Group=In|GroupTone=mmh3|IU=In|IU_parenthesis=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mH|Period=In|Period_tone=hmH1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=189.774
+2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=640661|AlignEnd=640827|AvgAmplitude=71.23|AvgHeightGlo=M|AvgHeightLoc=M|Duration=166|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=76.658|MeanF0=199.818|MeanF0Step=224.288|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.964|SemitonesFromUtteranceMean=0.893|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=le
 3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art|Shared=No	4	det	_	AlignBegin=640827|AlignEnd=640863|Foot=In|FootTone=mmh3|FootType=Weak|Group=In|GroupTone=mmh3|IU=In|IU_parenthesis=In|Layer=Begin|Nucleus=In|Package=In|Package_type=included|PackageTone=mH|Period=In|Period_tone=hmH1|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
 3.1	_	_	_	_	_	3|4	Syl=1|Syl=1	_	AlignBegin=640827|AlignEnd=640937|AvgAmplitude=74.131|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=74.131|MeanF0=192.227|MeanF0Step=215.768|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.91|SemitonesFromUtteranceMean=0.222|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=la
 4	avocat	avocat	NOUN	_	Gender=Masc|Number=Sing	2	comp:pred	_	AlignBegin=640863|AlignEnd=641334|Foot=Last|FootTone=mmh3|FootType=Weak|Group=Last|GroupTone=mmh3|IU=In|IU_parenthesis=In|Layer=Last|Nucleus=In|Package=In|Package_type=included|PackageTone=mH|Period=In|Period_tone=hmH1|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
@@ -3629,6 +3943,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3694,6 +4013,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3731,6 +4055,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3794,6 +4123,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3856,6 +4190,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3926,6 +4265,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3942,6 +4286,7 @@
 3	de	de	ADP	_	_	2	udep	_	AlignBegin=850277|AlignEnd=850310|Foot=Last|FootTone=Hh|FootType=Weak|Group=Last|GroupTone=Hh|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=HH|Period=In|Period_tone=Hhm3|ProminenceFinal=Weak|ProminenceInitial=Weak|RhythmGroup=Weak
 4	foot	foot	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=850310|AlignEnd=850662|Foot=Begin|FootTone=Hh|FootType=Weak|Group=Begin|GroupTone=Hh|IU=Last|Nucleus=Last|Package=Begin|Package_type=included|PackageTone=Hhh2|Period=In|Period_tone=Hhm3|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Weak|SpaceAfter=No
 4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=850310|AlignEnd=850592|AvgAmplitude=69.02|AvgHeightGlo=M|AvgHeightLoc=M|Duration=282|Glo=mm|Loc=mm|MaxAmplitude=78.903|MeanF0=289.762|MeanF0Step=325.247|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.575|SemitonesFromUtteranceMean=0.242|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=fu
+4.2	_	_	_	_	_	4	Syl=2	_	AlignBegin=850592|AlignEnd=850794|AvgAmplitude=66.587|AvgHeightGlo=M|AvgHeightLoc=M|Duration=201|Glo=mm|Loc=mm|MaxAmplitude=76.773|MeanF0=269.476|MeanF0Step=302.477|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.446|SemitonesFromUtteranceMean=-1.014|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=to~
 5	.	.	PUNCT	_	_	2	punct	_	AlignBegin=850662|AlignEnd=850662
 
 # sent_id = Rhap_M2006-70
@@ -3956,6 +4301,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -3966,15 +4316,15 @@
 # macrosyntax = on jouait trois matchs en retard dans la vingtième journée de ligue un hier //
 # text = on jouait trois matchs en retard dans la vingtième journée de ligue un hier.
 1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=850662|AlignEnd=850794|Foot=In|FootTone=Hh|FootType=Weak|Group=In|GroupTone=Hh|IU=Begin|Nucleus=Begin|Package=In|Package_type=included|PackageTone=Hhh2|Period=In|Period_tone=Hhm3|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
-1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=850592|AlignEnd=850794|AvgAmplitude=66.587|AvgHeightGlo=M|AvgHeightLoc=M|Duration=201|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=76.773|MeanF0=269.476|MeanF0Step=302.477|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.446|SemitonesFromUtteranceMean=2.407|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=to~
+1.1	_	_	_	_	_	1	Syl=1	_	AvgAmplitude=66.587|MaxAmplitude=76.773|SylForm=FUSED
 2	jouait	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=850794|AlignEnd=851059|Foot=Last|FootTone=Hh|FootType=Weak|Group=Last|GroupTone=Hh|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=Hhh2|Period=In|Period_tone=Hhm3|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=234.5
 2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=850794|AlignEnd=851059|AvgAmplitude=69.93|AvgHeightGlo=M|AvgHeightLoc=M|Duration=264|Glo=mm|Loc=mm|MaxAmplitude=79.757|MeanF0=247.113|MeanF0Step=277.375|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.69|SemitonesFromUtteranceMean=0.907|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ZuE
 3	trois	trois	NUM	_	ExtPos=DET|Number=Plur	4	det	_	AlignBegin=851059|AlignEnd=851271|Foot=Unique|FootTone=hh|FootType=Strong|Group=Unique|GroupTone=hh|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=Hhh2|Period=In|Period_tone=Hhm3|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
 3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=851059|AlignEnd=851271|AvgAmplitude=66.107|AvgHeightGlo=M|AvgHeightLoc=M|Duration=212|Glo=mm|Loc=mm|MaxAmplitude=76.511|MeanF0=254.909|MeanF0Step=286.126|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.605|SemitonesFromUtteranceMean=1.445|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tRwa
 4	matchs	match	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=851271|AlignEnd=851540|Foot=Begin|FootTone=hh|FootType=Strong|Group=Begin|GroupTone=hh|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=hh|Period=In|Period_tone=Hhm3|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Strong
-4.1	_	_	_	_	_	4|5.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=851271|AlignEnd=851444|AvgAmplitude=77.38|AvgHeightGlo=M|AvgHeightLoc=M|Duration=173|Glo=mm|Loc=mm|MaxAmplitude=79.304|MeanF0=255.265|MeanF0Step=286.525|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.967|SemitonesFromUtteranceMean=1.469|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mat
+4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=851271|AlignEnd=851444|AvgAmplitude=77.38|AvgHeightGlo=M|AvgHeightLoc=M|Duration=173|Glo=mm|Loc=mm|MaxAmplitude=79.304|MeanF0=255.265|MeanF0Step=286.525|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.967|SemitonesFromUtteranceMean=1.469|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mat
+4.2	_	_	_	_	_	4|5|6	Syl=2|Syl=1|Syl=1	_	AlignBegin=851444|AlignEnd=851622|AvgAmplitude=68.787|AvgHeightGlo=M|AvgHeightLoc=M|Duration=177|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=74.777|MeanF0=241.038|MeanF0Step=270.557|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.436|SemitonesFromUtteranceMean=0.476|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Sa~R
 5	en	en	ADP	_	_	4	udep	_	AlignBegin=851540|AlignEnd=851585|Foot=In|FootTone=hh|FootType=Strong|Group=In|GroupTone=hh|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=hh|Period=In|Period_tone=Hhm3|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
-5.1	_	_	_	_	_	5|6	Syl=1|Syl=1	_	AlignBegin=851444|AlignEnd=851622|AvgAmplitude=68.787|AvgHeightGlo=M|AvgHeightLoc=M|Duration=177|ExternalOnset=True|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=74.777|MeanF0=241.038|MeanF0Step=270.557|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.436|SemitonesFromUtteranceMean=0.476|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Sa~R
 6	retard	retard	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=851585|AlignEnd=851863|Foot=Last|FootTone=hh|FootType=Strong|Group=Last|GroupTone=hh|IU=In|Nucleus=In|Package=Last|Package_type=lone|PackageTone=hh|Period=In|Period_tone=Hhm3|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
 6.1	_	_	_	_	_	6	Syl=2	_	AlignBegin=851622|AlignEnd=851863|AvgHeightGlo=M|AvgHeightLoc=M|Duration=241|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=taR
 7	dans	dans	ADP	_	_	4	udep	_	AlignBegin=851863|AlignEnd=852010|Foot=Begin|FootTone=mm|FootType=Weak|Group=Begin|GroupTone=mm|IU=In|Nucleus=In|Package=Begin|Package_type=included|PackageTone=mmh3|Period=In|Period_tone=Hhm3|ProminenceFinal=0|ProminenceInitial=Strong|RhythmGroup=Weak
@@ -4010,6 +4360,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -4052,6 +4407,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -4111,6 +4471,11 @@
 # speaker_sex = female
 # speaker_education = unspecified
 # speaker_family_social_role = unknown
+# genre = discourse
+# subgenre = description
+# task = info-kiosk
+# modalities = speech
+# subject = unspecified
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited

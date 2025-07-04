@@ -11,6 +11,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -118,6 +123,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -132,8 +142,9 @@
 2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj	_	AlignBegin=15332|AlignEnd=15442|Foot=In|FootTone=lmh3|FootType=Weak|Group=In|GroupTone=lmh3|IU=In|Nucleus=Begin|Package=In|Package_type=included|PackageTone=lhh3|Period=In|Period_tone=lLh1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Weak
 2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=15332|AlignEnd=15442|AvgAmplitude=62.818|AvgHeightGlo=M|AvgHeightLoc=M|Duration=109|Glo=lh|Loc=lh|MaxAmplitude=62.818|MeanF0=169.409|MeanF0Step=190.155|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-7.753|SemitonesFromUtteranceMean=-1.567|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=vu
 3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=15442|AlignEnd=15482|Foot=In|FootTone=lmh3|FootType=Weak|Group=In|GroupTone=lmh3|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=lhh3|Period=In|Period_tone=lLh1|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|SpaceAfter=No
-3.1	_	_	_	_	_	3|4|5	Syl=1|Syl=1|Syl=1	_	AlignBegin=15442|AlignEnd=15562|AvgAmplitude=62.41|AvgHeightGlo=M|AvgHeightLoc=M|Duration=120|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=62.41|MeanF0=216.882|MeanF0Step=243.442|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.98|SemitonesFromUtteranceMean=2.71|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=la
+3.1	_	_	_	_	_	3|4	Syl=1|Syl=1	_	AlignBegin=15442|AlignEnd=15562|AvgAmplitude=62.41|AvgHeightGlo=M|AvgHeightLoc=M|Duration=120|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=62.41|MeanF0=216.882|MeanF0Step=243.442|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.98|SemitonesFromUtteranceMean=2.71|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=la
 4	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=15482|AlignEnd=15662|Foot=Last|FootTone=lmh3|FootType=Weak|Group=Last|GroupTone=lmh3|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=lhh3|Period=In|Period_tone=lLh1|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak|UtteranceMeanF0=185.457
+4.1	_	_	_	_	_	4|5	Syl=2|Syl=1	_	AlignBegin=15562|AlignEnd=15742|AvgHeightGlo=M|AvgHeightLoc=M|Duration=179|Fused=Yes|Glo=ml|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Fall|SlopeLoc=Flat|SylForm=veR
 5	remarqué	remarquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	comp:aux@tense	_	AlignBegin=15662|AlignEnd=16132|Foot=Unique|FootTone=mhH2|FootType=Strong|Group=Unique|GroupTone=mhH2|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=lhh3|Period=In|Period_tone=lLh1|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 5.1	_	_	_	_	_	5	Syl=2	_	AlignBegin=15742|AlignEnd=15932|AvgAmplitude=55.73|AvgHeightGlo=M|AvgHeightLoc=M|Duration=189|Glo=ml|Loc=ml|MaxAmplitude=61.717|MeanF0=246.36|MeanF0Step=276.53|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.601|SemitonesFromUtteranceMean=4.916|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=maR
 5.2	_	_	_	_	_	5	Syl=3	_	AlignBegin=15932|AlignEnd=16132|AvgHeightGlo=H|AvgHeightLoc=H|Duration=200|Glo=hh|Loc=hm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=ke
@@ -163,6 +174,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -209,6 +225,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -237,6 +258,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -284,6 +310,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -318,6 +349,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -410,6 +446,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -458,6 +499,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -527,6 +573,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -584,6 +635,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -610,9 +666,9 @@
 7	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	comp:obl	_	AlignBegin=65532|AlignEnd=65707|Foot=Last|FootTone=hml2|FootType=Weak|Group=In|GroupTone=hhm2|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hhm2|Period=In|Period_tone=hhm2|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=65532|AlignEnd=65707|AvgAmplitude=58.792|AvgHeightGlo=M|AvgHeightLoc=M|Duration=175|Glo=mm|Loc=mm|MaxAmplitude=66.631|MeanF0=173.5|MeanF0Step=194.747|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-4.919|SemitonesFromUtteranceMean=-1.295|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=nu
 8	montre	montrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=65707|AlignEnd=66013|Foot=Begin|FootTone=mml2|FootType=Weak|Group=In|GroupTone=hhm2|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hhm2|Period=In|Period_tone=hhm2|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong|UtteranceMeanF0=186.974
-8.1	_	_	_	_	_	8	Syl=1	_	AlignBegin=65707|AlignEnd=65893|AvgAmplitude=65.271|AvgHeightGlo=M|AvgHeightLoc=M|Duration=185|Glo=mm|Loc=mm|MaxAmplitude=65.861|MeanF0=187.135|MeanF0Step=210.052|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.005|SemitonesFromUtteranceMean=0.015|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mo~
-8.2	_	_	_	_	_	8|9	Syl=2|Syl=1	_	AlignBegin=65893|AlignEnd=66103|AvgAmplitude=58.25|AvgHeightGlo=L|AvgHeightLoc=M|Duration=210|Fused=Yes|Glo=ll|Loc=mm|MaxAmplitude=63.749|MeanF0=166.053|MeanF0Step=186.388|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.523|SemitonesFromUtteranceMean=-2.054|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tR9~
+8.1	_	_	_	_	_	8|9.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=65707|AlignEnd=65893|AvgAmplitude=65.271|AvgHeightGlo=M|AvgHeightLoc=M|Duration=185|Glo=mm|Loc=mm|MaxAmplitude=65.861|MeanF0=187.135|MeanF0Step=210.052|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.005|SemitonesFromUtteranceMean=0.015|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=mo~
 9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	AlignBegin=66013|AlignEnd=66103|Foot=Last|FootTone=mml2|FootType=Weak|Group=In|GroupTone=hhm2|IU=In|Nucleus=In|Package=In|Package_type=included|PackageTone=hhm2|Period=In|Period_tone=hhm2|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong
+9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=65893|AlignEnd=66103|AvgAmplitude=58.25|AvgHeightGlo=L|AvgHeightLoc=M|Duration=210|ExternalOnset=True|Glo=ll|Loc=mm|MaxAmplitude=63.749|MeanF0=166.053|MeanF0Step=186.388|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.523|SemitonesFromUtteranceMean=-2.054|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tR9~
 10	Jésus	Jésus	PROPN	_	_	8	comp:obj	_	AlignBegin=66103|AlignEnd=66721|Foot=Unique|FootTone=mmh3|FootType=Strong|Group=Last|GroupTone=hhm2|IU=In|NextBreakLength=0.429227000000012|Nucleus=In|Package=Last|Package_type=included|PackageTone=hhm2|Period=Last|Period_tone=hhm2|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong
 10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=66103|AlignEnd=66333|AvgAmplitude=62.869|AvgHeightGlo=M|AvgHeightLoc=M|Duration=230|Glo=lm|Loc=lm|MaxAmplitude=65.727|MeanF0=178.871|MeanF0Step=200.776|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.11|SemitonesFromUtteranceMean=-0.767|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=Ze
 10.2	_	_	_	_	_	10	Syl=2	_	AlignBegin=66333|AlignEnd=66721|AvgAmplitude=62.257|AvgHeightGlo=M|AvgHeightLoc=M|Duration=388|Glo=lh|Loc=lh|MaxAmplitude=66.852|MeanF0=191.269|MeanF0Step=214.692|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-1.641|SemitonesFromUtteranceMean=0.393|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=zy
@@ -644,6 +700,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -713,6 +774,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -910,6 +976,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -967,6 +1038,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -992,6 +1068,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1024,9 +1105,9 @@
 11	inaugure	inaugurer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=114924|AlignEnd=115615|Foot=Begin|FootTone=ml|FootType=Strong|Group=Begin|GroupTone=ml|IU=In|Nucleus=In|Package=Begin|Package_type=tail|PackageTone=ml|Period=In|Period_tone=mlh1|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=tail|UtteranceMeanF0=169.866
 11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=114924|AlignEnd=115105|AvgAmplitude=56.549|AvgHeightGlo=H|AvgHeightLoc=H|Duration=180|Glo=hh|Loc=hm|MaxAmplitude=67.806|MeanF0=245.652|MeanF0Step=275.735|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.108|SemitonesFromUtteranceMean=6.387|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Fall|SylForm=?i
 11.2	_	_	_	_	_	11	Syl=2	_	AlignBegin=115105|AlignEnd=115295|AvgAmplitude=64.757|AvgHeightGlo=H|AvgHeightLoc=M|Duration=189|Glo=hm|Loc=hl|MaxAmplitude=67.657|MeanF0=217.541|MeanF0Step=244.181|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=3.387|SemitonesFromUtteranceMean=4.283|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=no
-11.3	_	_	_	_	_	11	Syl=3	_	AlignBegin=115295|AlignEnd=115575|AvgAmplitude=63.097|AvgHeightGlo=M|AvgHeightLoc=M|Duration=280|Glo=ml|Loc=ml|MaxAmplitude=65.632|MeanF0=189.75|MeanF0Step=212.987|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.111|SemitonesFromUtteranceMean=1.916|Slope=Flat|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=gy
-11.4	_	_	_	_	_	11|12	Syl=4|Syl=1	_	AlignBegin=115575|AlignEnd=115715|AvgAmplitude=60.479|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=63.17|MeanF0=160.393|MeanF0Step=180.035|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.685|SemitonesFromUtteranceMean=-0.993|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ra~
+11.3	_	_	_	_	_	11|12.1	Syl=3|ExternalOnset=Yes	_	AlignBegin=115295|AlignEnd=115575|AvgAmplitude=63.097|AvgHeightGlo=M|AvgHeightLoc=M|Duration=280|Glo=ml|Loc=ml|MaxAmplitude=65.632|MeanF0=189.75|MeanF0Step=212.987|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.111|SemitonesFromUtteranceMean=1.916|Slope=Flat|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=gy
 12	en	en	ADP	_	_	11	mod	_	AlignBegin=115615|AlignEnd=115715|Foot=In|FootTone=ml|FootType=Strong|Group=In|GroupTone=ml|IU=In|Nucleus=In|Package=In|Package_type=tail|PackageTone=ml|Period=In|Period_tone=mlh1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
+12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=115575|AlignEnd=115715|AvgAmplitude=60.479|AvgHeightGlo=M|AvgHeightLoc=M|Duration=140|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=63.17|MeanF0=160.393|MeanF0Step=180.035|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.685|SemitonesFromUtteranceMean=-0.993|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ra~
 13	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	det	_	AlignBegin=115715|AlignEnd=115911|Foot=Last|FootTone=ml|FootType=Strong|Group=In|GroupTone=ml|IU=In|Nucleus=In|Package=In|Package_type=tail|PackageTone=ml|Period=In|Period_tone=mlh1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
 13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=115715|AlignEnd=115911|AvgAmplitude=60.658|AvgHeightGlo=M|AvgHeightLoc=M|Duration=196|Glo=mm|Loc=mm|MaxAmplitude=62.664|MeanF0=157.944|MeanF0Step=177.287|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.112|SemitonesFromUtteranceMean=-1.26|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sa
 14	personne	personne	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=115911|AlignEnd=116633|Foot=Unique|FootTone=ll|FootType=tail|Group=Last|GroupTone=ml|IU=In|NextBreakLength=0.621940999999993|Nucleus=In|Package=Last|Package_type=tail|PackageTone=ml|Period=Last|Period_tone=mlh1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=tail
@@ -1108,6 +1189,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1200,6 +1286,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1252,6 +1343,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1327,6 +1423,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1403,6 +1504,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1446,6 +1552,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1496,6 +1607,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1529,9 +1645,9 @@
 10.1	_	_	_	_	_	10|11	Syl=1|Syl=1	_	AlignBegin=169454|AlignEnd=169549|AvgAmplitude=65.156|AvgHeightGlo=M|AvgHeightLoc=M|Duration=94|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=65.156|MeanF0=186.786|MeanF0Step=209.66|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.374|SemitonesFromUtteranceMean=-0.325|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=lo
 11	autorité	autorité	NOUN	_	Gender=Fem|Number=Sing	5	conj:appos	_	AlignBegin=169499|AlignEnd=170019|Foot=In|FootTone=mh|FootType=Weak|Group=In|GroupTone=mh|IU=In|Layer=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mmh3|Period=In|Period_tone=mmh3|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Weak|TypeInherited=PredInherited|TypePara=ParaDform
 11.1	_	_	_	_	_	11	Syl=2	_	AlignBegin=169549|AlignEnd=169729|AvgAmplitude=54.122|AvgHeightGlo=H|AvgHeightLoc=H|Duration=179|Glo=mh|Loc=mh|MaxAmplitude=61.425|MeanF0=189.706|MeanF0Step=212.938|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.611|SemitonesFromUtteranceMean=-0.056|Slope=Flat|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=tO
-11.2	_	_	_	_	_	11|12.1	Syl=3|ExternalOnset=Yes	_	AlignBegin=169729|AlignEnd=169899|AvgHeightGlo=M|AvgHeightLoc=M|Duration=170|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ri
+11.2	_	_	_	_	_	11	Syl=3	_	AlignBegin=169729|AlignEnd=169899|AvgAmplitude=51.566|AvgHeightGlo=M|AvgHeightLoc=M|Duration=170|Glo=mm|Loc=mm|MaxAmplitude=58.539|MeanF0=219.833|MeanF0Step=246.755|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.258|SemitonesFromUtteranceMean=2.496|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Ri
+11.3	_	_	_	_	_	11|12	Syl=4|Syl=1	_	AlignBegin=169899|AlignEnd=170079|AvgHeightGlo=H|AvgHeightLoc=H|Duration=180|Fused=Yes|Glo=hh|Loc=hh|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ted
 12	de	de	ADP	_	_	11	udep	_	AlignBegin=170019|AlignEnd=170079|Foot=Last|FootTone=mh|FootType=Weak|Group=Last|GroupTone=mh|IU=In|Layer=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mmh3|Period=In|Period_tone=mmh3|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Weak
-12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=169899|AlignEnd=170079|AvgAmplitude=51.566|AvgHeightGlo=H|AvgHeightLoc=H|Duration=180|ExternalOnset=True|Glo=hh|Loc=hh|MaxAmplitude=58.539|MeanF0=219.833|MeanF0Step=246.755|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.258|SemitonesFromUtteranceMean=2.496|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ted
 13	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	det	_	AlignBegin=170079|AlignEnd=170299|Foot=Begin|FootTone=hh|FootType=Strong|Group=Begin|GroupTone=hh|IU=In|Layer=In|Nucleus=In|Package=In|Package_type=included|PackageTone=mmh3|Period=In|Period_tone=mmh3|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=170079|AlignEnd=170299|AvgAmplitude=62.881|AvgHeightGlo=M|AvgHeightLoc=M|Duration=219|Glo=mm|Loc=mm|MaxAmplitude=64.723|MeanF0=197.889|MeanF0Step=222.123|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.05|SemitonesFromUtteranceMean=0.675|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sa
 14	vie	vie	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	AlignBegin=170299|AlignEnd=170566|Foot=Last|FootTone=hh|FootType=Strong|Group=Last|GroupTone=hh|IU=Last|Layer=Last|NextBreakLength=0.389808000000016|Nucleus=Last|Package=Last|Package_type=included|PackageTone=mmh3|Period=Last|Period_tone=mmh3|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
@@ -1550,6 +1666,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1579,6 +1700,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1621,6 +1747,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1665,6 +1796,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1708,6 +1844,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1759,6 +1900,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1772,10 +1918,10 @@
 1.1	_	_	_	_	_	1	Syl=1	_	AlignBegin=188242|AlignEnd=188337|AvgAmplitude=65.902|AvgHeightGlo=M|AvgHeightLoc=M|Duration=94|Glo=mm|Loc=mm|MaxAmplitude=65.902|MeanF0=181|MeanF0Step=203.166|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.391|SemitonesFromUtteranceMean=3.224|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=i
 2	enseigne	enseigner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=188337|AlignEnd=188887|Foot=Begin|FootTone=mL|FootType=Strong|Group=In|GroupTone=mL|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=mL|Period=In|Period_tone=mL|ProminenceFinal=0|ProminenceInitial=Weak|RhythmGroup=Strong|UtteranceMeanF0=150.245
 2.1	_	_	_	_	_	2	Syl=1	_	AlignBegin=188337|AlignEnd=188487|AvgAmplitude=64.505|AvgHeightGlo=H|AvgHeightLoc=M|Duration=150|Glo=mh|Loc=mm|MaxAmplitude=65.416|MeanF0=194.267|MeanF0Step=218.057|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-2.398|SemitonesFromUtteranceMean=4.449|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Flat|SylForm=la~
-2.2	_	_	_	_	_	2	Syl=2	_	AlignBegin=188487|AlignEnd=188787|AvgAmplitude=62.459|AvgHeightGlo=M|AvgHeightLoc=M|Duration=299|Glo=mm|Loc=mm|MaxAmplitude=64.432|MeanF0=195.143|MeanF0Step=219.04|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.893|SemitonesFromUtteranceMean=4.527|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sE
-2.3	_	_	_	_	_	2|3	Syl=3|Syl=1	_	AlignBegin=188787|AlignEnd=188947|AvgAmplitude=63.933|AvgHeightGlo=M|AvgHeightLoc=M|Duration=159|Fused=Yes|Glo=ml|Loc=ml|MaxAmplitude=64.356|MeanF0=165.594|MeanF0Step=185.873|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.794|SemitonesFromUtteranceMean=1.684|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=nja
+2.2	_	_	_	_	_	2|3.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=188487|AlignEnd=188787|AvgAmplitude=62.459|AvgHeightGlo=M|AvgHeightLoc=M|Duration=299|Glo=mm|Loc=mm|MaxAmplitude=64.432|MeanF0=195.143|MeanF0Step=219.04|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.893|SemitonesFromUtteranceMean=4.527|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=sE
 3	avec	avec	ADP	_	_	2	mod	_	AlignBegin=188887|AlignEnd=189082|Foot=In|FootTone=mL|FootType=Strong|Group=In|GroupTone=mL|IU=In|Layer=Begin|Nucleus=In|Package=In|Package_type=lone|PackageTone=mL|Period=In|Period_tone=mL|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
-3.1	_	_	_	_	_	3	Syl=2	_	AlignBegin=188947|AlignEnd=189082|AvgHeightGlo=M|AvgHeightLoc=M|Duration=134|Glo=mm|Loc=mm|PitchRangeGlo=L|PitchRangeLoc=L|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE
+3.1	_	_	_	_	_	3	Syl=1	_	AlignBegin=188787|AlignEnd=188947|AvgAmplitude=63.933|AvgHeightGlo=M|AvgHeightLoc=M|Duration=159|ExternalOnset=True|Glo=ml|Loc=ml|MaxAmplitude=64.356|MeanF0=165.594|MeanF0Step=185.873|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=3.794|SemitonesFromUtteranceMean=1.684|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=nja
+3.2	_	_	_	_	_	3	Syl=2	_	AlignBegin=188947|AlignEnd=189082|AvgAmplitude=56.719|AvgHeightGlo=M|AvgHeightLoc=M|Duration=134|Glo=mm|Loc=mm|MaxAmplitude=58.782|MeanF0=145.462|MeanF0Step=163.275|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.824|SemitonesFromUtteranceMean=-0.56|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=vE
 4	autorité	autorité	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=189082|AlignEnd=189854|Foot=Last|FootTone=mL|FootType=Strong|Group=Last|GroupTone=mL|IU=In|Layer=Last|NextBreakLength=0.473026000000004|Nucleus=In|Package=Last|Package_type=lone|PackageTone=mL|Period=Last|Period_tone=mL|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong|SpaceAfter=No
 4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=189082|AlignEnd=189217|AvgAmplitude=54.105|AvgHeightGlo=M|AvgHeightLoc=M|Duration=135|Glo=mm|Loc=mm|MaxAmplitude=62.726|MeanF0=146.5|MeanF0Step=164.441|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.309|SemitonesFromUtteranceMean=-0.437|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO
 4.2	_	_	_	_	_	4	Syl=2	_	AlignBegin=189217|AlignEnd=189407|AvgAmplitude=51.87|AvgHeightGlo=M|AvgHeightLoc=M|Duration=189|Glo=mm|Loc=mm|MaxAmplitude=63.446|MeanF0=141.76|MeanF0Step=159.12|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.764|SemitonesFromUtteranceMean=-1.006|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tO
@@ -1813,6 +1959,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1863,6 +2014,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -1915,6 +2071,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2028,6 +2189,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2096,6 +2262,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2127,9 +2298,9 @@
 11	sur	sur	ADP	_	_	10	udep	_	AlignBegin=224992|AlignEnd=225322|Foot=Unique|FootTone=ml|FootType=Strong|Group=Unique|GroupTone=ml|IU=In|Nucleus=In|Package=Last|Package_type=included|PackageTone=ml|Period=In|Period_tone=llm1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=224992|AlignEnd=225322|AvgAmplitude=52.955|AvgHeightGlo=M|AvgHeightLoc=M|Duration=330|Glo=mm|Loc=mm|MaxAmplitude=57.032|MeanF0=160.27|MeanF0Step=179.897|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.533|SemitonesFromUtteranceMean=1.094|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=syR
 12	terre	terre	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=225322|AlignEnd=225632|Foot=Begin|FootTone=ll|FootType=Strong|Group=Begin|GroupTone=lL|IU=In|Nucleus=In|Package=Begin|Package_type=lone|PackageTone=lL|Period=In|Period_tone=llm1|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong
-12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=225322|AlignEnd=225602|AvgAmplitude=64.102|AvgHeightGlo=M|AvgHeightLoc=M|Duration=280|Glo=mm|Loc=mm|MaxAmplitude=65.401|MeanF0=161.511|MeanF0Step=181.29|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.291|SemitonesFromUtteranceMean=1.228|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tE
-12.2	_	_	_	_	_	12|13	Syl=2|Syl=1	_	AlignBegin=225602|AlignEnd=225708|AvgAmplitude=63.106|AvgHeightGlo=M|AvgHeightLoc=M|Duration=106|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=63.106|MeanF0=149.476|MeanF0Step=167.781|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.693|SemitonesFromUtteranceMean=-0.113|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Re
+12.1	_	_	_	_	_	12|13.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=225322|AlignEnd=225602|AvgAmplitude=64.102|AvgHeightGlo=M|AvgHeightLoc=M|Duration=280|Glo=mm|Loc=mm|MaxAmplitude=65.401|MeanF0=161.511|MeanF0Step=181.29|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.291|SemitonesFromUtteranceMean=1.228|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=tE
 13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=225632|AlignEnd=225708|Foot=In|FootTone=ll|FootType=Strong|Group=In|GroupTone=lL|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=lL|Period=In|Period_tone=llm1|ProminenceFinal=0|ProminenceInitial=0|Reported=Yes|RhythmGroup=Strong|UtteranceMeanF0=150.452
+13.1	_	_	_	_	_	13	Syl=1	_	AlignBegin=225602|AlignEnd=225708|AvgAmplitude=63.106|AvgHeightGlo=M|AvgHeightLoc=M|Duration=106|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=63.106|MeanF0=149.476|MeanF0Step=167.781|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.693|SemitonesFromUtteranceMean=-0.113|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Re
 14	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	AlignBegin=225708|AlignEnd=225960|Foot=Last|FootTone=ll|FootType=Strong|Group=In|GroupTone=lL|IU=In|Nucleus=In|Package=In|Package_type=lone|PackageTone=lL|Period=In|Period_tone=llm1|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 14.1	_	_	_	_	_	14	Syl=1	_	AlignBegin=225708|AlignEnd=225960|AvgAmplitude=55.37|AvgHeightGlo=H|AvgHeightLoc=H|Duration=251|Glo=hm|Loc=hm|MaxAmplitude=63.569|MeanF0=146.525|MeanF0Step=164.469|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=2.143|SemitonesFromUtteranceMean=-0.458|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=tyn
 15	corvée	corvée	NOUN	_	Gender=Fem|Number=Sing	13	comp:pred	_	AlignBegin=225960|AlignEnd=226534|Foot=Unique|FootTone=lLl2|FootType=Strong|Group=Last|GroupTone=lL|IU=Last|NextBreakLength=0.62173199999998|Nucleus=Last|Package=Last|Package_type=lone|PackageTone=lL|Period=Last|Period_tone=llm1|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
@@ -2149,6 +2320,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2187,6 +2363,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2206,9 +2387,9 @@
 4.1	_	_	_	_	_	4	Syl=1	_	AlignBegin=230588|AlignEnd=230713|AvgAmplitude=58.546|AvgHeightGlo=M|AvgHeightLoc=M|Duration=124|Glo=mm|Loc=mm|MaxAmplitude=58.546|MeanF0=183.091|MeanF0Step=205.513|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.571|SemitonesFromUtteranceMean=1.861|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=ki
 5	désire	désirer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	mod@relcl	_	AlignBegin=230713|AlignEnd=231083|Foot=Begin|FootTone=mlh2|FootType=Strong|Group=Begin|GroupTone=mlh2|IU=In|Layer=In|Package=In|Package_type=included|PackageTone=mlh3|Period=In|Period_tone=mL|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=0|RhythmGroup=Strong
 5.1	_	_	_	_	_	5	Syl=1	_	AlignBegin=230713|AlignEnd=230863|AvgAmplitude=61.495|AvgHeightGlo=M|AvgHeightLoc=M|Duration=150|Glo=lm|Loc=lm|MaxAmplitude=63.592|MeanF0=176.467|MeanF0Step=198.077|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.055|SemitonesFromUtteranceMean=1.223|Slope=Flat|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=de
-5.2	_	_	_	_	_	5	Syl=2	_	AlignBegin=230863|AlignEnd=231053|AvgAmplitude=60.445|AvgHeightGlo=H|AvgHeightLoc=H|Duration=189|Glo=mh|Loc=mh|MaxAmplitude=64.491|MeanF0=188.816|MeanF0Step=211.939|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.176|SemitonesFromUtteranceMean=2.394|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=zi
-5.3	_	_	_	_	_	5|6	Syl=3|Syl=1	_	AlignBegin=231053|AlignEnd=231186|AvgAmplitude=61.935|AvgHeightGlo=M|AvgHeightLoc=M|Duration=133|Fused=Yes|Glo=mm|Loc=mm|MaxAmplitude=62.407|MeanF0=177.852|MeanF0Step=199.632|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.983|SemitonesFromUtteranceMean=1.358|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=R9~
+5.2	_	_	_	_	_	5|6.1	Syl=2|ExternalOnset=Yes	_	AlignBegin=230863|AlignEnd=231053|AvgAmplitude=60.445|AvgHeightGlo=H|AvgHeightLoc=H|Duration=189|Glo=mh|Loc=mh|MaxAmplitude=64.491|MeanF0=188.816|MeanF0Step=211.939|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.176|SemitonesFromUtteranceMean=2.394|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=zi
 6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=231083|AlignEnd=231186|Foot=In|FootTone=mlh2|FootType=Strong|Group=In|GroupTone=mlh2|InIdiom=Yes|IU=In|Layer=In|Package=In|Package_type=included|PackageTone=mlh3|Period=In|Period_tone=mL|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=231053|AlignEnd=231186|AvgAmplitude=61.935|AvgHeightGlo=M|AvgHeightLoc=M|Duration=133|ExternalOnset=True|Glo=mm|Loc=mm|MaxAmplitude=62.407|MeanF0=177.852|MeanF0Step=199.632|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.983|SemitonesFromUtteranceMean=1.358|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=R9~
 7	peu	peu	NOUN	_	ExtPos=ADV	5	comp:obj	_	AlignBegin=231186|AlignEnd=231393|Foot=In|FootTone=mlh2|FootType=Strong|Group=In|GroupTone=mlh2|Idiom=Yes|IU=In|Layer=In|Package=In|Package_type=included|PackageTone=mlh3|Period=In|Period_tone=mL|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
 7.1	_	_	_	_	_	7	Syl=1	_	AlignBegin=231186|AlignEnd=231393|AvgAmplitude=55.493|AvgHeightGlo=M|AvgHeightLoc=M|Duration=206|Glo=mm|Loc=mm|MaxAmplitude=65.648|MeanF0=187.593|MeanF0Step=210.566|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.355|SemitonesFromUtteranceMean=2.281|Slope=Fall|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=p2
 8	d'	de	ADP	_	_	7	comp:obl	_	AlignBegin=231393|AlignEnd=231463|Foot=In|FootTone=mlh2|FootType=Strong|Group=In|GroupTone=mlh2|IU=In|Layer=In|Package=In|Package_type=included|PackageTone=mlh3|Period=In|Period_tone=mL|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=Strong|RhythmGroup=Strong|SpaceAfter=No
@@ -2282,6 +2463,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2323,6 +2509,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2366,6 +2557,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2445,6 +2641,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2635,6 +2836,11 @@
 # speaker_sex = male
 # speaker_education = unspecified
 # speaker_family_social_role = unspecified
+# genre = ritual/religious texts
+# subgenre = oratory
+# task = sermon
+# modalities = speech
+# subject = unknown
 # interactivity = non-interactive
 # planning_type = planned
 # involvement = non-elicited
@@ -2667,9 +2873,9 @@
 8.3	_	_	_	_	_	8	Syl=3	_	AlignBegin=281203|AlignEnd=281389|AvgAmplitude=52.461|AvgHeightGlo=M|AvgHeightLoc=M|Duration=185|Glo=ml|Loc=ml|MaxAmplitude=53.509|MeanF0=104.636|MeanF0Step=117.45|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.478|SemitonesFromUtteranceMean=-9.472|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=dy
 9	,	,	PUNCT	_	_	10	punct	_	AlignBegin=281389|AlignEnd=282457
 10	comme	comme	ADP	_	_	8	mod	_	AlignBegin=282457|AlignEnd=282612|Foot=Begin|FootTone=mml1|FootType=Strong|Group=Begin|GroupTone=mml1|Innucleus=Begin|IU=In|Layer=In|Package=Begin|Package_type=included|PackageTone=mml2|Period=Begin|Period_tone=hhm1|Prenucleus=In|ProminenceFinal=Weak|ProminenceInitial=Pause|RhythmGroup=Strong
-10.1	_	_	_	_	_	10	Syl=1	_	AlignBegin=282457|AlignEnd=282552|AvgAmplitude=66.661|AvgHeightGlo=M|AvgHeightLoc=M|Duration=94|Glo=mm|Loc=mm|MaxAmplitude=66.661|MeanF0=191.615|MeanF0Step=215.081|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.182|SemitonesFromUtteranceMean=1.002|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO
-10.2	_	_	_	_	_	10|11	Syl=2|Syl=1	_	AlignBegin=282552|AlignEnd=282792|AvgAmplitude=55.407|AvgHeightGlo=H|AvgHeightLoc=M|Duration=240|Fused=Yes|Glo=Hl|Loc=hl|MaxAmplitude=64.648|MeanF0=158.611|MeanF0Step=178.035|PitchRangeGlo=H|PitchRangeLoc=M|Semiton=5.899|SemitonesFromUtteranceMean=-2.27|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=mla
+10.1	_	_	_	_	_	10|11.1	Syl=1|ExternalOnset=Yes	_	AlignBegin=282457|AlignEnd=282552|AvgAmplitude=66.661|AvgHeightGlo=M|AvgHeightLoc=M|Duration=94|Glo=mm|Loc=mm|MaxAmplitude=66.661|MeanF0=191.615|MeanF0Step=215.081|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.182|SemitonesFromUtteranceMean=1.002|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=kO
 11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=282612|AlignEnd=282792|Foot=In|FootTone=mml1|FootType=Strong|Group=In|GroupTone=mml1|Innucleus=In|IU=In|Layer=In|Package=In|Package_type=included|PackageTone=mml2|Period=In|Period_tone=hhm1|Prenucleus=In|ProminenceFinal=0|ProminenceInitial=0|RhythmGroup=Strong
+11.1	_	_	_	_	_	11	Syl=1	_	AlignBegin=282552|AlignEnd=282792|AvgAmplitude=55.407|AvgHeightGlo=H|AvgHeightLoc=M|Duration=240|ExternalOnset=True|Glo=Hl|Loc=hl|MaxAmplitude=64.648|MeanF0=158.611|MeanF0Step=178.035|PitchRangeGlo=H|PitchRangeLoc=M|Semiton=5.899|SemitonesFromUtteranceMean=-2.27|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=mla
 12	parole	parole	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	AlignBegin=282792|AlignEnd=283132|Foot=Last|FootTone=mml1|FootType=Strong|Group=Last|GroupTone=mml1|Innucleus=In|IU=In|Layer=In|Package=Last|Package_type=included|PackageTone=mml2|Period=In|Period_tone=hhm1|Prenucleus=In|ProminenceFinal=Strong|ProminenceInitial=0|RhythmGroup=Strong
 12.1	_	_	_	_	_	12	Syl=1	_	AlignBegin=282792|AlignEnd=282912|AvgAmplitude=63.308|AvgHeightGlo=L|AvgHeightLoc=L|Duration=120|Glo=ll|Loc=ll|MaxAmplitude=63.308|MeanF0=163.238|MeanF0Step=183.229|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.626|SemitonesFromUtteranceMean=-1.772|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=pa
 12.2	_	_	_	_	_	12	Syl=2	_	AlignBegin=282912|AlignEnd=283132|AvgAmplitude=61.507|AvgHeightGlo=H|AvgHeightLoc=H|Duration=219|Glo=mh|Loc=mh|MaxAmplitude=63.568|MeanF0=199.136|MeanF0Step=223.523|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-0.93|SemitonesFromUtteranceMean=1.669|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ROl
