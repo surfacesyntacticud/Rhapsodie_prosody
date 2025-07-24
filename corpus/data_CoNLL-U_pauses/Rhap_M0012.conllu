@@ -70,7 +70,7 @@
 24	Chavant	Chavant	PROPN	_	_	23	flat@name	_	AlignBegin=4848|AlignEnd=5262|Foot=Unique|FootTone=mLH3|FootType=Strong|Gender[lex]=Unknown|Group=Last|GroupTone=mH|IU=Last|Layer=Last|NextBreakLength=0.754384|Nucleus=Last|Package=Last|Package_type=included|PackageTone=mh|Period=Last|Period_tone=mm|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
 24.1	_	_	_	_	_	24	Syl=1	_	AlignBegin=4848|AlignEnd=5048|AvgAmplitude=79.135|AvgHeightGlo=M|AvgHeightLoc=M|Duration=200|Glo=mm|Loc=mm|MaxAmplitude=82.565|MeanF0=221.455|MeanF0Step=248.574|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=0.547|SemitonesFromUtteranceMean=0.135|Slope=Flat|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Sa
 24.2	_	_	_	_	_	24	Syl=2	_	AlignBegin=5048|AlignEnd=5262|AvgAmplitude=75.031|AvgHeightGlo=M|AvgHeightLoc=M|Duration=213|Glo=lh|Loc=lh|MaxAmplitude=77.589|MeanF0=245.515|MeanF0Step=275.581|PitchRangeGlo=M|PitchRangeLoc=M|Semiton=-5.665|SemitonesFromUtteranceMean=1.921|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=va~
-25	#	#	PUNCT	_	_	24	punct	_	Duration=0.754384
+25	#	#	PUNCT	_	_	24	punct	_	AlignBegin=5262|AlignEnd=6017|BeforeAvgAmplitude=75.031|BeforeGlo=lh|BeforeLoc=lh|BeforeMeanF0=245.515|BeforeMeanF0Step=275.581|BeforePitchRangeGlo=M|BeforePitchRangeLoc=M|BeforeSemiton=-5.665|BeforeSemitonesFromUtterance=1.921|BeforeSlope=Fall|BeforeSlopeGlo=Rise|BeforeSlopeLoc=Rise|Duration=0.754384|NextAvgAmplitude=80.612|NextGlo=mm|NextLoc=mm|NextMeanF0=211.214|NextMeanF0Step=237.08|NextPitchRangeGlo=L|NextPitchRangeLoc=L|NextSemiton=0.328|NextSemitonsFromUtterance=-1.068|NextSlope=Flat|NextSlopeGlo=Flat|NextSlopeLoc=Flat|pauseID=1-M0012-1|SilentPauseType=A
 26	.	.	PUNCT	_	_	6	punct	_	AlignBegin=5262|AlignEnd=5262
 
 # sent_id = Rhap_M0012-2
@@ -122,7 +122,7 @@
 8.2	_	_	_	_	_	8	Syl=2	_	AlignBegin=8259|AlignEnd=8499|AvgAmplitude=58.766|AvgHeightGlo=M|AvgHeightLoc=M|Duration=239|Glo=mm|Loc=mm|MaxAmplitude=59.841|MeanF0=218.318|MeanF0Step=245.054|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.426|SemitonesFromUtteranceMean=-0.495|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=fEk
 8.3	_	_	_	_	_	8	Syl=3	_	AlignBegin=8499|AlignEnd=8743|AvgAmplitude=77.156|AvgHeightGlo=H|AvgHeightLoc=H|Duration=243|Glo=hH|Loc=mH|MaxAmplitude=80.407|MeanF0=318.238|MeanF0Step=357.21|PitchRangeGlo=L|PitchRangeLoc=M|Semiton=-5.645|SemitonesFromUtteranceMean=6.029|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=ty
 8.4	_	_	_	_	_	8	Syl=4	_	AlignBegin=8743|AlignEnd=8951|AvgAmplitude=73.617|AvgHeightGlo=M|AvgHeightLoc=M|Duration=208|Glo=HL|Loc=HL|MaxAmplitude=76.73|MeanF0=258.31|MeanF0Step=289.943|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=11.391|SemitonesFromUtteranceMean=2.417|Slope=Rise|SlopeGlo=Fall|SlopeLoc=Fall|SylForm=R@
-9	#	#	PUNCT	_	_	8	punct	_	Duration=0.554478
+9	#	#	PUNCT	_	_	8	punct	_	AlignBegin=8951|AlignEnd=9506|BeforeAvgAmplitude=73.617|BeforeGlo=HL|BeforeLoc=HL|BeforeMeanF0=258.31|BeforeMeanF0Step=289.943|BeforePitchRangeGlo=H|BeforePitchRangeLoc=H|BeforeSemiton=11.391|BeforeSemitonesFromUtterance=2.417|BeforeSlope=Rise|BeforeSlopeGlo=Fall|BeforeSlopeLoc=Fall|Duration=0.554478|NextAvgAmplitude=77.97|NextGlo=mm|NextLoc=mm|NextMeanF0=209.258|NextMeanF0Step=234.884|NextPitchRangeGlo=L|NextPitchRangeLoc=L|NextSemiton=1.107|NextSemitonsFromUtterance=-1.353|NextSlope=Rise|NextSlopeGlo=Flat|NextSlopeLoc=Flat|pauseID=1-M0012-2|SilentPauseType=A
 10	.	.	PUNCT	_	_	4	punct	_	AlignBegin=8951|AlignEnd=8951
 
 # sent_id = Rhap_M0012-3
@@ -165,7 +165,7 @@
 6	Grenette	Grenette	PROPN	_	_	5	mod@appos	_	AlignBegin=10706|AlignEnd=11352|Foot=Unique|FootTone=mH|FootType=Strong|Gender[lex]=Unknown|Group=Unique|GroupTone=mH|IU=Last|NextBreakLength=0.629439|Nucleus=Last|Package=Unique|Package_type=lone|PackageTone=mH|Period=Last|Period_tone=mH|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
 6.1	_	_	_	_	_	6	Syl=1	_	AlignBegin=10706|AlignEnd=10936|AvgAmplitude=77.755|AvgHeightGlo=M|AvgHeightLoc=M|Duration=229|Glo=lm|Loc=lm|MaxAmplitude=81.959|MeanF0=211.413|MeanF0Step=237.303|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=-1.16|SemitonesFromUtteranceMean=-1.176|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=gR2
 6.2	_	_	_	_	_	6	Syl=2	_	AlignBegin=10936|AlignEnd=11352|AvgAmplitude=73.794|AvgHeightGlo=H|AvgHeightLoc=H|Duration=415|Glo=lH|Loc=lH|MaxAmplitude=81.004|MeanF0=259.548|MeanF0Step=291.332|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=-8.207|SemitonesFromUtteranceMean=2.375|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=nEt
-7	#	#	PUNCT	_	_	6	punct	_	Duration=0.629439
+7	#	#	PUNCT	_	_	6	punct	_	AlignBegin=11352|AlignEnd=11981|BeforeAvgAmplitude=73.794|BeforeGlo=lH|BeforeLoc=lH|BeforeMeanF0=259.548|BeforeMeanF0Step=291.332|BeforePitchRangeGlo=H|BeforePitchRangeLoc=H|BeforeSemiton=-8.207|BeforeSemitonesFromUtterance=2.375|BeforeSlope=Fall|BeforeSlopeGlo=Rise|BeforeSlopeLoc=Rise|Duration=0.629439|NextAvgAmplitude=74.744|NextGlo=mm|NextLoc=mm|NextMeanF0=209.5|NextMeanF0Step=235.156|NextPitchRangeGlo=L|NextPitchRangeLoc=L|NextSemiton=1.149|NextSemitonsFromUtterance=-0.547|NextSlope=Flat|NextSlopeGlo=Flat|NextSlopeLoc=Flat|pauseID=1-M0012-3|SilentPauseType=A
 8	.	.	PUNCT	_	_	2	punct	_	AlignBegin=11352|AlignEnd=11352
 
 # sent_id = Rhap_M0012-4
@@ -262,7 +262,7 @@
 9	Jaurès	Jaurès	PROPN	_	_	8	flat@name	_	AlignBegin=15195|AlignEnd=15750|Foot=Unique|FootTone=mH|FootType=Strong|Gender[lex]=Unknown|Group=Last|GroupTone=mHm2|IU=Last|NextBreakLength=0.362538000000001|Nucleus=Last|Package=Last|Package_type=lone|PackageTone=mHm2|Period=Last|Period_tone=mm|ProminenceFinal=Strong|ProminenceInitial=Weak|RhythmGroup=Strong|SpaceAfter=No
 9.1	_	_	_	_	_	9	Syl=1	_	AlignBegin=15195|AlignEnd=15365|AvgAmplitude=71.334|AvgHeightGlo=M|AvgHeightLoc=M|Duration=170|Glo=mm|Loc=mm|MaxAmplitude=75.495|MeanF0=210.543|MeanF0Step=236.326|PitchRangeGlo=L|PitchRangeLoc=L|Semiton=1.379|SemitonesFromUtteranceMean=-1.688|Slope=Rise|SlopeGlo=Flat|SlopeLoc=Flat|SylForm=Zo
 9.2	_	_	_	_	_	9	Syl=2	_	AlignBegin=15365|AlignEnd=15750|AvgAmplitude=71.869|AvgHeightGlo=H|AvgHeightLoc=H|Duration=384|Glo=lH|Loc=lH|MaxAmplitude=80.63|MeanF0=251.744|MeanF0Step=282.573|PitchRangeGlo=H|PitchRangeLoc=H|Semiton=-8.86|SemitonesFromUtteranceMean=1.407|Slope=Fall|SlopeGlo=Rise|SlopeLoc=Rise|SylForm=REs
-10	#	#	PUNCT	_	_	9	punct	_	Duration=0.362538
+10	#	#	PUNCT	_	_	9	punct	_	AlignBegin=15750|AlignEnd=16112|BeforeAvgAmplitude=71.869|BeforeGlo=lH|BeforeLoc=lH|BeforeMeanF0=251.744|BeforeMeanF0Step=282.573|BeforePitchRangeGlo=H|BeforePitchRangeLoc=H|BeforeSemiton=-8.86|BeforeSemitonesFromUtterance=1.407|BeforeSlope=Fall|BeforeSlopeGlo=Rise|BeforeSlopeLoc=Rise|Duration=0.362538|NextAvgAmplitude=80.348|NextGlo=mm|NextLoc=mm|NextMeanF0=221.222|NextMeanF0Step=248.314|NextPitchRangeGlo=L|NextPitchRangeLoc=L|NextSemiton=-0.157|NextSemitonsFromUtterance=1.721|NextSlope=Flat|NextSlopeGlo=Flat|NextSlopeLoc=Flat|pauseID=1-M0012-5|SilentPauseType=A
 11	.	.	PUNCT	_	_	2	punct	_	AlignBegin=15750|AlignEnd=15750
 
 # sent_id = Rhap_M0012-6
